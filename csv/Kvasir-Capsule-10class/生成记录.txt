@@ -1,0 +1,74 @@
+(envs_node31) [zchen72@node31 noiseFL]$ python prepare_dataset_kvasir_new10class.py 
+Normal clean mucosa: 3000
+Ileocecal valve: 3000
+Reduced mucosal view: 2906
+Pylorus: 1529
+Ulcer: 854
+Angiectasia: 866
+Foreign body: 776
+Lymphangiectasia: 592
+Erosion: 506
+Blood - fresh: 446
+After name changing:
+Normal clean mucosa: 3000
+Ileocecal valve: 3000
+Reduced mucosal view: 2906
+Pylorus: 1529
+Ulcer: 854
+Angiectasia: 866
+Foreign body: 776
+Lymphangiectasia: 592
+Erosion: 506
+Blood - fresh: 446
+---------
+before valid
+class_sidx_begin:	 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+class_sidx_end:	 [300, 300, 290, 153, 85, 87, 78, 59, 51, 45]
+valid csv len: 1448
+---
+after valid
+class_sidx_begin:	 [300, 300, 290, 153, 85, 87, 78, 59, 51, 45]
+class_sidx_end:	 [900, 900, 871, 459, 256, 260, 233, 177, 152, 134]
+---------
+before test
+class_sidx_begin:	 [300, 300, 290, 153, 85, 87, 78, 59, 51, 45]
+class_sidx_end:	 [900, 900, 871, 459, 256, 260, 233, 177, 152, 134]
+test csv len: 2894
+---
+after test
+class_sidx_begin:	 [900, 900, 871, 459, 256, 260, 233, 177, 152, 134]
+class_sidx_end:	 [1425, 1425, 1380, 727, 406, 412, 369, 281, 241, 212]
+---------
+before train client A
+class_sidx_begin:	 [900, 900, 871, 459, 256, 260, 233, 177, 152, 134]
+class_sidx_end:	 [1425, 1425, 1380, 727, 406, 412, 369, 281, 241, 212]
+train A csv len: 2536
+---
+after train client A
+class_sidx_begin:	 [1425, 1425, 1380, 727, 406, 412, 369, 281, 241, 212]
+class_sidx_end:	 [1950, 1950, 1889, 995, 556, 564, 505, 385, 330, 290]
+---------
+before train client B
+class_sidx_begin:	 [1425, 1425, 1380, 727, 406, 412, 369, 281, 241, 212]
+class_sidx_end:	 [1950, 1950, 1889, 995, 556, 564, 505, 385, 330, 290]
+train B csv len: 2536
+---
+after train client B
+class_sidx_begin:	 [1950, 1950, 1889, 995, 556, 564, 505, 385, 330, 290]
+class_sidx_end:	 [2475, 2475, 2398, 1262, 705, 715, 641, 489, 418, 368]
+---------
+before train client C
+class_sidx_begin:	 [1950, 1950, 1889, 995, 556, 564, 505, 385, 330, 290]
+class_sidx_end:	 [2475, 2475, 2398, 1262, 705, 715, 641, 489, 418, 368]
+train C csv len: 2532
+---
+after train client C
+class_sidx_begin:	 [2475, 2475, 2398, 1262, 705, 715, 641, 489, 418, 368]
+class_sidx_end:	 [3000, 3000, 2906, 1529, 854, 866, 776, 592, 506, 446]
+---------
+before train client D
+class_sidx_begin:	 [2475, 2475, 2398, 1262, 705, 715, 641, 489, 418, 368]
+class_sidx_end:	 [3000, 3000, 2906, 1529, 854, 866, 776, 592, 506, 446]
+train D csv len: 2529
+(envs_node31) [zchen72@node31 noiseFL]$ 
+

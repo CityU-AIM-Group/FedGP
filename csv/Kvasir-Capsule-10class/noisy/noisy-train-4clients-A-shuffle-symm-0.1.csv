@@ -1,0 +1,2537 @@
+imgname,category,clean_label,noisy_label,noisy_flag
+5_64440803f87b4843_19220.jpg,Angiectasia,5,5,False
+9_d369e4f163df4aba_2129.jpg,Blood - fresh,9,9,False
+5_d369e4f163df4aba_26373.jpg,Angiectasia,5,5,False
+5_64440803f87b4843_18767.jpg,Angiectasia,5,5,False
+0_8ebf0e483cac48d6_7327.jpg,Normal clean mucosa,0,0,False
+1_dca1377dec974312_16091.jpg,Ileocecal valve,1,1,False
+7_04a78ef00c5245e0_12349.jpg,Lymphangiectasia,7,7,False
+7_7ad22d50ebaf4596_28960.jpg,Lymphangiectasia,7,7,False
+2_dc221ccc65d34010_37071.jpg,Reduced mucosal view,2,2,False
+5_64440803f87b4843_18533.jpg,Angiectasia,5,5,False
+2_af9bd7d0e43741e3_29623.jpg,Reduced mucosal view,2,2,False
+0_dac1e27f7e4d4ef5_22486.jpg,Normal clean mucosa,0,0,False
+6_3ada4222967f421d_1301.jpg,Foreign body,6,6,False
+3_0531325b64674948_3485.jpg,Pylorus,3,3,False
+1_131368cc17e44240_30728.jpg,Ileocecal valve,1,1,False
+0_fc32def0e7194981_58564.jpg,Normal clean mucosa,0,0,False
+5_04a78ef00c5245e0_11612.jpg,Angiectasia,5,5,False
+9_d369e4f163df4aba_13521.jpg,Blood - fresh,9,9,False
+1_bca26705313a4644_46209.jpg,Ileocecal valve,1,1,False
+0_bc84479c66fe4da6_24360.jpg,Normal clean mucosa,0,0,False
+0_5e59c7fdb16c4228_7999.jpg,Normal clean mucosa,0,8,True
+1_8a00709108cd4e2b_17600.jpg,Ileocecal valve,1,1,False
+0_7ad22d50ebaf4596_12462.jpg,Normal clean mucosa,0,0,False
+0_dac1e27f7e4d4ef5_14889.jpg,Normal clean mucosa,0,0,False
+4_d626f4f4a5ac4785_51446.jpg,Ulcer,4,4,False
+0_0728084c8da942d9_14219.jpg,Normal clean mucosa,0,0,False
+4_d626f4f4a5ac4785_48705.jpg,Ulcer,4,4,False
+2_c11b28a8b2344716_81904.jpg,Reduced mucosal view,2,2,False
+2_48579eec79784294_18092.jpg,Reduced mucosal view,2,2,False
+3_4560e83f9afc4685_897.jpg,Pylorus,3,3,False
+1_131368cc17e44240_30479.jpg,Ileocecal valve,1,1,False
+0_3c8d5f0b90d7475d_11051.jpg,Normal clean mucosa,0,0,False
+1_131368cc17e44240_30913.jpg,Ileocecal valve,1,1,False
+9_d369e4f163df4aba_13377.jpg,Blood - fresh,9,9,False
+5_64440803f87b4843_18527.jpg,Angiectasia,5,5,False
+4_d626f4f4a5ac4785_50268.jpg,Ulcer,4,4,False
+2_8885668afb844852_25698.jpg,Reduced mucosal view,2,2,False
+7_7ad22d50ebaf4596_27431.jpg,Lymphangiectasia,7,7,False
+5_64440803f87b4843_19206.jpg,Angiectasia,5,5,False
+0_64440803f87b4843_7361.jpg,Normal clean mucosa,0,5,True
+8_0728084c8da942d9_28924.jpg,Erosion,8,8,False
+0_07c1fa15a20a4398_1734.jpg,Normal clean mucosa,0,0,False
+0_d369e4f163df4aba_49721.jpg,Normal clean mucosa,0,0,False
+0_89cdd41258c542c5_3610.jpg,Normal clean mucosa,0,0,False
+0_dac1e27f7e4d4ef5_9764.jpg,Normal clean mucosa,0,0,False
+3_bc84479c66fe4da6_9080.jpg,Pylorus,3,3,False
+2_8885668afb844852_25855.jpg,Reduced mucosal view,2,2,False
+8_8ebf0e483cac48d6_29539.jpg,Erosion,8,8,False
+0_5bb1d3cc7dc64cec_13808.jpg,Normal clean mucosa,0,0,False
+2_af9bd7d0e43741e3_29684.jpg,Reduced mucosal view,2,0,True
+1_3ada4222967f421d_40524.jpg,Ileocecal valve,1,1,False
+0_eb0203196e284797_3175.jpg,Normal clean mucosa,0,0,False
+1_5bb1d3cc7dc64cec_34141.jpg,Ileocecal valve,1,1,False
+2_5bb1d3cc7dc64cec_21464.jpg,Reduced mucosal view,2,2,False
+0_0531325b64674948_8465.jpg,Normal clean mucosa,0,0,False
+0_dac1e27f7e4d4ef5_22693.jpg,Normal clean mucosa,0,0,False
+1_131368cc17e44240_30787.jpg,Ileocecal valve,1,1,False
+4_2fc3db471f9d44c0_5445.jpg,Ulcer,4,4,False
+1_04a78ef00c5245e0_48771.jpg,Ileocecal valve,1,0,True
+3_8885668afb844852_3955.jpg,Pylorus,3,3,False
+5_64440803f87b4843_18645.jpg,Angiectasia,5,5,False
+1_6cb700585c4f4070_26549.jpg,Ileocecal valve,1,1,False
+0_bca26705313a4644_10076.jpg,Normal clean mucosa,0,0,False
+2_c11b28a8b2344716_81936.jpg,Reduced mucosal view,2,7,True
+8_fb86bc87d3874cd7_686.jpg,Erosion,8,8,False
+0_5e59c7fdb16c4228_9480.jpg,Normal clean mucosa,0,0,False
+0_3ada4222967f421d_5687.jpg,Normal clean mucosa,0,0,False
+8_0728084c8da942d9_28747.jpg,Erosion,8,9,True
+8_dac1e27f7e4d4ef5_3404.jpg,Erosion,8,8,False
+1_131368cc17e44240_31456.jpg,Ileocecal valve,1,1,False
+2_dc221ccc65d34010_49122.jpg,Reduced mucosal view,2,2,False
+2_dc221ccc65d34010_37090.jpg,Reduced mucosal view,2,2,False
+1_131368cc17e44240_30489.jpg,Ileocecal valve,1,1,False
+2_c11b28a8b2344716_76370.jpg,Reduced mucosal view,2,2,False
+1_af9bd7d0e43741e3_30250.jpg,Ileocecal valve,1,4,True
+0_3c8d5f0b90d7475d_17117.jpg,Normal clean mucosa,0,0,False
+3_c7084b3556e34619_16354.jpg,Pylorus,3,3,False
+1_7a47e8eacea04e64_63477.jpg,Ileocecal valve,1,1,False
+3_4560e83f9afc4685_879.jpg,Pylorus,3,3,False
+2_8885668afb844852_25854.jpg,Reduced mucosal view,2,2,False
+2_af9bd7d0e43741e3_29569.jpg,Reduced mucosal view,2,2,False
+3_c11b28a8b2344716_571.jpg,Pylorus,3,3,False
+2_dc221ccc65d34010_48885.jpg,Reduced mucosal view,2,2,False
+0_04a78ef00c5245e0_21086.jpg,Normal clean mucosa,0,0,False
+3_8885668afb844852_3858.jpg,Pylorus,3,3,False
+1_07c1fa15a20a4398_38619.jpg,Ileocecal valve,1,1,False
+1_131368cc17e44240_31462.jpg,Ileocecal valve,1,6,True
+8_5e59c7fdb16c4228_37750.jpg,Erosion,8,8,False
+0_eb0203196e284797_3293.jpg,Normal clean mucosa,0,0,False
+0_eb0203196e284797_6046.jpg,Normal clean mucosa,0,0,False
+0_dac1e27f7e4d4ef5_9756.jpg,Normal clean mucosa,0,0,False
+0_64440803f87b4843_7225.jpg,Normal clean mucosa,0,1,True
+4_2fc3db471f9d44c0_1735.jpg,Ulcer,4,4,False
+2_48579eec79784294_18168.jpg,Reduced mucosal view,2,2,False
+3_8ebf0e483cac48d6_2576.jpg,Pylorus,3,3,False
+2_dc221ccc65d34010_48741.jpg,Reduced mucosal view,2,2,False
+9_d369e4f163df4aba_15562.jpg,Blood - fresh,9,9,False
+3_ed02f27ef36f483e_4461.jpg,Pylorus,3,3,False
+1_131368cc17e44240_30937.jpg,Ileocecal valve,1,1,False
+1_131368cc17e44240_30932.jpg,Ileocecal valve,1,1,False
+1_fc32def0e7194981_89087.jpg,Ileocecal valve,1,1,False
+3_fe5d372e43f94f68_983.jpg,Pylorus,3,3,False
+9_d369e4f163df4aba_85980.jpg,Blood - fresh,9,9,False
+2_c11b28a8b2344716_76379.jpg,Reduced mucosal view,2,2,False
+7_7ad22d50ebaf4596_22859.jpg,Lymphangiectasia,7,7,False
+2_af9bd7d0e43741e3_29461.jpg,Reduced mucosal view,2,4,True
+2_dc221ccc65d34010_36955.jpg,Reduced mucosal view,2,2,False
+1_131368cc17e44240_30725.jpg,Ileocecal valve,1,1,False
+0_89cdd41258c542c5_13143.jpg,Normal clean mucosa,0,0,False
+8_0728084c8da942d9_28757.jpg,Erosion,8,8,False
+3_c11b28a8b2344716_606.jpg,Pylorus,3,3,False
+2_af9bd7d0e43741e3_29514.jpg,Reduced mucosal view,2,9,True
+1_04a78ef00c5245e0_48794.jpg,Ileocecal valve,1,1,False
+1_ad91cf7ca91440aa_32546.jpg,Ileocecal valve,1,7,True
+8_eb0203196e284797_6189.jpg,Erosion,8,8,False
+0_64440803f87b4843_5824.jpg,Normal clean mucosa,0,0,False
+3_0531325b64674948_3466.jpg,Pylorus,3,3,False
+2_dc221ccc65d34010_49237.jpg,Reduced mucosal view,2,6,True
+2_dc221ccc65d34010_48639.jpg,Reduced mucosal view,2,2,False
+2_48579eec79784294_18217.jpg,Reduced mucosal view,2,2,False
+1_131368cc17e44240_30630.jpg,Ileocecal valve,1,1,False
+1_fc32def0e7194981_89051.jpg,Ileocecal valve,1,1,False
+3_dac1e27f7e4d4ef5_6814.jpg,Pylorus,3,0,True
+1_131368cc17e44240_31371.jpg,Ileocecal valve,1,1,False
+9_d369e4f163df4aba_13480.jpg,Blood - fresh,9,9,False
+2_8885668afb844852_25902.jpg,Reduced mucosal view,2,2,False
+6_3ada4222967f421d_10831.jpg,Foreign body,6,7,True
+2_dc221ccc65d34010_36942.jpg,Reduced mucosal view,2,2,False
+1_5e9beaf4e66142c8_49332.jpg,Ileocecal valve,1,1,False
+0_b2134f4a6f864613_10566.jpg,Normal clean mucosa,0,0,False
+7_7ad22d50ebaf4596_29227.jpg,Lymphangiectasia,7,7,False
+2_af9bd7d0e43741e3_29661.jpg,Reduced mucosal view,2,2,False
+2_dc221ccc65d34010_49036.jpg,Reduced mucosal view,2,2,False
+8_eb0203196e284797_6190.jpg,Erosion,8,5,True
+6_3ada4222967f421d_2364.jpg,Foreign body,6,6,False
+3_89cdd41258c542c5_2685.jpg,Pylorus,3,3,False
+2_dc221ccc65d34010_49376.jpg,Reduced mucosal view,2,2,False
+9_04a78ef00c5245e0_11219.jpg,Blood - fresh,9,9,False
+2_48579eec79784294_26402.jpg,Reduced mucosal view,2,2,False
+8_eb0203196e284797_1136.jpg,Erosion,8,8,False
+1_6cb700585c4f4070_26572.jpg,Ileocecal valve,1,1,False
+4_d626f4f4a5ac4785_50330.jpg,Ulcer,4,4,False
+7_7ad22d50ebaf4596_31203.jpg,Lymphangiectasia,7,7,False
+0_dac1e27f7e4d4ef5_9854.jpg,Normal clean mucosa,0,2,True
+7_7ad22d50ebaf4596_31201.jpg,Lymphangiectasia,7,7,False
+0_8ebf0e483cac48d6_3998.jpg,Normal clean mucosa,0,0,False
+1_af9bd7d0e43741e3_30278.jpg,Ileocecal valve,1,1,False
+2_dc221ccc65d34010_48749.jpg,Reduced mucosal view,2,2,False
+5_64440803f87b4843_18858.jpg,Angiectasia,5,5,False
+6_3ada4222967f421d_2204.jpg,Foreign body,6,6,False
+1_5e59c7fdb16c4228_45153.jpg,Ileocecal valve,1,1,False
+5_64440803f87b4843_19370.jpg,Angiectasia,5,5,False
+5_64440803f87b4843_18629.jpg,Angiectasia,5,5,False
+0_0728084c8da942d9_22898.jpg,Normal clean mucosa,0,1,True
+1_dc221ccc65d34010_84331.jpg,Ileocecal valve,1,4,True
+5_04a78ef00c5245e0_5632.jpg,Angiectasia,5,5,False
+1_8a00709108cd4e2b_17608.jpg,Ileocecal valve,1,1,False
+6_8885668afb844852_8125.jpg,Foreign body,6,5,True
+3_eb0203196e284797_1116.jpg,Pylorus,3,4,True
+0_8a00709108cd4e2b_11787.jpg,Normal clean mucosa,0,0,False
+1_dca1377dec974312_16099.jpg,Ileocecal valve,1,1,False
+0_6cb700585c4f4070_14897.jpg,Normal clean mucosa,0,0,False
+9_d369e4f163df4aba_15575.jpg,Blood - fresh,9,9,False
+2_8ebf0e483cac48d6_15529.jpg,Reduced mucosal view,2,2,False
+2_c11b28a8b2344716_76306.jpg,Reduced mucosal view,2,6,True
+2_dc221ccc65d34010_36964.jpg,Reduced mucosal view,2,2,False
+3_8ebf0e483cac48d6_2620.jpg,Pylorus,3,7,True
+0_fb86bc87d3874cd7_10408.jpg,Normal clean mucosa,0,0,False
+2_48579eec79784294_26361.jpg,Reduced mucosal view,2,2,False
+1_131368cc17e44240_30654.jpg,Ileocecal valve,1,1,False
+4_2fc3db471f9d44c0_2537.jpg,Ulcer,4,4,False
+3_c7084b3556e34619_16371.jpg,Pylorus,3,3,False
+2_af9bd7d0e43741e3_29469.jpg,Reduced mucosal view,2,2,False
+3_131368cc17e44240_1224.jpg,Pylorus,3,1,True
+8_fb86bc87d3874cd7_724.jpg,Erosion,8,8,False
+2_c11b28a8b2344716_81971.jpg,Reduced mucosal view,2,1,True
+2_dc221ccc65d34010_48874.jpg,Reduced mucosal view,2,2,False
+0_48579eec79784294_5905.jpg,Normal clean mucosa,0,0,False
+1_8ebf0e483cac48d6_28635.jpg,Ileocecal valve,1,1,False
+1_fc32def0e7194981_88932.jpg,Ileocecal valve,1,1,False
+1_7a47e8eacea04e64_63437.jpg,Ileocecal valve,1,1,False
+3_39960e5e099a45ca_9080.jpg,Pylorus,3,3,False
+9_d369e4f163df4aba_13368.jpg,Blood - fresh,9,9,False
+3_0531325b64674948_3550.jpg,Pylorus,3,3,False
+2_af9bd7d0e43741e3_29683.jpg,Reduced mucosal view,2,2,False
+3_d7a271f233ba4a40_4615.jpg,Pylorus,3,3,False
+1_04a78ef00c5245e0_48565.jpg,Ileocecal valve,1,1,False
+0_3c8d5f0b90d7475d_11136.jpg,Normal clean mucosa,0,0,False
+0_5e59c7fdb16c4228_8071.jpg,Normal clean mucosa,0,0,False
+2_48579eec79784294_26492.jpg,Reduced mucosal view,2,2,False
+4_d626f4f4a5ac4785_52263.jpg,Ulcer,4,4,False
+3_eb0203196e284797_1117.jpg,Pylorus,3,3,False
+1_131368cc17e44240_31439.jpg,Ileocecal valve,1,1,False
+1_131368cc17e44240_31000.jpg,Ileocecal valve,1,1,False
+7_04a78ef00c5245e0_12366.jpg,Lymphangiectasia,7,7,False
+6_8885668afb844852_8178.jpg,Foreign body,6,6,False
+2_dc221ccc65d34010_49164.jpg,Reduced mucosal view,2,2,False
+1_131368cc17e44240_30669.jpg,Ileocecal valve,1,1,False
+1_04a78ef00c5245e0_48785.jpg,Ileocecal valve,1,1,False
+0_bca26705313a4644_23283.jpg,Normal clean mucosa,0,0,False
+4_7a47e8eacea04e64_52270.jpg,Ulcer,4,4,False
+1_7a47e8eacea04e64_63489.jpg,Ileocecal valve,1,1,False
+0_ed02f27ef36f483e_13814.jpg,Normal clean mucosa,0,0,False
+0_bca26705313a4644_9994.jpg,Normal clean mucosa,0,0,False
+5_64440803f87b4843_18599.jpg,Angiectasia,5,5,False
+1_04a78ef00c5245e0_48870.jpg,Ileocecal valve,1,1,False
+0_b2134f4a6f864613_10690.jpg,Normal clean mucosa,0,0,False
+2_dc221ccc65d34010_48668.jpg,Reduced mucosal view,2,2,False
+2_c11b28a8b2344716_76411.jpg,Reduced mucosal view,2,1,True
+2_c11b28a8b2344716_76484.jpg,Reduced mucosal view,2,2,False
+1_c7084b3556e34619_69125.jpg,Ileocecal valve,1,1,False
+0_fb86bc87d3874cd7_7236.jpg,Normal clean mucosa,0,5,True
+6_3ada4222967f421d_2181.jpg,Foreign body,6,6,False
+0_3c8d5f0b90d7475d_4960.jpg,Normal clean mucosa,0,0,False
+1_dc221ccc65d34010_84168.jpg,Ileocecal valve,1,1,False
+7_7ad22d50ebaf4596_10433.jpg,Lymphangiectasia,7,7,False
+2_48579eec79784294_26332.jpg,Reduced mucosal view,2,2,False
+1_8885668afb844852_35507.jpg,Ileocecal valve,1,1,False
+3_c11b28a8b2344716_567.jpg,Pylorus,3,3,False
+8_eb0203196e284797_6262.jpg,Erosion,8,8,False
+5_64440803f87b4843_18238.jpg,Angiectasia,5,5,False
+2_8885668afb844852_25923.jpg,Reduced mucosal view,2,2,False
+3_131368cc17e44240_1208.jpg,Pylorus,3,3,False
+0_6cb700585c4f4070_18972.jpg,Normal clean mucosa,0,0,False
+2_dc221ccc65d34010_36961.jpg,Reduced mucosal view,2,2,False
+0_dca1377dec974312_7919.jpg,Normal clean mucosa,0,0,False
+3_131368cc17e44240_1150.jpg,Pylorus,3,3,False
+5_64440803f87b4843_19322.jpg,Angiectasia,5,5,False
+6_3ada4222967f421d_2559.jpg,Foreign body,6,6,False
+2_dc221ccc65d34010_48905.jpg,Reduced mucosal view,2,2,False
+2_dc221ccc65d34010_49015.jpg,Reduced mucosal view,2,2,False
+8_dac1e27f7e4d4ef5_3395.jpg,Erosion,8,8,False
+0_04a78ef00c5245e0_21036.jpg,Normal clean mucosa,0,0,False
+7_7ad22d50ebaf4596_22852.jpg,Lymphangiectasia,7,7,False
+0_dac1e27f7e4d4ef5_5012.jpg,Normal clean mucosa,0,0,False
+2_dc221ccc65d34010_36944.jpg,Reduced mucosal view,2,2,False
+1_4560e83f9afc4685_20337.jpg,Ileocecal valve,1,1,False
+0_89cdd41258c542c5_3552.jpg,Normal clean mucosa,0,0,False
+7_7ad22d50ebaf4596_29170.jpg,Lymphangiectasia,7,9,True
+2_48579eec79784294_26486.jpg,Reduced mucosal view,2,2,False
+1_131368cc17e44240_31520.jpg,Ileocecal valve,1,1,False
+2_48579eec79784294_18109.jpg,Reduced mucosal view,2,2,False
+2_af9bd7d0e43741e3_29529.jpg,Reduced mucosal view,2,2,False
+0_131368cc17e44240_4541.jpg,Normal clean mucosa,0,0,False
+0_7ad22d50ebaf4596_12623.jpg,Normal clean mucosa,0,0,False
+2_dc221ccc65d34010_49012.jpg,Reduced mucosal view,2,2,False
+1_04a78ef00c5245e0_48463.jpg,Ileocecal valve,1,1,False
+9_d369e4f163df4aba_2127.jpg,Blood - fresh,9,6,True
+5_64440803f87b4843_21380.jpg,Angiectasia,5,5,False
+0_64440803f87b4843_7739.jpg,Normal clean mucosa,0,0,False
+8_bca26705313a4644_18133.jpg,Erosion,8,8,False
+3_0531325b64674948_3557.jpg,Pylorus,3,3,False
+2_dc221ccc65d34010_36998.jpg,Reduced mucosal view,2,2,False
+8_0728084c8da942d9_28760.jpg,Erosion,8,8,False
+3_c11b28a8b2344716_659.jpg,Pylorus,3,3,False
+2_8ebf0e483cac48d6_15532.jpg,Reduced mucosal view,2,2,False
+5_64440803f87b4843_18549.jpg,Angiectasia,5,5,False
+9_04a78ef00c5245e0_11222.jpg,Blood - fresh,9,9,False
+1_c7084b3556e34619_69134.jpg,Ileocecal valve,1,1,False
+4_d626f4f4a5ac4785_48437.jpg,Ulcer,4,4,False
+8_0728084c8da942d9_28921.jpg,Erosion,8,8,False
+9_d369e4f163df4aba_13389.jpg,Blood - fresh,9,4,True
+0_89cdd41258c542c5_4184.jpg,Normal clean mucosa,0,0,False
+0_495f16498db34d3c_21132.jpg,Normal clean mucosa,0,0,False
+1_131368cc17e44240_31258.jpg,Ileocecal valve,1,1,False
+2_dc221ccc65d34010_37097.jpg,Reduced mucosal view,2,2,False
+6_3ada4222967f421d_11468.jpg,Foreign body,6,6,False
+2_dc221ccc65d34010_49167.jpg,Reduced mucosal view,2,2,False
+2_dc221ccc65d34010_48831.jpg,Reduced mucosal view,2,2,False
+1_131368cc17e44240_31353.jpg,Ileocecal valve,1,1,False
+1_131368cc17e44240_31383.jpg,Ileocecal valve,1,1,False
+1_5bb1d3cc7dc64cec_34066.jpg,Ileocecal valve,1,1,False
+2_8885668afb844852_25684.jpg,Reduced mucosal view,2,2,False
+0_dac1e27f7e4d4ef5_9715.jpg,Normal clean mucosa,0,0,False
+5_64440803f87b4843_19208.jpg,Angiectasia,5,5,False
+6_8885668afb844852_8183.jpg,Foreign body,6,0,True
+9_d369e4f163df4aba_12093.jpg,Blood - fresh,9,8,True
+0_3c8d5f0b90d7475d_4917.jpg,Normal clean mucosa,0,0,False
+2_c11b28a8b2344716_81870.jpg,Reduced mucosal view,2,1,True
+2_5bb1d3cc7dc64cec_21539.jpg,Reduced mucosal view,2,2,False
+0_8ebf0e483cac48d6_13113.jpg,Normal clean mucosa,0,0,False
+5_64440803f87b4843_18572.jpg,Angiectasia,5,5,False
+1_8885668afb844852_35590.jpg,Ileocecal valve,1,1,False
+1_131368cc17e44240_30683.jpg,Ileocecal valve,1,1,False
+2_c11b28a8b2344716_76325.jpg,Reduced mucosal view,2,2,False
+5_b2134f4a6f864613_18042.jpg,Angiectasia,5,5,False
+1_fc32def0e7194981_88876.jpg,Ileocecal valve,1,1,False
+7_64440803f87b4843_21879.jpg,Lymphangiectasia,7,7,False
+2_dc221ccc65d34010_48718.jpg,Reduced mucosal view,2,2,False
+0_d369e4f163df4aba_8168.jpg,Normal clean mucosa,0,0,False
+2_dc221ccc65d34010_36982.jpg,Reduced mucosal view,2,2,False
+2_c11b28a8b2344716_76270.jpg,Reduced mucosal view,2,2,False
+3_8885668afb844852_3956.jpg,Pylorus,3,3,False
+7_64440803f87b4843_13741.jpg,Lymphangiectasia,7,7,False
+5_64440803f87b4843_18765.jpg,Angiectasia,5,5,False
+0_b2134f4a6f864613_4137.jpg,Normal clean mucosa,0,0,False
+8_8ebf0e483cac48d6_11682.jpg,Erosion,8,1,True
+5_64440803f87b4843_18329.jpg,Angiectasia,5,5,False
+6_8885668afb844852_8225.jpg,Foreign body,6,6,False
+1_bc84479c66fe4da6_63066.jpg,Ileocecal valve,1,1,False
+6_8885668afb844852_8094.jpg,Foreign body,6,6,False
+5_04a78ef00c5245e0_895.jpg,Angiectasia,5,5,False
+7_7ad22d50ebaf4596_31280.jpg,Lymphangiectasia,7,7,False
+9_d369e4f163df4aba_13420.jpg,Blood - fresh,9,9,False
+3_ad91cf7ca91440aa_859.jpg,Pylorus,3,3,False
+0_b2134f4a6f864613_3842.jpg,Normal clean mucosa,0,0,False
+1_6cb700585c4f4070_26587.jpg,Ileocecal valve,1,1,False
+2_dc221ccc65d34010_48581.jpg,Reduced mucosal view,2,2,False
+1_8885668afb844852_35679.jpg,Ileocecal valve,1,0,True
+3_5e59c7fdb16c4228_2772.jpg,Pylorus,3,7,True
+2_dc221ccc65d34010_49146.jpg,Reduced mucosal view,2,4,True
+0_df6b47bafe5143f5_14260.jpg,Normal clean mucosa,0,0,False
+0_3c8d5f0b90d7475d_17042.jpg,Normal clean mucosa,0,0,False
+0_dc221ccc65d34010_16642.jpg,Normal clean mucosa,0,4,True
+2_dc221ccc65d34010_49356.jpg,Reduced mucosal view,2,2,False
+0_fc32def0e7194981_22315.jpg,Normal clean mucosa,0,0,False
+1_5e59c7fdb16c4228_45168.jpg,Ileocecal valve,1,1,False
+2_48579eec79784294_18107.jpg,Reduced mucosal view,2,2,False
+0_d369e4f163df4aba_8093.jpg,Normal clean mucosa,0,0,False
+3_c11b28a8b2344716_631.jpg,Pylorus,3,3,False
+5_64440803f87b4843_18326.jpg,Angiectasia,5,5,False
+1_495f16498db34d3c_32885.jpg,Ileocecal valve,1,1,False
+2_dc221ccc65d34010_36959.jpg,Reduced mucosal view,2,2,False
+0_ed02f27ef36f483e_13912.jpg,Normal clean mucosa,0,0,False
+1_fc32def0e7194981_88957.jpg,Ileocecal valve,1,1,False
+3_8ebf0e483cac48d6_2629.jpg,Pylorus,3,3,False
+2_48579eec79784294_26417.jpg,Reduced mucosal view,2,2,False
+7_64440803f87b4843_17860.jpg,Lymphangiectasia,7,7,False
+1_131368cc17e44240_31086.jpg,Ileocecal valve,1,1,False
+2_dc221ccc65d34010_48992.jpg,Reduced mucosal view,2,5,True
+1_131368cc17e44240_31475.jpg,Ileocecal valve,1,1,False
+0_fe5d372e43f94f68_2280.jpg,Normal clean mucosa,0,0,False
+0_fc32def0e7194981_31216.jpg,Normal clean mucosa,0,0,False
+0_dac1e27f7e4d4ef5_7556.jpg,Normal clean mucosa,0,0,False
+9_d369e4f163df4aba_13520.jpg,Blood - fresh,9,4,True
+0_48579eec79784294_5181.jpg,Normal clean mucosa,0,0,False
+3_af9bd7d0e43741e3_2040.jpg,Pylorus,3,3,False
+0_fb86bc87d3874cd7_25237.jpg,Normal clean mucosa,0,0,False
+1_dc221ccc65d34010_84181.jpg,Ileocecal valve,1,1,False
+1_c7084b3556e34619_69165.jpg,Ileocecal valve,1,1,False
+2_48579eec79784294_18190.jpg,Reduced mucosal view,2,6,True
+3_bc84479c66fe4da6_9098.jpg,Pylorus,3,3,False
+6_3ada4222967f421d_1307.jpg,Foreign body,6,6,False
+7_64440803f87b4843_17939.jpg,Lymphangiectasia,7,7,False
+0_fb86bc87d3874cd7_7135.jpg,Normal clean mucosa,0,0,False
+1_5e59c7fdb16c4228_45080.jpg,Ileocecal valve,1,1,False
+7_64440803f87b4843_17841.jpg,Lymphangiectasia,7,7,False
+0_0728084c8da942d9_5329.jpg,Normal clean mucosa,0,0,False
+3_ad91cf7ca91440aa_863.jpg,Pylorus,3,3,False
+5_eb0203196e284797_1675.jpg,Angiectasia,5,5,False
+3_0531325b64674948_3530.jpg,Pylorus,3,3,False
+0_04a78ef00c5245e0_21033.jpg,Normal clean mucosa,0,0,False
+6_3ada4222967f421d_10699.jpg,Foreign body,6,6,False
+4_d626f4f4a5ac4785_44887.jpg,Ulcer,4,5,True
+3_0728084c8da942d9_4207.jpg,Pylorus,3,3,False
+1_5e59c7fdb16c4228_45097.jpg,Ileocecal valve,1,2,True
+9_d369e4f163df4aba_12063.jpg,Blood - fresh,9,9,False
+0_64440803f87b4843_9367.jpg,Normal clean mucosa,0,0,False
+2_48579eec79784294_26493.jpg,Reduced mucosal view,2,2,False
+5_64440803f87b4843_18524.jpg,Angiectasia,5,5,False
+0_df6b47bafe5143f5_10096.jpg,Normal clean mucosa,0,0,False
+0_dac1e27f7e4d4ef5_4786.jpg,Normal clean mucosa,0,0,False
+5_64440803f87b4843_18567.jpg,Angiectasia,5,5,False
+2_dc221ccc65d34010_48590.jpg,Reduced mucosal view,2,2,False
+3_d626f4f4a5ac4785_7711.jpg,Pylorus,3,3,False
+9_d369e4f163df4aba_12066.jpg,Blood - fresh,9,9,False
+2_dc221ccc65d34010_48834.jpg,Reduced mucosal view,2,2,False
+3_0531325b64674948_3469.jpg,Pylorus,3,3,False
+1_131368cc17e44240_31370.jpg,Ileocecal valve,1,1,False
+1_dc221ccc65d34010_84234.jpg,Ileocecal valve,1,1,False
+1_48579eec79784294_29748.jpg,Ileocecal valve,1,1,False
+1_5e59c7fdb16c4228_45230.jpg,Ileocecal valve,1,1,False
+2_8885668afb844852_25712.jpg,Reduced mucosal view,2,2,False
+1_c7084b3556e34619_69167.jpg,Ileocecal valve,1,1,False
+1_131368cc17e44240_30547.jpg,Ileocecal valve,1,1,False
+3_7a47e8eacea04e64_2066.jpg,Pylorus,3,3,False
+2_5bb1d3cc7dc64cec_21499.jpg,Reduced mucosal view,2,2,False
+7_7ad22d50ebaf4596_22856.jpg,Lymphangiectasia,7,7,False
+2_c11b28a8b2344716_82023.jpg,Reduced mucosal view,2,2,False
+2_48579eec79784294_18170.jpg,Reduced mucosal view,2,2,False
+2_dc221ccc65d34010_36952.jpg,Reduced mucosal view,2,2,False
+0_131368cc17e44240_4493.jpg,Normal clean mucosa,0,0,False
+2_8885668afb844852_25704.jpg,Reduced mucosal view,2,2,False
+3_af9bd7d0e43741e3_2065.jpg,Pylorus,3,3,False
+7_7ad22d50ebaf4596_31180.jpg,Lymphangiectasia,7,7,False
+3_0531325b64674948_3571.jpg,Pylorus,3,3,False
+4_2fc3db471f9d44c0_5502.jpg,Ulcer,4,4,False
+3_b2134f4a6f864613_774.jpg,Pylorus,3,0,True
+0_04a78ef00c5245e0_27986.jpg,Normal clean mucosa,0,0,False
+6_3ada4222967f421d_2445.jpg,Foreign body,6,6,False
+1_48579eec79784294_29797.jpg,Ileocecal valve,1,1,False
+3_4560e83f9afc4685_902.jpg,Pylorus,3,3,False
+3_0531325b64674948_3489.jpg,Pylorus,3,3,False
+0_64440803f87b4843_7418.jpg,Normal clean mucosa,0,0,False
+4_7a47e8eacea04e64_51610.jpg,Ulcer,4,4,False
+1_7a47e8eacea04e64_63555.jpg,Ileocecal valve,1,1,False
+1_131368cc17e44240_30940.jpg,Ileocecal valve,1,1,False
+5_64440803f87b4843_18890.jpg,Angiectasia,5,5,False
+2_c11b28a8b2344716_82053.jpg,Reduced mucosal view,2,2,False
+0_fb86bc87d3874cd7_12443.jpg,Normal clean mucosa,0,0,False
+6_3ada4222967f421d_10778.jpg,Foreign body,6,6,False
+6_8885668afb844852_15886.jpg,Foreign body,6,6,False
+8_dac1e27f7e4d4ef5_3382.jpg,Erosion,8,8,False
+2_dc221ccc65d34010_48622.jpg,Reduced mucosal view,2,4,True
+0_89cdd41258c542c5_12954.jpg,Normal clean mucosa,0,0,False
+0_6cb700585c4f4070_18969.jpg,Normal clean mucosa,0,0,False
+0_89cdd41258c542c5_3716.jpg,Normal clean mucosa,0,0,False
+1_131368cc17e44240_31023.jpg,Ileocecal valve,1,1,False
+6_3ada4222967f421d_2746.jpg,Foreign body,6,6,False
+3_ad91cf7ca91440aa_854.jpg,Pylorus,3,1,True
+5_64440803f87b4843_18377.jpg,Angiectasia,5,5,False
+1_7a47e8eacea04e64_63542.jpg,Ileocecal valve,1,1,False
+0_5e59c7fdb16c4228_39920.jpg,Normal clean mucosa,0,0,False
+8_8ebf0e483cac48d6_29537.jpg,Erosion,8,8,False
+2_8885668afb844852_25925.jpg,Reduced mucosal view,2,2,False
+5_64440803f87b4843_18835.jpg,Angiectasia,5,5,False
+3_89cdd41258c542c5_2683.jpg,Pylorus,3,3,False
+0_07c1fa15a20a4398_5067.jpg,Normal clean mucosa,0,0,False
+2_c11b28a8b2344716_81862.jpg,Reduced mucosal view,2,0,True
+1_af9bd7d0e43741e3_30178.jpg,Ileocecal valve,1,1,False
+1_3c8d5f0b90d7475d_45032.jpg,Ileocecal valve,1,1,False
+2_dc221ccc65d34010_49145.jpg,Reduced mucosal view,2,2,False
+6_48579eec79784294_1600.jpg,Foreign body,6,6,False
+3_5e59c7fdb16c4228_2728.jpg,Pylorus,3,3,False
+0_0728084c8da942d9_22976.jpg,Normal clean mucosa,0,0,False
+0_c11b28a8b2344716_27518.jpg,Normal clean mucosa,0,0,False
+2_48579eec79784294_18235.jpg,Reduced mucosal view,2,2,False
+0_0728084c8da942d9_23046.jpg,Normal clean mucosa,0,0,False
+5_eb0203196e284797_10011.jpg,Angiectasia,5,5,False
+6_3ada4222967f421d_2537.jpg,Foreign body,6,6,False
+2_dc221ccc65d34010_37101.jpg,Reduced mucosal view,2,2,False
+0_bca26705313a4644_23254.jpg,Normal clean mucosa,0,9,True
+5_64440803f87b4843_18378.jpg,Angiectasia,5,5,False
+2_c11b28a8b2344716_76295.jpg,Reduced mucosal view,2,2,False
+2_dc221ccc65d34010_48691.jpg,Reduced mucosal view,2,2,False
+4_2fc3db471f9d44c0_5478.jpg,Ulcer,4,8,True
+5_ad91cf7ca91440aa_5958.jpg,Angiectasia,5,5,False
+3_bc84479c66fe4da6_9089.jpg,Pylorus,3,9,True
+1_fc32def0e7194981_88988.jpg,Ileocecal valve,1,1,False
+1_c7084b3556e34619_69127.jpg,Ileocecal valve,1,1,False
+0_8885668afb844852_22709.jpg,Normal clean mucosa,0,0,False
+1_8ebf0e483cac48d6_28638.jpg,Ileocecal valve,1,1,False
+0_5e59c7fdb16c4228_33191.jpg,Normal clean mucosa,0,0,False
+4_2fc3db471f9d44c0_5450.jpg,Ulcer,4,4,False
+2_dc221ccc65d34010_37013.jpg,Reduced mucosal view,2,6,True
+0_64440803f87b4843_5745.jpg,Normal clean mucosa,0,0,False
+4_d626f4f4a5ac4785_48604.jpg,Ulcer,4,3,True
+2_dc221ccc65d34010_37053.jpg,Reduced mucosal view,2,2,False
+8_dac1e27f7e4d4ef5_3385.jpg,Erosion,8,8,False
+2_dc221ccc65d34010_49374.jpg,Reduced mucosal view,2,2,False
+1_7a47e8eacea04e64_63532.jpg,Ileocecal valve,1,1,False
+2_48579eec79784294_18275.jpg,Reduced mucosal view,2,2,False
+0_ed02f27ef36f483e_14206.jpg,Normal clean mucosa,0,0,False
+0_8885668afb844852_17576.jpg,Normal clean mucosa,0,0,False
+2_dc221ccc65d34010_49030.jpg,Reduced mucosal view,2,2,False
+4_2fc3db471f9d44c0_2559.jpg,Ulcer,4,4,False
+5_b2134f4a6f864613_21055.jpg,Angiectasia,5,5,False
+2_dc221ccc65d34010_48678.jpg,Reduced mucosal view,2,2,False
+1_8a00709108cd4e2b_17586.jpg,Ileocecal valve,1,1,False
+1_dc221ccc65d34010_84096.jpg,Ileocecal valve,1,1,False
+0_0531325b64674948_10084.jpg,Normal clean mucosa,0,0,False
+0_89cdd41258c542c5_13014.jpg,Normal clean mucosa,0,0,False
+5_04a78ef00c5245e0_4381.jpg,Angiectasia,5,5,False
+0_fb86bc87d3874cd7_10593.jpg,Normal clean mucosa,0,0,False
+2_48579eec79784294_18316.jpg,Reduced mucosal view,2,2,False
+3_c7084b3556e34619_16378.jpg,Pylorus,3,3,False
+1_131368cc17e44240_30678.jpg,Ileocecal valve,1,1,False
+1_c7084b3556e34619_69096.jpg,Ileocecal valve,1,1,False
+7_7ad22d50ebaf4596_31191.jpg,Lymphangiectasia,7,7,False
+0_5e59c7fdb16c4228_7936.jpg,Normal clean mucosa,0,4,True
+1_131368cc17e44240_31118.jpg,Ileocecal valve,1,1,False
+0_bc84479c66fe4da6_24357.jpg,Normal clean mucosa,0,0,False
+2_dc221ccc65d34010_48944.jpg,Reduced mucosal view,2,2,False
+0_3ada4222967f421d_5649.jpg,Normal clean mucosa,0,0,False
+2_8ebf0e483cac48d6_15405.jpg,Reduced mucosal view,2,2,False
+1_dc221ccc65d34010_84287.jpg,Ileocecal valve,1,1,False
+9_d369e4f163df4aba_14249.jpg,Blood - fresh,9,9,False
+1_131368cc17e44240_31038.jpg,Ileocecal valve,1,3,True
+6_8885668afb844852_8179.jpg,Foreign body,6,2,True
+0_6cb700585c4f4070_22011.jpg,Normal clean mucosa,0,0,False
+0_d7a271f233ba4a40_6360.jpg,Normal clean mucosa,0,0,False
+1_5e59c7fdb16c4228_45146.jpg,Ileocecal valve,1,1,False
+0_3c8d5f0b90d7475d_7146.jpg,Normal clean mucosa,0,6,True
+2_dc221ccc65d34010_48850.jpg,Reduced mucosal view,2,2,False
+6_3ada4222967f421d_2197.jpg,Foreign body,6,6,False
+5_64440803f87b4843_19378.jpg,Angiectasia,5,5,False
+0_b2134f4a6f864613_16144.jpg,Normal clean mucosa,0,3,True
+7_7ad22d50ebaf4596_29225.jpg,Lymphangiectasia,7,7,False
+0_5e59c7fdb16c4228_8301.jpg,Normal clean mucosa,0,0,False
+0_b2134f4a6f864613_2048.jpg,Normal clean mucosa,0,0,False
+9_d369e4f163df4aba_13543.jpg,Blood - fresh,9,9,False
+0_c7084b3556e34619_58637.jpg,Normal clean mucosa,0,0,False
+2_dc221ccc65d34010_48972.jpg,Reduced mucosal view,2,2,False
+6_3ada4222967f421d_10749.jpg,Foreign body,6,6,False
+0_df6b47bafe5143f5_3908.jpg,Normal clean mucosa,0,0,False
+9_d369e4f163df4aba_13474.jpg,Blood - fresh,9,9,False
+0_fb86bc87d3874cd7_30613.jpg,Normal clean mucosa,0,0,False
+3_d369e4f163df4aba_1155.jpg,Pylorus,3,3,False
+6_3ada4222967f421d_2522.jpg,Foreign body,6,6,False
+3_ed02f27ef36f483e_4450.jpg,Pylorus,3,3,False
+1_c7084b3556e34619_69175.jpg,Ileocecal valve,1,1,False
+2_dc221ccc65d34010_48751.jpg,Reduced mucosal view,2,2,False
+2_c11b28a8b2344716_81848.jpg,Reduced mucosal view,2,2,False
+1_131368cc17e44240_31265.jpg,Ileocecal valve,1,1,False
+1_131368cc17e44240_31619.jpg,Ileocecal valve,1,1,False
+8_0728084c8da942d9_28697.jpg,Erosion,8,8,False
+4_d626f4f4a5ac4785_48661.jpg,Ulcer,4,4,False
+3_131368cc17e44240_1177.jpg,Pylorus,3,3,False
+2_5bb1d3cc7dc64cec_21517.jpg,Reduced mucosal view,2,2,False
+0_4560e83f9afc4685_7036.jpg,Normal clean mucosa,0,1,True
+7_64440803f87b4843_13736.jpg,Lymphangiectasia,7,4,True
+2_48579eec79784294_18213.jpg,Reduced mucosal view,2,3,True
+8_0728084c8da942d9_28798.jpg,Erosion,8,8,False
+0_fb86bc87d3874cd7_12432.jpg,Normal clean mucosa,0,0,False
+1_c7084b3556e34619_69208.jpg,Ileocecal valve,1,1,False
+0_df6b47bafe5143f5_8964.jpg,Normal clean mucosa,0,0,False
+5_64440803f87b4843_18236.jpg,Angiectasia,5,5,False
+3_c7084b3556e34619_16376.jpg,Pylorus,3,3,False
+5_64440803f87b4843_18911.jpg,Angiectasia,5,5,False
+0_d7a271f233ba4a40_7497.jpg,Normal clean mucosa,0,0,False
+3_af9bd7d0e43741e3_2077.jpg,Pylorus,3,3,False
+3_c11b28a8b2344716_572.jpg,Pylorus,3,3,False
+1_131368cc17e44240_30954.jpg,Ileocecal valve,1,1,False
+6_3ada4222967f421d_10717.jpg,Foreign body,6,6,False
+0_48579eec79784294_4555.jpg,Normal clean mucosa,0,0,False
+0_8885668afb844852_24640.jpg,Normal clean mucosa,0,0,False
+1_131368cc17e44240_31345.jpg,Ileocecal valve,1,1,False
+0_5bb1d3cc7dc64cec_16622.jpg,Normal clean mucosa,0,0,False
+5_64440803f87b4843_18788.jpg,Angiectasia,5,5,False
+2_48579eec79784294_26399.jpg,Reduced mucosal view,2,2,False
+0_fc32def0e7194981_31336.jpg,Normal clean mucosa,0,0,False
+5_64440803f87b4843_18517.jpg,Angiectasia,5,5,False
+2_5bb1d3cc7dc64cec_21436.jpg,Reduced mucosal view,2,2,False
+0_dca1377dec974312_7979.jpg,Normal clean mucosa,0,0,False
+2_c11b28a8b2344716_76406.jpg,Reduced mucosal view,2,2,False
+1_131368cc17e44240_30768.jpg,Ileocecal valve,1,1,False
+0_dac1e27f7e4d4ef5_9813.jpg,Normal clean mucosa,0,0,False
+0_df6b47bafe5143f5_14256.jpg,Normal clean mucosa,0,0,False
+5_64440803f87b4843_18610.jpg,Angiectasia,5,5,False
+0_64440803f87b4843_7592.jpg,Normal clean mucosa,0,0,False
+2_8885668afb844852_25815.jpg,Reduced mucosal view,2,2,False
+3_8ebf0e483cac48d6_2606.jpg,Pylorus,3,3,False
+3_8885668afb844852_4019.jpg,Pylorus,3,3,False
+0_bc84479c66fe4da6_24494.jpg,Normal clean mucosa,0,0,False
+1_5e59c7fdb16c4228_45237.jpg,Ileocecal valve,1,1,False
+6_3ada4222967f421d_10729.jpg,Foreign body,6,6,False
+1_dc221ccc65d34010_84093.jpg,Ileocecal valve,1,1,False
+8_8ebf0e483cac48d6_11696.jpg,Erosion,8,8,False
+5_64440803f87b4843_18614.jpg,Angiectasia,5,5,False
+2_48579eec79784294_18279.jpg,Reduced mucosal view,2,2,False
+1_7a47e8eacea04e64_63443.jpg,Ileocecal valve,1,1,False
+3_131368cc17e44240_1181.jpg,Pylorus,3,3,False
+1_5bb1d3cc7dc64cec_34152.jpg,Ileocecal valve,1,1,False
+0_64440803f87b4843_7486.jpg,Normal clean mucosa,0,0,False
+9_d369e4f163df4aba_86117.jpg,Blood - fresh,9,9,False
+0_c11b28a8b2344716_46414.jpg,Normal clean mucosa,0,0,False
+7_7ad22d50ebaf4596_27630.jpg,Lymphangiectasia,7,7,False
+0_ed02f27ef36f483e_14024.jpg,Normal clean mucosa,0,6,True
+1_5bb1d3cc7dc64cec_34107.jpg,Ileocecal valve,1,1,False
+4_7a47e8eacea04e64_52384.jpg,Ulcer,4,4,False
+6_3ada4222967f421d_2544.jpg,Foreign body,6,6,False
+8_fb86bc87d3874cd7_677.jpg,Erosion,8,8,False
+3_8885668afb844852_3879.jpg,Pylorus,3,3,False
+0_fb86bc87d3874cd7_25219.jpg,Normal clean mucosa,0,0,False
+6_3ada4222967f421d_11580.jpg,Foreign body,6,1,True
+6_8885668afb844852_8101.jpg,Foreign body,6,6,False
+4_7a47e8eacea04e64_52373.jpg,Ulcer,4,4,False
+1_131368cc17e44240_31255.jpg,Ileocecal valve,1,1,False
+0_0531325b64674948_10170.jpg,Normal clean mucosa,0,0,False
+1_8a00709108cd4e2b_17589.jpg,Ileocecal valve,1,1,False
+0_dca1377dec974312_6053.jpg,Normal clean mucosa,0,0,False
+3_4560e83f9afc4685_898.jpg,Pylorus,3,3,False
+7_7ad22d50ebaf4596_27500.jpg,Lymphangiectasia,7,7,False
+1_fc32def0e7194981_88850.jpg,Ileocecal valve,1,1,False
+0_d369e4f163df4aba_3972.jpg,Normal clean mucosa,0,0,False
+5_64440803f87b4843_21373.jpg,Angiectasia,5,1,True
+3_64440803f87b4843_3591.jpg,Pylorus,3,3,False
+0_ed02f27ef36f483e_13957.jpg,Normal clean mucosa,0,0,False
+8_5e59c7fdb16c4228_38262.jpg,Erosion,8,9,True
+7_7ad22d50ebaf4596_27281.jpg,Lymphangiectasia,7,7,False
+4_d626f4f4a5ac4785_38600.jpg,Ulcer,4,4,False
+1_131368cc17e44240_31113.jpg,Ileocecal valve,1,1,False
+2_5bb1d3cc7dc64cec_21432.jpg,Reduced mucosal view,2,2,False
+4_2fc3db471f9d44c0_5501.jpg,Ulcer,4,4,False
+3_7ad22d50ebaf4596_2839.jpg,Pylorus,3,3,False
+2_8ebf0e483cac48d6_15506.jpg,Reduced mucosal view,2,2,False
+0_5e59c7fdb16c4228_33193.jpg,Normal clean mucosa,0,0,False
+2_5bb1d3cc7dc64cec_21434.jpg,Reduced mucosal view,2,2,False
+2_dc221ccc65d34010_37132.jpg,Reduced mucosal view,2,2,False
+3_7a47e8eacea04e64_2057.jpg,Pylorus,3,3,False
+8_bca26705313a4644_16050.jpg,Erosion,8,8,False
+4_d626f4f4a5ac4785_48615.jpg,Ulcer,4,5,True
+1_d7a271f233ba4a40_29906.jpg,Ileocecal valve,1,1,False
+0_bca26705313a4644_23459.jpg,Normal clean mucosa,0,0,False
+1_8885668afb844852_35600.jpg,Ileocecal valve,1,1,False
+2_8885668afb844852_25693.jpg,Reduced mucosal view,2,2,False
+1_dc221ccc65d34010_84210.jpg,Ileocecal valve,1,7,True
+5_64440803f87b4843_18482.jpg,Angiectasia,5,5,False
+1_131368cc17e44240_30754.jpg,Ileocecal valve,1,1,False
+3_c7084b3556e34619_16383.jpg,Pylorus,3,3,False
+1_ed02f27ef36f483e_58582.jpg,Ileocecal valve,1,1,False
+1_bc84479c66fe4da6_63069.jpg,Ileocecal valve,1,1,False
+2_8ebf0e483cac48d6_15406.jpg,Reduced mucosal view,2,2,False
+2_5bb1d3cc7dc64cec_21527.jpg,Reduced mucosal view,2,2,False
+3_bc84479c66fe4da6_9097.jpg,Pylorus,3,3,False
+1_4560e83f9afc4685_20340.jpg,Ileocecal valve,1,1,False
+2_af9bd7d0e43741e3_29492.jpg,Reduced mucosal view,2,2,False
+2_af9bd7d0e43741e3_29648.jpg,Reduced mucosal view,2,0,True
+2_8885668afb844852_25896.jpg,Reduced mucosal view,2,2,False
+1_0728084c8da942d9_30196.jpg,Ileocecal valve,1,1,False
+7_64440803f87b4843_17878.jpg,Lymphangiectasia,7,7,False
+8_5e59c7fdb16c4228_32326.jpg,Erosion,8,8,False
+1_dc221ccc65d34010_84167.jpg,Ileocecal valve,1,1,False
+1_c7084b3556e34619_69157.jpg,Ileocecal valve,1,1,False
+3_af9bd7d0e43741e3_2046.jpg,Pylorus,3,3,False
+4_d626f4f4a5ac4785_50279.jpg,Ulcer,4,2,True
+0_8ebf0e483cac48d6_3968.jpg,Normal clean mucosa,0,0,False
+2_c11b28a8b2344716_76284.jpg,Reduced mucosal view,2,2,False
+0_fc32def0e7194981_31223.jpg,Normal clean mucosa,0,0,False
+4_d626f4f4a5ac4785_48665.jpg,Ulcer,4,7,True
+2_dc221ccc65d34010_49314.jpg,Reduced mucosal view,2,2,False
+2_c11b28a8b2344716_76332.jpg,Reduced mucosal view,2,2,False
+2_8ebf0e483cac48d6_15407.jpg,Reduced mucosal view,2,2,False
+2_8885668afb844852_25897.jpg,Reduced mucosal view,2,2,False
+0_0728084c8da942d9_14165.jpg,Normal clean mucosa,0,0,False
+0_3c8d5f0b90d7475d_7073.jpg,Normal clean mucosa,0,0,False
+2_dc221ccc65d34010_48695.jpg,Reduced mucosal view,2,2,False
+4_2fc3db471f9d44c0_5466.jpg,Ulcer,4,4,False
+2_af9bd7d0e43741e3_29536.jpg,Reduced mucosal view,2,2,False
+6_8885668afb844852_8147.jpg,Foreign body,6,6,False
+7_64440803f87b4843_17949.jpg,Lymphangiectasia,7,7,False
+1_8a00709108cd4e2b_17594.jpg,Ileocecal valve,1,1,False
+0_3c8d5f0b90d7475d_16975.jpg,Normal clean mucosa,0,0,False
+1_af9bd7d0e43741e3_30277.jpg,Ileocecal valve,1,1,False
+6_3ada4222967f421d_11582.jpg,Foreign body,6,6,False
+9_04a78ef00c5245e0_11213.jpg,Blood - fresh,9,9,False
+3_bc84479c66fe4da6_9048.jpg,Pylorus,3,3,False
+0_fb86bc87d3874cd7_7178.jpg,Normal clean mucosa,0,0,False
+1_fe5d372e43f94f68_25944.jpg,Ileocecal valve,1,1,False
+4_d626f4f4a5ac4785_48631.jpg,Ulcer,4,4,False
+6_7a47e8eacea04e64_8378.jpg,Foreign body,6,6,False
+1_6cb700585c4f4070_26449.jpg,Ileocecal valve,1,1,False
+0_dca1377dec974312_14394.jpg,Normal clean mucosa,0,0,False
+4_d626f4f4a5ac4785_51753.jpg,Ulcer,4,4,False
+3_bc84479c66fe4da6_8983.jpg,Pylorus,3,3,False
+7_7ad22d50ebaf4596_27517.jpg,Lymphangiectasia,7,7,False
+2_dc221ccc65d34010_49130.jpg,Reduced mucosal view,2,2,False
+0_c7084b3556e34619_58791.jpg,Normal clean mucosa,0,0,False
+6_3ada4222967f421d_3444.jpg,Foreign body,6,6,False
+4_7a47e8eacea04e64_51629.jpg,Ulcer,4,4,False
+3_fe5d372e43f94f68_986.jpg,Pylorus,3,3,False
+0_fb86bc87d3874cd7_13504.jpg,Normal clean mucosa,0,0,False
+2_dc221ccc65d34010_49245.jpg,Reduced mucosal view,2,2,False
+2_48579eec79784294_18289.jpg,Reduced mucosal view,2,2,False
+0_8885668afb844852_24325.jpg,Normal clean mucosa,0,0,False
+1_4aebc5cb2d4847aa_28505.jpg,Ileocecal valve,1,1,False
+1_dc221ccc65d34010_84105.jpg,Ileocecal valve,1,1,False
+8_8ebf0e483cac48d6_13462.jpg,Erosion,8,8,False
+0_dac1e27f7e4d4ef5_4469.jpg,Normal clean mucosa,0,0,False
+1_6cb700585c4f4070_26480.jpg,Ileocecal valve,1,1,False
+3_bc84479c66fe4da6_9083.jpg,Pylorus,3,1,True
+2_dc221ccc65d34010_37182.jpg,Reduced mucosal view,2,2,False
+6_3ada4222967f421d_843.jpg,Foreign body,6,6,False
+1_5bb1d3cc7dc64cec_34101.jpg,Ileocecal valve,1,1,False
+9_d369e4f163df4aba_13471.jpg,Blood - fresh,9,3,True
+8_8ebf0e483cac48d6_13429.jpg,Erosion,8,8,False
+0_df6b47bafe5143f5_9008.jpg,Normal clean mucosa,0,0,False
+1_131368cc17e44240_31251.jpg,Ileocecal valve,1,1,False
+0_ed02f27ef36f483e_13751.jpg,Normal clean mucosa,0,0,False
+0_b2134f4a6f864613_2074.jpg,Normal clean mucosa,0,0,False
+0_89cdd41258c542c5_13078.jpg,Normal clean mucosa,0,0,False
+1_c7084b3556e34619_69136.jpg,Ileocecal valve,1,1,False
+9_d369e4f163df4aba_13540.jpg,Blood - fresh,9,9,False
+2_af9bd7d0e43741e3_29513.jpg,Reduced mucosal view,2,2,False
+3_0531325b64674948_3438.jpg,Pylorus,3,3,False
+0_dac1e27f7e4d4ef5_7481.jpg,Normal clean mucosa,0,0,False
+0_eb0203196e284797_3073.jpg,Normal clean mucosa,0,0,False
+4_d626f4f4a5ac4785_51396.jpg,Ulcer,4,4,False
+3_8885668afb844852_3961.jpg,Pylorus,3,9,True
+0_8885668afb844852_17553.jpg,Normal clean mucosa,0,0,False
+3_8885668afb844852_3831.jpg,Pylorus,3,3,False
+6_3ada4222967f421d_11540.jpg,Foreign body,6,6,False
+3_0531325b64674948_3549.jpg,Pylorus,3,2,True
+8_0728084c8da942d9_28689.jpg,Erosion,8,8,False
+1_dc221ccc65d34010_84184.jpg,Ileocecal valve,1,1,False
+0_bca26705313a4644_23294.jpg,Normal clean mucosa,0,0,False
+8_8ebf0e483cac48d6_13463.jpg,Erosion,8,8,False
+2_dc221ccc65d34010_48713.jpg,Reduced mucosal view,2,2,False
+5_64440803f87b4843_19368.jpg,Angiectasia,5,5,False
+0_dac1e27f7e4d4ef5_22619.jpg,Normal clean mucosa,0,0,False
+1_64440803f87b4843_32257.jpg,Ileocecal valve,1,1,False
+3_0531325b64674948_3564.jpg,Pylorus,3,3,False
+1_dc221ccc65d34010_84337.jpg,Ileocecal valve,1,1,False
+0_df6b47bafe5143f5_9985.jpg,Normal clean mucosa,0,0,False
+0_6cb700585c4f4070_18982.jpg,Normal clean mucosa,0,0,False
+6_3ada4222967f421d_10789.jpg,Foreign body,6,6,False
+1_131368cc17e44240_30863.jpg,Ileocecal valve,1,1,False
+1_04a78ef00c5245e0_48746.jpg,Ileocecal valve,1,1,False
+9_d369e4f163df4aba_15565.jpg,Blood - fresh,9,9,False
+0_131368cc17e44240_4503.jpg,Normal clean mucosa,0,0,False
+5_64440803f87b4843_18582.jpg,Angiectasia,5,5,False
+1_131368cc17e44240_31399.jpg,Ileocecal valve,1,1,False
+9_d369e4f163df4aba_13459.jpg,Blood - fresh,9,9,False
+4_d626f4f4a5ac4785_51375.jpg,Ulcer,4,4,False
+2_c11b28a8b2344716_81974.jpg,Reduced mucosal view,2,2,False
+1_5e59c7fdb16c4228_45246.jpg,Ileocecal valve,1,1,False
+2_c11b28a8b2344716_76404.jpg,Reduced mucosal view,2,2,False
+0_64440803f87b4843_9553.jpg,Normal clean mucosa,0,0,False
+8_0728084c8da942d9_28691.jpg,Erosion,8,8,False
+6_3ada4222967f421d_2145.jpg,Foreign body,6,6,False
+3_eb0203196e284797_1136.jpg,Pylorus,3,3,False
+0_8ebf0e483cac48d6_13188.jpg,Normal clean mucosa,0,0,False
+0_5e59c7fdb16c4228_33122.jpg,Normal clean mucosa,0,0,False
+4_d626f4f4a5ac4785_48750.jpg,Ulcer,4,4,False
+8_bca26705313a4644_16405.jpg,Erosion,8,8,False
+1_131368cc17e44240_30893.jpg,Ileocecal valve,1,1,False
+0_dac1e27f7e4d4ef5_7535.jpg,Normal clean mucosa,0,0,False
+0_ed02f27ef36f483e_13982.jpg,Normal clean mucosa,0,0,False
+1_131368cc17e44240_31500.jpg,Ileocecal valve,1,1,False
+0_fc32def0e7194981_22446.jpg,Normal clean mucosa,0,0,False
+2_dc221ccc65d34010_36974.jpg,Reduced mucosal view,2,2,False
+1_131368cc17e44240_30496.jpg,Ileocecal valve,1,1,False
+2_dc221ccc65d34010_48911.jpg,Reduced mucosal view,2,2,False
+1_04a78ef00c5245e0_48797.jpg,Ileocecal valve,1,1,False
+1_131368cc17e44240_31648.jpg,Ileocecal valve,1,1,False
+5_04a78ef00c5245e0_4769.jpg,Angiectasia,5,5,False
+2_c11b28a8b2344716_76309.jpg,Reduced mucosal view,2,2,False
+2_dc221ccc65d34010_37160.jpg,Reduced mucosal view,2,2,False
+9_d369e4f163df4aba_13496.jpg,Blood - fresh,9,9,False
+2_48579eec79784294_18262.jpg,Reduced mucosal view,2,2,False
+3_3ada4222967f421d_3256.jpg,Pylorus,3,3,False
+3_bc84479c66fe4da6_8999.jpg,Pylorus,3,3,False
+2_dc221ccc65d34010_48966.jpg,Reduced mucosal view,2,2,False
+0_5e59c7fdb16c4228_3370.jpg,Normal clean mucosa,0,0,False
+4_2fc3db471f9d44c0_1723.jpg,Ulcer,4,6,True
+3_48579eec79784294_1310.jpg,Pylorus,3,3,False
+1_af9bd7d0e43741e3_30149.jpg,Ileocecal valve,1,1,False
+0_4560e83f9afc4685_6748.jpg,Normal clean mucosa,0,0,False
+9_d369e4f163df4aba_13465.jpg,Blood - fresh,9,9,False
+3_8885668afb844852_3915.jpg,Pylorus,3,3,False
+1_d7a271f233ba4a40_29891.jpg,Ileocecal valve,1,1,False
+6_3ada4222967f421d_1905.jpg,Foreign body,6,6,False
+2_dc221ccc65d34010_49090.jpg,Reduced mucosal view,2,2,False
+0_5e9beaf4e66142c8_11718.jpg,Normal clean mucosa,0,0,False
+6_8885668afb844852_15871.jpg,Foreign body,6,6,False
+3_8ebf0e483cac48d6_2611.jpg,Pylorus,3,3,False
+0_c11b28a8b2344716_46479.jpg,Normal clean mucosa,0,0,False
+7_04a78ef00c5245e0_12408.jpg,Lymphangiectasia,7,7,False
+3_7a47e8eacea04e64_2026.jpg,Pylorus,3,3,False
+2_dc221ccc65d34010_48891.jpg,Reduced mucosal view,2,2,False
+1_fc32def0e7194981_88908.jpg,Ileocecal valve,1,1,False
+5_eb0203196e284797_10013.jpg,Angiectasia,5,5,False
+1_ad91cf7ca91440aa_32574.jpg,Ileocecal valve,1,1,False
+5_04a78ef00c5245e0_889.jpg,Angiectasia,5,5,False
+6_3ada4222967f421d_2156.jpg,Foreign body,6,6,False
+1_ad91cf7ca91440aa_32564.jpg,Ileocecal valve,1,1,False
+4_d626f4f4a5ac4785_50629.jpg,Ulcer,4,4,False
+1_5bb1d3cc7dc64cec_34096.jpg,Ileocecal valve,1,1,False
+2_af9bd7d0e43741e3_29480.jpg,Reduced mucosal view,2,4,True
+1_7a47e8eacea04e64_63448.jpg,Ileocecal valve,1,1,False
+4_2fc3db471f9d44c0_5511.jpg,Ulcer,4,4,False
+1_dc221ccc65d34010_84212.jpg,Ileocecal valve,1,1,False
+1_7a47e8eacea04e64_63495.jpg,Ileocecal valve,1,1,False
+2_dc221ccc65d34010_49117.jpg,Reduced mucosal view,2,2,False
+2_8885668afb844852_25828.jpg,Reduced mucosal view,2,2,False
+7_7ad22d50ebaf4596_10424.jpg,Lymphangiectasia,7,7,False
+3_af9bd7d0e43741e3_2038.jpg,Pylorus,3,3,False
+6_8885668afb844852_8091.jpg,Foreign body,6,6,False
+2_dc221ccc65d34010_37117.jpg,Reduced mucosal view,2,2,False
+2_8885668afb844852_25749.jpg,Reduced mucosal view,2,2,False
+0_8885668afb844852_24496.jpg,Normal clean mucosa,0,2,True
+1_131368cc17e44240_31639.jpg,Ileocecal valve,1,1,False
+0_df6b47bafe5143f5_2566.jpg,Normal clean mucosa,0,0,False
+5_64440803f87b4843_18514.jpg,Angiectasia,5,5,False
+3_8885668afb844852_3908.jpg,Pylorus,3,3,False
+1_8885668afb844852_35549.jpg,Ileocecal valve,1,1,False
+6_3ada4222967f421d_2471.jpg,Foreign body,6,6,False
+1_131368cc17e44240_31220.jpg,Ileocecal valve,1,1,False
+0_d7a271f233ba4a40_11173.jpg,Normal clean mucosa,0,0,False
+3_bc84479c66fe4da6_9066.jpg,Pylorus,3,3,False
+1_7a47e8eacea04e64_63455.jpg,Ileocecal valve,1,7,True
+0_5e59c7fdb16c4228_4350.jpg,Normal clean mucosa,0,0,False
+5_64440803f87b4843_19223.jpg,Angiectasia,5,5,False
+6_3ada4222967f421d_2393.jpg,Foreign body,6,6,False
+3_7a47e8eacea04e64_2060.jpg,Pylorus,3,3,False
+5_04a78ef00c5245e0_11631.jpg,Angiectasia,5,5,False
+9_d369e4f163df4aba_12024.jpg,Blood - fresh,9,9,False
+2_dc221ccc65d34010_36930.jpg,Reduced mucosal view,2,2,False
+0_64440803f87b4843_7363.jpg,Normal clean mucosa,0,0,False
+3_131368cc17e44240_1152.jpg,Pylorus,3,3,False
+3_5e59c7fdb16c4228_2769.jpg,Pylorus,3,3,False
+1_5e59c7fdb16c4228_45172.jpg,Ileocecal valve,1,4,True
+8_eb0203196e284797_1126.jpg,Erosion,8,8,False
+3_eb0203196e284797_1118.jpg,Pylorus,3,3,False
+1_39960e5e099a45ca_32918.jpg,Ileocecal valve,1,1,False
+1_af9bd7d0e43741e3_30164.jpg,Ileocecal valve,1,1,False
+2_dc221ccc65d34010_48766.jpg,Reduced mucosal view,2,2,False
+2_dc221ccc65d34010_49293.jpg,Reduced mucosal view,2,2,False
+4_d626f4f4a5ac4785_48598.jpg,Ulcer,4,4,False
+1_04a78ef00c5245e0_48730.jpg,Ileocecal valve,1,1,False
+3_131368cc17e44240_1160.jpg,Pylorus,3,3,False
+2_af9bd7d0e43741e3_29599.jpg,Reduced mucosal view,2,2,False
+3_04a78ef00c5245e0_11815.jpg,Pylorus,3,3,False
+2_af9bd7d0e43741e3_29594.jpg,Reduced mucosal view,2,2,False
+1_c7084b3556e34619_69168.jpg,Ileocecal valve,1,1,False
+3_131368cc17e44240_1214.jpg,Pylorus,3,3,False
+1_d7a271f233ba4a40_29886.jpg,Ileocecal valve,1,3,True
+2_dc221ccc65d34010_37167.jpg,Reduced mucosal view,2,2,False
+8_8ebf0e483cac48d6_29204.jpg,Erosion,8,8,False
+3_89cdd41258c542c5_2663.jpg,Pylorus,3,3,False
+3_0531325b64674948_3538.jpg,Pylorus,3,3,False
+6_8885668afb844852_15873.jpg,Foreign body,6,3,True
+1_04a78ef00c5245e0_48468.jpg,Ileocecal valve,1,1,False
+0_5e59c7fdb16c4228_4337.jpg,Normal clean mucosa,0,0,False
+2_dc221ccc65d34010_48797.jpg,Reduced mucosal view,2,3,True
+0_df6b47bafe5143f5_2723.jpg,Normal clean mucosa,0,0,False
+0_8ebf0e483cac48d6_13215.jpg,Normal clean mucosa,0,0,False
+1_131368cc17e44240_31284.jpg,Ileocecal valve,1,1,False
+4_2fc3db471f9d44c0_5441.jpg,Ulcer,4,4,False
+0_8885668afb844852_24427.jpg,Normal clean mucosa,0,0,False
+5_64440803f87b4843_18668.jpg,Angiectasia,5,5,False
+3_fb86bc87d3874cd7_3661.jpg,Pylorus,3,3,False
+1_131368cc17e44240_30486.jpg,Ileocecal valve,1,1,False
+4_d626f4f4a5ac4785_50963.jpg,Ulcer,4,4,False
+3_131368cc17e44240_1212.jpg,Pylorus,3,3,False
+7_64440803f87b4843_13742.jpg,Lymphangiectasia,7,7,False
+0_bc84479c66fe4da6_24038.jpg,Normal clean mucosa,0,0,False
+0_3c8d5f0b90d7475d_11132.jpg,Normal clean mucosa,0,0,False
+0_b2134f4a6f864613_3899.jpg,Normal clean mucosa,0,8,True
+2_48579eec79784294_18131.jpg,Reduced mucosal view,2,2,False
+4_d626f4f4a5ac4785_48521.jpg,Ulcer,4,4,False
+1_df6b47bafe5143f5_19230.jpg,Ileocecal valve,1,1,False
+2_48579eec79784294_26363.jpg,Reduced mucosal view,2,2,False
+1_131368cc17e44240_30591.jpg,Ileocecal valve,1,1,False
+9_d369e4f163df4aba_12037.jpg,Blood - fresh,9,9,False
+2_dc221ccc65d34010_37086.jpg,Reduced mucosal view,2,2,False
+0_0728084c8da942d9_11043.jpg,Normal clean mucosa,0,0,False
+1_7a47e8eacea04e64_63536.jpg,Ileocecal valve,1,1,False
+1_04a78ef00c5245e0_48486.jpg,Ileocecal valve,1,1,False
+4_7a47e8eacea04e64_52394.jpg,Ulcer,4,4,False
+2_dc221ccc65d34010_49092.jpg,Reduced mucosal view,2,2,False
+1_fc32def0e7194981_89088.jpg,Ileocecal valve,1,1,False
+1_131368cc17e44240_31513.jpg,Ileocecal valve,1,1,False
+5_64440803f87b4843_21382.jpg,Angiectasia,5,5,False
+9_d369e4f163df4aba_14238.jpg,Blood - fresh,9,9,False
+0_0728084c8da942d9_14200.jpg,Normal clean mucosa,0,0,False
+8_5e59c7fdb16c4228_32335.jpg,Erosion,8,8,False
+1_fc32def0e7194981_89085.jpg,Ileocecal valve,1,1,False
+4_d626f4f4a5ac4785_51492.jpg,Ulcer,4,4,False
+2_dc221ccc65d34010_49320.jpg,Reduced mucosal view,2,2,False
+1_af9bd7d0e43741e3_30219.jpg,Ileocecal valve,1,1,False
+6_3ada4222967f421d_2747.jpg,Foreign body,6,6,False
+0_dac1e27f7e4d4ef5_22514.jpg,Normal clean mucosa,0,0,False
+2_af9bd7d0e43741e3_29487.jpg,Reduced mucosal view,2,2,False
+6_8885668afb844852_8213.jpg,Foreign body,6,6,False
+1_af9bd7d0e43741e3_30154.jpg,Ileocecal valve,1,1,False
+1_fc32def0e7194981_88943.jpg,Ileocecal valve,1,1,False
+1_4aebc5cb2d4847aa_28538.jpg,Ileocecal valve,1,1,False
+1_5e9beaf4e66142c8_49327.jpg,Ileocecal valve,1,1,False
+2_48579eec79784294_18264.jpg,Reduced mucosal view,2,2,False
+0_fe5d372e43f94f68_2683.jpg,Normal clean mucosa,0,0,False
+5_64440803f87b4843_18573.jpg,Angiectasia,5,5,False
+1_dc221ccc65d34010_84141.jpg,Ileocecal valve,1,1,False
+1_af9bd7d0e43741e3_30229.jpg,Ileocecal valve,1,1,False
+3_7a47e8eacea04e64_2008.jpg,Pylorus,3,7,True
+1_131368cc17e44240_31660.jpg,Ileocecal valve,1,1,False
+9_d369e4f163df4aba_12097.jpg,Blood - fresh,9,9,False
+1_6cb700585c4f4070_26552.jpg,Ileocecal valve,1,7,True
+5_64440803f87b4843_18750.jpg,Angiectasia,5,5,False
+6_3ada4222967f421d_11481.jpg,Foreign body,6,6,False
+3_131368cc17e44240_1219.jpg,Pylorus,3,3,False
+1_04a78ef00c5245e0_48723.jpg,Ileocecal valve,1,1,False
+0_eb0203196e284797_3289.jpg,Normal clean mucosa,0,0,False
+5_64440803f87b4843_21365.jpg,Angiectasia,5,5,False
+1_131368cc17e44240_31079.jpg,Ileocecal valve,1,1,False
+4_d626f4f4a5ac4785_38703.jpg,Ulcer,4,4,False
+2_c11b28a8b2344716_81867.jpg,Reduced mucosal view,2,2,False
+0_8885668afb844852_24398.jpg,Normal clean mucosa,0,7,True
+0_5e59c7fdb16c4228_3376.jpg,Normal clean mucosa,0,0,False
+4_d626f4f4a5ac4785_48541.jpg,Ulcer,4,4,False
+5_64440803f87b4843_18618.jpg,Angiectasia,5,5,False
+0_fc32def0e7194981_31199.jpg,Normal clean mucosa,0,0,False
+5_64440803f87b4843_18724.jpg,Angiectasia,5,5,False
+0_d7a271f233ba4a40_7535.jpg,Normal clean mucosa,0,0,False
+0_495f16498db34d3c_10842.jpg,Normal clean mucosa,0,0,False
+2_48579eec79784294_18225.jpg,Reduced mucosal view,2,4,True
+2_dc221ccc65d34010_48623.jpg,Reduced mucosal view,2,2,False
+2_dc221ccc65d34010_48955.jpg,Reduced mucosal view,2,2,False
+3_64440803f87b4843_3579.jpg,Pylorus,3,3,False
+3_4560e83f9afc4685_881.jpg,Pylorus,3,5,True
+0_6cb700585c4f4070_21841.jpg,Normal clean mucosa,0,0,False
+2_c11b28a8b2344716_81916.jpg,Reduced mucosal view,2,2,False
+3_131368cc17e44240_1144.jpg,Pylorus,3,3,False
+4_d626f4f4a5ac4785_48409.jpg,Ulcer,4,4,False
+5_64440803f87b4843_21377.jpg,Angiectasia,5,5,False
+5_64440803f87b4843_18756.jpg,Angiectasia,5,5,False
+1_04a78ef00c5245e0_48711.jpg,Ileocecal valve,1,1,False
+7_64440803f87b4843_13761.jpg,Lymphangiectasia,7,7,False
+3_8885668afb844852_3994.jpg,Pylorus,3,3,False
+0_8a00709108cd4e2b_11692.jpg,Normal clean mucosa,0,0,False
+2_c11b28a8b2344716_76464.jpg,Reduced mucosal view,2,2,False
+7_64440803f87b4843_17945.jpg,Lymphangiectasia,7,7,False
+3_131368cc17e44240_1217.jpg,Pylorus,3,5,True
+4_7a47e8eacea04e64_52355.jpg,Ulcer,4,3,True
+0_64440803f87b4843_9496.jpg,Normal clean mucosa,0,0,False
+3_c11b28a8b2344716_646.jpg,Pylorus,3,3,False
+0_fb86bc87d3874cd7_10456.jpg,Normal clean mucosa,0,0,False
+2_dc221ccc65d34010_48757.jpg,Reduced mucosal view,2,2,False
+2_dc221ccc65d34010_37146.jpg,Reduced mucosal view,2,2,False
+3_8885668afb844852_4002.jpg,Pylorus,3,3,False
+1_5e9beaf4e66142c8_49314.jpg,Ileocecal valve,1,1,False
+3_8885668afb844852_3865.jpg,Pylorus,3,3,False
+2_dc221ccc65d34010_37113.jpg,Reduced mucosal view,2,2,False
+2_dc221ccc65d34010_48654.jpg,Reduced mucosal view,2,2,False
+0_fc32def0e7194981_31429.jpg,Normal clean mucosa,0,0,False
+2_5bb1d3cc7dc64cec_21579.jpg,Reduced mucosal view,2,2,False
+2_dc221ccc65d34010_49312.jpg,Reduced mucosal view,2,2,False
+1_7a47e8eacea04e64_63496.jpg,Ileocecal valve,1,1,False
+9_d369e4f163df4aba_12071.jpg,Blood - fresh,9,9,False
+7_7ad22d50ebaf4596_22842.jpg,Lymphangiectasia,7,7,False
+1_04a78ef00c5245e0_48823.jpg,Ileocecal valve,1,1,False
+1_64440803f87b4843_32253.jpg,Ileocecal valve,1,1,False
+6_3ada4222967f421d_2178.jpg,Foreign body,6,9,True
+6_3ada4222967f421d_2413.jpg,Foreign body,6,6,False
+2_8885668afb844852_25676.jpg,Reduced mucosal view,2,2,False
+1_04a78ef00c5245e0_48865.jpg,Ileocecal valve,1,1,False
+1_131368cc17e44240_31307.jpg,Ileocecal valve,1,1,False
+2_8885668afb844852_25686.jpg,Reduced mucosal view,2,2,False
+5_64440803f87b4843_18493.jpg,Angiectasia,5,5,False
+1_af9bd7d0e43741e3_30179.jpg,Ileocecal valve,1,1,False
+1_131368cc17e44240_30551.jpg,Ileocecal valve,1,1,False
+0_5e59c7fdb16c4228_33190.jpg,Normal clean mucosa,0,0,False
+7_7ad22d50ebaf4596_22853.jpg,Lymphangiectasia,7,7,False
+2_48579eec79784294_18285.jpg,Reduced mucosal view,2,2,False
+4_7a47e8eacea04e64_52378.jpg,Ulcer,4,4,False
+1_5e59c7fdb16c4228_45180.jpg,Ileocecal valve,1,1,False
+0_04a78ef00c5245e0_12921.jpg,Normal clean mucosa,0,0,False
+6_3ada4222967f421d_10730.jpg,Foreign body,6,6,False
+0_5e59c7fdb16c4228_7761.jpg,Normal clean mucosa,0,0,False
+0_64440803f87b4843_7628.jpg,Normal clean mucosa,0,9,True
+0_dac1e27f7e4d4ef5_22596.jpg,Normal clean mucosa,0,0,False
+2_8885668afb844852_25731.jpg,Reduced mucosal view,2,2,False
+3_b2134f4a6f864613_772.jpg,Pylorus,3,3,False
+9_d369e4f163df4aba_14241.jpg,Blood - fresh,9,9,False
+3_dca1377dec974312_1565.jpg,Pylorus,3,3,False
+0_89cdd41258c542c5_3671.jpg,Normal clean mucosa,0,9,True
+0_fb86bc87d3874cd7_12439.jpg,Normal clean mucosa,0,0,False
+4_d626f4f4a5ac4785_51627.jpg,Ulcer,4,4,False
+6_3ada4222967f421d_2530.jpg,Foreign body,6,6,False
+7_04a78ef00c5245e0_12386.jpg,Lymphangiectasia,7,7,False
+1_131368cc17e44240_31044.jpg,Ileocecal valve,1,1,False
+6_8885668afb844852_8110.jpg,Foreign body,6,6,False
+6_3ada4222967f421d_2168.jpg,Foreign body,6,6,False
+0_fb86bc87d3874cd7_25408.jpg,Normal clean mucosa,0,0,False
+2_48579eec79784294_18248.jpg,Reduced mucosal view,2,2,False
+2_48579eec79784294_26457.jpg,Reduced mucosal view,2,2,False
+1_131368cc17e44240_31675.jpg,Ileocecal valve,1,1,False
+1_dc221ccc65d34010_84244.jpg,Ileocecal valve,1,2,True
+1_5e9beaf4e66142c8_49287.jpg,Ileocecal valve,1,1,False
+2_dc221ccc65d34010_49371.jpg,Reduced mucosal view,2,2,False
+6_3ada4222967f421d_1524.jpg,Foreign body,6,6,False
+9_d369e4f163df4aba_13476.jpg,Blood - fresh,9,9,False
+5_64440803f87b4843_18797.jpg,Angiectasia,5,5,False
+0_5e9beaf4e66142c8_11720.jpg,Normal clean mucosa,0,2,True
+0_d7a271f233ba4a40_7493.jpg,Normal clean mucosa,0,0,False
+8_8ebf0e483cac48d6_11687.jpg,Erosion,8,8,False
+1_dc221ccc65d34010_84324.jpg,Ileocecal valve,1,1,False
+1_131368cc17e44240_30721.jpg,Ileocecal valve,1,1,False
+0_3c8d5f0b90d7475d_11029.jpg,Normal clean mucosa,0,0,False
+1_fc32def0e7194981_88924.jpg,Ileocecal valve,1,1,False
+1_7a47e8eacea04e64_63577.jpg,Ileocecal valve,1,1,False
+3_bc84479c66fe4da6_9053.jpg,Pylorus,3,3,False
+2_dc221ccc65d34010_49069.jpg,Reduced mucosal view,2,2,False
+4_d626f4f4a5ac4785_48440.jpg,Ulcer,4,4,False
+2_48579eec79784294_26350.jpg,Reduced mucosal view,2,2,False
+1_131368cc17e44240_30974.jpg,Ileocecal valve,1,1,False
+0_dac1e27f7e4d4ef5_19130.jpg,Normal clean mucosa,0,0,False
+3_dac1e27f7e4d4ef5_6810.jpg,Pylorus,3,3,False
+2_48579eec79784294_18211.jpg,Reduced mucosal view,2,2,False
+4_d626f4f4a5ac4785_48504.jpg,Ulcer,4,4,False
+2_dc221ccc65d34010_37017.jpg,Reduced mucosal view,2,2,False
+0_8ebf0e483cac48d6_7310.jpg,Normal clean mucosa,0,0,False
+2_dc221ccc65d34010_49341.jpg,Reduced mucosal view,2,2,False
+2_dc221ccc65d34010_48930.jpg,Reduced mucosal view,2,2,False
+1_131368cc17e44240_31665.jpg,Ileocecal valve,1,1,False
+4_d626f4f4a5ac4785_48662.jpg,Ulcer,4,4,False
+1_131368cc17e44240_31612.jpg,Ileocecal valve,1,1,False
+6_8885668afb844852_8119.jpg,Foreign body,6,6,False
+1_6cb700585c4f4070_26521.jpg,Ileocecal valve,1,1,False
+0_131368cc17e44240_5597.jpg,Normal clean mucosa,0,0,False
+7_64440803f87b4843_17883.jpg,Lymphangiectasia,7,7,False
+1_fc32def0e7194981_89037.jpg,Ileocecal valve,1,1,False
+3_0531325b64674948_3457.jpg,Pylorus,3,3,False
+5_64440803f87b4843_19161.jpg,Angiectasia,5,5,False
+2_c11b28a8b2344716_81888.jpg,Reduced mucosal view,2,2,False
+7_7ad22d50ebaf4596_27634.jpg,Lymphangiectasia,7,7,False
+1_131368cc17e44240_31623.jpg,Ileocecal valve,1,1,False
+1_131368cc17e44240_30694.jpg,Ileocecal valve,1,1,False
+1_5e9beaf4e66142c8_49292.jpg,Ileocecal valve,1,1,False
+2_dc221ccc65d34010_36958.jpg,Reduced mucosal view,2,2,False
+5_b2134f4a6f864613_21036.jpg,Angiectasia,5,5,False
+3_5e59c7fdb16c4228_2767.jpg,Pylorus,3,5,True
+1_131368cc17e44240_31436.jpg,Ileocecal valve,1,1,False
+3_5e59c7fdb16c4228_2796.jpg,Pylorus,3,3,False
+5_04a78ef00c5245e0_5640.jpg,Angiectasia,5,5,False
+4_d626f4f4a5ac4785_48361.jpg,Ulcer,4,4,False
+0_c11b28a8b2344716_46546.jpg,Normal clean mucosa,0,0,False
+2_48579eec79784294_26325.jpg,Reduced mucosal view,2,2,False
+5_64440803f87b4843_18389.jpg,Angiectasia,5,5,False
+1_fc32def0e7194981_88884.jpg,Ileocecal valve,1,1,False
+3_8885668afb844852_3854.jpg,Pylorus,3,3,False
+7_7ad22d50ebaf4596_29242.jpg,Lymphangiectasia,7,7,False
+0_0728084c8da942d9_5293.jpg,Normal clean mucosa,0,0,False
+0_b2134f4a6f864613_4111.jpg,Normal clean mucosa,0,0,False
+1_8885668afb844852_35589.jpg,Ileocecal valve,1,1,False
+8_8ebf0e483cac48d6_13460.jpg,Erosion,8,8,False
+2_8ebf0e483cac48d6_15427.jpg,Reduced mucosal view,2,2,False
+2_8885668afb844852_25753.jpg,Reduced mucosal view,2,2,False
+0_89cdd41258c542c5_9859.jpg,Normal clean mucosa,0,0,False
+2_dc221ccc65d34010_37099.jpg,Reduced mucosal view,2,2,False
+2_c11b28a8b2344716_76452.jpg,Reduced mucosal view,2,7,True
+1_131368cc17e44240_31693.jpg,Ileocecal valve,1,1,False
+1_7a47e8eacea04e64_63527.jpg,Ileocecal valve,1,1,False
+2_c11b28a8b2344716_76290.jpg,Reduced mucosal view,2,5,True
+1_131368cc17e44240_31507.jpg,Ileocecal valve,1,1,False
+2_af9bd7d0e43741e3_29592.jpg,Reduced mucosal view,2,2,False
+0_dac1e27f7e4d4ef5_4329.jpg,Normal clean mucosa,0,0,False
+6_3ada4222967f421d_2405.jpg,Foreign body,6,6,False
+8_bca26705313a4644_16148.jpg,Erosion,8,8,False
+1_fc32def0e7194981_88901.jpg,Ileocecal valve,1,5,True
+5_b2134f4a6f864613_18041.jpg,Angiectasia,5,5,False
+2_dc221ccc65d34010_37100.jpg,Reduced mucosal view,2,2,False
+2_dc221ccc65d34010_37110.jpg,Reduced mucosal view,2,2,False
+2_dc221ccc65d34010_48864.jpg,Reduced mucosal view,2,2,False
+2_af9bd7d0e43741e3_29610.jpg,Reduced mucosal view,2,2,False
+0_131368cc17e44240_4321.jpg,Normal clean mucosa,0,0,False
+0_c11b28a8b2344716_46501.jpg,Normal clean mucosa,0,0,False
+1_fc32def0e7194981_88923.jpg,Ileocecal valve,1,1,False
+0_7ad22d50ebaf4596_12471.jpg,Normal clean mucosa,0,0,False
+2_8ebf0e483cac48d6_15402.jpg,Reduced mucosal view,2,8,True
+3_af9bd7d0e43741e3_2043.jpg,Pylorus,3,3,False
+2_dc221ccc65d34010_48565.jpg,Reduced mucosal view,2,2,False
+0_fb86bc87d3874cd7_13339.jpg,Normal clean mucosa,0,0,False
+2_af9bd7d0e43741e3_29541.jpg,Reduced mucosal view,2,2,False
+0_0728084c8da942d9_22970.jpg,Normal clean mucosa,0,0,False
+5_64440803f87b4843_19302.jpg,Angiectasia,5,5,False
+1_af9bd7d0e43741e3_30268.jpg,Ileocecal valve,1,1,False
+0_fb86bc87d3874cd7_12468.jpg,Normal clean mucosa,0,0,False
+0_df6b47bafe5143f5_2684.jpg,Normal clean mucosa,0,0,False
+2_c11b28a8b2344716_81891.jpg,Reduced mucosal view,2,2,False
+3_5e59c7fdb16c4228_2752.jpg,Pylorus,3,3,False
+0_eb0203196e284797_3108.jpg,Normal clean mucosa,0,0,False
+1_131368cc17e44240_31304.jpg,Ileocecal valve,1,1,False
+1_8ebf0e483cac48d6_28608.jpg,Ileocecal valve,1,1,False
+0_bca26705313a4644_23109.jpg,Normal clean mucosa,0,0,False
+2_48579eec79784294_26326.jpg,Reduced mucosal view,2,2,False
+8_0531325b64674948_245.jpg,Erosion,8,8,False
+2_dc221ccc65d34010_49325.jpg,Reduced mucosal view,2,2,False
+2_8885668afb844852_25718.jpg,Reduced mucosal view,2,2,False
+6_3ada4222967f421d_2366.jpg,Foreign body,6,6,False
+2_c11b28a8b2344716_76413.jpg,Reduced mucosal view,2,2,False
+2_dc221ccc65d34010_48637.jpg,Reduced mucosal view,2,2,False
+5_64440803f87b4843_19367.jpg,Angiectasia,5,5,False
+0_dac1e27f7e4d4ef5_4799.jpg,Normal clean mucosa,0,0,False
+1_64440803f87b4843_32280.jpg,Ileocecal valve,1,1,False
+4_7a47e8eacea04e64_51637.jpg,Ulcer,4,4,False
+1_6cb700585c4f4070_26421.jpg,Ileocecal valve,1,1,False
+2_c11b28a8b2344716_76442.jpg,Reduced mucosal view,2,2,False
+1_6cb700585c4f4070_26451.jpg,Ileocecal valve,1,1,False
+0_5e59c7fdb16c4228_9694.jpg,Normal clean mucosa,0,8,True
+0_b2134f4a6f864613_3954.jpg,Normal clean mucosa,0,0,False
+1_131368cc17e44240_31040.jpg,Ileocecal valve,1,1,False
+1_04a78ef00c5245e0_48812.jpg,Ileocecal valve,1,7,True
+7_7ad22d50ebaf4596_27237.jpg,Lymphangiectasia,7,7,False
+5_64440803f87b4843_22578.jpg,Angiectasia,5,5,False
+4_d626f4f4a5ac4785_48509.jpg,Ulcer,4,4,False
+3_8885668afb844852_3928.jpg,Pylorus,3,6,True
+1_6cb700585c4f4070_26578.jpg,Ileocecal valve,1,1,False
+3_5e59c7fdb16c4228_2792.jpg,Pylorus,3,3,False
+1_131368cc17e44240_30959.jpg,Ileocecal valve,1,5,True
+5_64440803f87b4843_19298.jpg,Angiectasia,5,5,False
+0_3c8d5f0b90d7475d_4870.jpg,Normal clean mucosa,0,0,False
+1_04a78ef00c5245e0_48646.jpg,Ileocecal valve,1,1,False
+8_0728084c8da942d9_27118.jpg,Erosion,8,8,False
+6_8885668afb844852_8123.jpg,Foreign body,6,6,False
+3_0531325b64674948_3454.jpg,Pylorus,3,3,False
+9_d369e4f163df4aba_13442.jpg,Blood - fresh,9,9,False
+0_dca1377dec974312_7858.jpg,Normal clean mucosa,0,0,False
+4_7a47e8eacea04e64_52272.jpg,Ulcer,4,4,False
+3_4560e83f9afc4685_892.jpg,Pylorus,3,3,False
+4_7a47e8eacea04e64_52016.jpg,Ulcer,4,4,False
+6_3ada4222967f421d_2368.jpg,Foreign body,6,6,False
+1_dca1377dec974312_16095.jpg,Ileocecal valve,1,3,True
+7_7ad22d50ebaf4596_31291.jpg,Lymphangiectasia,7,7,False
+6_8885668afb844852_8216.jpg,Foreign body,6,5,True
+6_3ada4222967f421d_2523.jpg,Foreign body,6,6,False
+0_dac1e27f7e4d4ef5_4506.jpg,Normal clean mucosa,0,0,False
+1_131368cc17e44240_30724.jpg,Ileocecal valve,1,1,False
+3_bc84479c66fe4da6_9070.jpg,Pylorus,3,9,True
+4_d626f4f4a5ac4785_52264.jpg,Ulcer,4,4,False
+1_04a78ef00c5245e0_48585.jpg,Ileocecal valve,1,1,False
+2_dc221ccc65d34010_48946.jpg,Reduced mucosal view,2,3,True
+1_48579eec79784294_29750.jpg,Ileocecal valve,1,1,False
+2_8ebf0e483cac48d6_15503.jpg,Reduced mucosal view,2,2,False
+0_d369e4f163df4aba_9611.jpg,Normal clean mucosa,0,0,False
+1_8885668afb844852_35573.jpg,Ileocecal valve,1,1,False
+2_c11b28a8b2344716_81952.jpg,Reduced mucosal view,2,2,False
+9_d369e4f163df4aba_13332.jpg,Blood - fresh,9,4,True
+1_04a78ef00c5245e0_48497.jpg,Ileocecal valve,1,1,False
+1_dc221ccc65d34010_84135.jpg,Ileocecal valve,1,1,False
+8_0531325b64674948_244.jpg,Erosion,8,2,True
+1_7a47e8eacea04e64_63596.jpg,Ileocecal valve,1,1,False
+1_fc32def0e7194981_89045.jpg,Ileocecal valve,1,1,False
+1_5e59c7fdb16c4228_45114.jpg,Ileocecal valve,1,1,False
+3_5e59c7fdb16c4228_2737.jpg,Pylorus,3,3,False
+0_dac1e27f7e4d4ef5_14907.jpg,Normal clean mucosa,0,0,False
+0_6cb700585c4f4070_21949.jpg,Normal clean mucosa,0,0,False
+2_5bb1d3cc7dc64cec_21460.jpg,Reduced mucosal view,2,2,False
+5_d369e4f163df4aba_26328.jpg,Angiectasia,5,5,False
+1_6cb700585c4f4070_26555.jpg,Ileocecal valve,1,1,False
+1_8885668afb844852_35614.jpg,Ileocecal valve,1,1,False
+5_64440803f87b4843_18869.jpg,Angiectasia,5,5,False
+4_7a47e8eacea04e64_52381.jpg,Ulcer,4,4,False
+0_dac1e27f7e4d4ef5_9755.jpg,Normal clean mucosa,0,0,False
+7_7ad22d50ebaf4596_10487.jpg,Lymphangiectasia,7,7,False
+0_89cdd41258c542c5_3654.jpg,Normal clean mucosa,0,0,False
+2_c11b28a8b2344716_81920.jpg,Reduced mucosal view,2,2,False
+8_8ebf0e483cac48d6_13431.jpg,Erosion,8,8,False
+2_8885668afb844852_25917.jpg,Reduced mucosal view,2,2,False
+4_d626f4f4a5ac4785_51393.jpg,Ulcer,4,4,False
+5_64440803f87b4843_18496.jpg,Angiectasia,5,5,False
+0_fe5d372e43f94f68_2347.jpg,Normal clean mucosa,0,0,False
+2_c11b28a8b2344716_76412.jpg,Reduced mucosal view,2,4,True
+3_af9bd7d0e43741e3_2035.jpg,Pylorus,3,3,False
+8_8ebf0e483cac48d6_11680.jpg,Erosion,8,8,False
+6_8885668afb844852_15900.jpg,Foreign body,6,6,False
+0_8ebf0e483cac48d6_3822.jpg,Normal clean mucosa,0,0,False
+1_131368cc17e44240_30846.jpg,Ileocecal valve,1,1,False
+2_5bb1d3cc7dc64cec_21505.jpg,Reduced mucosal view,2,2,False
+0_fb86bc87d3874cd7_30701.jpg,Normal clean mucosa,0,0,False
+1_8885668afb844852_35548.jpg,Ileocecal valve,1,1,False
+5_64440803f87b4843_18720.jpg,Angiectasia,5,5,False
+6_3ada4222967f421d_11467.jpg,Foreign body,6,6,False
+5_64440803f87b4843_18716.jpg,Angiectasia,5,5,False
+2_dc221ccc65d34010_49210.jpg,Reduced mucosal view,2,8,True
+1_fc32def0e7194981_89034.jpg,Ileocecal valve,1,1,False
+3_8ebf0e483cac48d6_2582.jpg,Pylorus,3,3,False
+0_0728084c8da942d9_16586.jpg,Normal clean mucosa,0,0,False
+1_131368cc17e44240_31537.jpg,Ileocecal valve,1,8,True
+0_5e59c7fdb16c4228_9574.jpg,Normal clean mucosa,0,0,False
+8_bca26705313a4644_16169.jpg,Erosion,8,8,False
+4_d626f4f4a5ac4785_50648.jpg,Ulcer,4,4,False
+0_64440803f87b4843_4918.jpg,Normal clean mucosa,0,0,False
+2_dc221ccc65d34010_48730.jpg,Reduced mucosal view,2,2,False
+2_8ebf0e483cac48d6_15423.jpg,Reduced mucosal view,2,2,False
+0_df6b47bafe5143f5_14255.jpg,Normal clean mucosa,0,0,False
+0_c7084b3556e34619_29904.jpg,Normal clean mucosa,0,0,False
+3_af9bd7d0e43741e3_2066.jpg,Pylorus,3,3,False
+6_3ada4222967f421d_10713.jpg,Foreign body,6,6,False
+2_dc221ccc65d34010_48839.jpg,Reduced mucosal view,2,2,False
+2_dc221ccc65d34010_49303.jpg,Reduced mucosal view,2,2,False
+3_5e59c7fdb16c4228_2765.jpg,Pylorus,3,3,False
+1_131368cc17e44240_31440.jpg,Ileocecal valve,1,1,False
+0_bc84479c66fe4da6_23719.jpg,Normal clean mucosa,0,0,False
+2_c11b28a8b2344716_76336.jpg,Reduced mucosal view,2,2,False
+0_48579eec79784294_5990.jpg,Normal clean mucosa,0,0,False
+1_6cb700585c4f4070_26468.jpg,Ileocecal valve,1,1,False
+9_d369e4f163df4aba_12082.jpg,Blood - fresh,9,9,False
+3_8885668afb844852_3903.jpg,Pylorus,3,3,False
+1_5e59c7fdb16c4228_45175.jpg,Ileocecal valve,1,1,False
+6_8885668afb844852_8112.jpg,Foreign body,6,6,False
+2_8ebf0e483cac48d6_15417.jpg,Reduced mucosal view,2,2,False
+2_dc221ccc65d34010_49041.jpg,Reduced mucosal view,2,2,False
+3_8885668afb844852_3907.jpg,Pylorus,3,3,False
+0_bc84479c66fe4da6_24255.jpg,Normal clean mucosa,0,8,True
+1_5e59c7fdb16c4228_45148.jpg,Ileocecal valve,1,1,False
+4_d626f4f4a5ac4785_48578.jpg,Ulcer,4,4,False
+1_131368cc17e44240_30538.jpg,Ileocecal valve,1,1,False
+0_0728084c8da942d9_20173.jpg,Normal clean mucosa,0,0,False
+1_d7a271f233ba4a40_29901.jpg,Ileocecal valve,1,1,False
+0_c7084b3556e34619_39567.jpg,Normal clean mucosa,0,0,False
+0_6cb700585c4f4070_12956.jpg,Normal clean mucosa,0,0,False
+5_64440803f87b4843_18829.jpg,Angiectasia,5,5,False
+0_39960e5e099a45ca_13433.jpg,Normal clean mucosa,0,0,False
+0_d7a271f233ba4a40_10895.jpg,Normal clean mucosa,0,0,False
+4_2fc3db471f9d44c0_1736.jpg,Ulcer,4,4,False
+1_04a78ef00c5245e0_48718.jpg,Ileocecal valve,1,1,False
+2_48579eec79784294_18098.jpg,Reduced mucosal view,2,2,False
+0_131368cc17e44240_4570.jpg,Normal clean mucosa,0,7,True
+1_4aebc5cb2d4847aa_28467.jpg,Ileocecal valve,1,1,False
+3_131368cc17e44240_1197.jpg,Pylorus,3,3,False
+1_04a78ef00c5245e0_48548.jpg,Ileocecal valve,1,1,False
+2_8885668afb844852_25906.jpg,Reduced mucosal view,2,2,False
+6_3ada4222967f421d_10783.jpg,Foreign body,6,6,False
+3_131368cc17e44240_1175.jpg,Pylorus,3,3,False
+6_3ada4222967f421d_2499.jpg,Foreign body,6,6,False
+3_c11b28a8b2344716_613.jpg,Pylorus,3,3,False
+7_7ad22d50ebaf4596_10485.jpg,Lymphangiectasia,7,7,False
+1_fc32def0e7194981_89097.jpg,Ileocecal valve,1,1,False
+4_d626f4f4a5ac4785_38546.jpg,Ulcer,4,4,False
+0_48579eec79784294_13402.jpg,Normal clean mucosa,0,0,False
+3_df6b47bafe5143f5_2091.jpg,Pylorus,3,3,False
+1_04a78ef00c5245e0_48678.jpg,Ileocecal valve,1,5,True
+2_dc221ccc65d34010_36949.jpg,Reduced mucosal view,2,2,False
+1_7a47e8eacea04e64_63482.jpg,Ileocecal valve,1,1,False
+2_dc221ccc65d34010_48629.jpg,Reduced mucosal view,2,2,False
+1_131368cc17e44240_31392.jpg,Ileocecal valve,1,1,False
+1_131368cc17e44240_31094.jpg,Ileocecal valve,1,1,False
+1_6cb700585c4f4070_26516.jpg,Ileocecal valve,1,1,False
+1_7a47e8eacea04e64_63524.jpg,Ileocecal valve,1,3,True
+3_bc84479c66fe4da6_8997.jpg,Pylorus,3,3,False
+2_dc221ccc65d34010_49323.jpg,Reduced mucosal view,2,2,False
+2_5bb1d3cc7dc64cec_21435.jpg,Reduced mucosal view,2,2,False
+1_dc221ccc65d34010_84311.jpg,Ileocecal valve,1,1,False
+1_ad91cf7ca91440aa_32581.jpg,Ileocecal valve,1,1,False
+0_3c8d5f0b90d7475d_11065.jpg,Normal clean mucosa,0,0,False
+1_c7084b3556e34619_69192.jpg,Ileocecal valve,1,1,False
+0_dca1377dec974312_14530.jpg,Normal clean mucosa,0,0,False
+0_3c8d5f0b90d7475d_16947.jpg,Normal clean mucosa,0,5,True
+1_dc221ccc65d34010_84260.jpg,Ileocecal valve,1,1,False
+6_3ada4222967f421d_10722.jpg,Foreign body,6,6,False
+2_dc221ccc65d34010_48912.jpg,Reduced mucosal view,2,2,False
+0_fb86bc87d3874cd7_6268.jpg,Normal clean mucosa,0,0,False
+1_131368cc17e44240_31617.jpg,Ileocecal valve,1,1,False
+1_04a78ef00c5245e0_48842.jpg,Ileocecal valve,1,1,False
+1_d7a271f233ba4a40_29897.jpg,Ileocecal valve,1,1,False
+2_dc221ccc65d34010_48603.jpg,Reduced mucosal view,2,2,False
+2_dc221ccc65d34010_49006.jpg,Reduced mucosal view,2,2,False
+0_bc84479c66fe4da6_24518.jpg,Normal clean mucosa,0,0,False
+8_bca26705313a4644_16154.jpg,Erosion,8,7,True
+2_dc221ccc65d34010_48862.jpg,Reduced mucosal view,2,2,False
+3_48579eec79784294_1314.jpg,Pylorus,3,1,True
+0_64440803f87b4843_9571.jpg,Normal clean mucosa,0,0,False
+3_8885668afb844852_3913.jpg,Pylorus,3,3,False
+1_8885668afb844852_35518.jpg,Ileocecal valve,1,1,False
+4_d626f4f4a5ac4785_50253.jpg,Ulcer,4,4,False
+2_c11b28a8b2344716_76376.jpg,Reduced mucosal view,2,2,False
+3_7a47e8eacea04e64_1996.jpg,Pylorus,3,4,True
+3_c11b28a8b2344716_593.jpg,Pylorus,3,3,False
+2_c11b28a8b2344716_82026.jpg,Reduced mucosal view,2,2,False
+7_7ad22d50ebaf4596_29222.jpg,Lymphangiectasia,7,7,False
+2_8885668afb844852_25687.jpg,Reduced mucosal view,2,2,False
+1_5bb1d3cc7dc64cec_34110.jpg,Ileocecal valve,1,8,True
+2_8885668afb844852_25826.jpg,Reduced mucosal view,2,2,False
+5_64440803f87b4843_18867.jpg,Angiectasia,5,5,False
+1_131368cc17e44240_30865.jpg,Ileocecal valve,1,1,False
+4_d626f4f4a5ac4785_51370.jpg,Ulcer,4,4,False
+2_dc221ccc65d34010_49300.jpg,Reduced mucosal view,2,2,False
+7_64440803f87b4843_21815.jpg,Lymphangiectasia,7,7,False
+0_3c8d5f0b90d7475d_5080.jpg,Normal clean mucosa,0,0,False
+0_dc221ccc65d34010_16477.jpg,Normal clean mucosa,0,0,False
+1_ad91cf7ca91440aa_32548.jpg,Ileocecal valve,1,1,False
+0_5e9beaf4e66142c8_41087.jpg,Normal clean mucosa,0,0,False
+0_fe5d372e43f94f68_2305.jpg,Normal clean mucosa,0,0,False
+0_d369e4f163df4aba_4015.jpg,Normal clean mucosa,0,0,False
+3_dca1377dec974312_1564.jpg,Pylorus,3,4,True
+0_d7a271f233ba4a40_11007.jpg,Normal clean mucosa,0,0,False
+7_7ad22d50ebaf4596_31255.jpg,Lymphangiectasia,7,7,False
+0_3c8d5f0b90d7475d_7197.jpg,Normal clean mucosa,0,5,True
+0_dac1e27f7e4d4ef5_14859.jpg,Normal clean mucosa,0,0,False
+0_fb86bc87d3874cd7_7140.jpg,Normal clean mucosa,0,0,False
+1_dc221ccc65d34010_84296.jpg,Ileocecal valve,1,1,False
+1_131368cc17e44240_31059.jpg,Ileocecal valve,1,7,True
+1_5e9beaf4e66142c8_49333.jpg,Ileocecal valve,1,1,False
+2_c11b28a8b2344716_76382.jpg,Reduced mucosal view,2,2,False
+3_d626f4f4a5ac4785_7708.jpg,Pylorus,3,3,False
+6_3ada4222967f421d_2503.jpg,Foreign body,6,6,False
+3_bc84479c66fe4da6_9013.jpg,Pylorus,3,3,False
+0_dac1e27f7e4d4ef5_7351.jpg,Normal clean mucosa,0,0,False
+2_dc221ccc65d34010_48620.jpg,Reduced mucosal view,2,2,False
+3_7a47e8eacea04e64_2014.jpg,Pylorus,3,3,False
+0_8a00709108cd4e2b_8714.jpg,Normal clean mucosa,0,5,True
+0_5e9beaf4e66142c8_11839.jpg,Normal clean mucosa,0,0,False
+8_dac1e27f7e4d4ef5_3397.jpg,Erosion,8,8,False
+9_d369e4f163df4aba_12041.jpg,Blood - fresh,9,9,False
+2_dc221ccc65d34010_37035.jpg,Reduced mucosal view,2,2,False
+0_07c1fa15a20a4398_4981.jpg,Normal clean mucosa,0,6,True
+2_dc221ccc65d34010_37066.jpg,Reduced mucosal view,2,2,False
+3_c7084b3556e34619_16385.jpg,Pylorus,3,3,False
+2_dc221ccc65d34010_49367.jpg,Reduced mucosal view,2,2,False
+3_bc84479c66fe4da6_8965.jpg,Pylorus,3,3,False
+2_dc221ccc65d34010_48775.jpg,Reduced mucosal view,2,2,False
+0_eb0203196e284797_7013.jpg,Normal clean mucosa,0,0,False
+0_df6b47bafe5143f5_13391.jpg,Normal clean mucosa,0,0,False
+1_8ebf0e483cac48d6_28625.jpg,Ileocecal valve,1,1,False
+5_64440803f87b4843_19318.jpg,Angiectasia,5,5,False
+2_48579eec79784294_18083.jpg,Reduced mucosal view,2,2,False
+0_3c8d5f0b90d7475d_17061.jpg,Normal clean mucosa,0,0,False
+0_dc221ccc65d34010_16657.jpg,Normal clean mucosa,0,0,False
+1_04a78ef00c5245e0_48679.jpg,Ileocecal valve,1,9,True
+0_bca26705313a4644_12370.jpg,Normal clean mucosa,0,0,False
+1_131368cc17e44240_31130.jpg,Ileocecal valve,1,1,False
+7_7ad22d50ebaf4596_10430.jpg,Lymphangiectasia,7,7,False
+0_dca1377dec974312_5971.jpg,Normal clean mucosa,0,0,False
+2_c11b28a8b2344716_82006.jpg,Reduced mucosal view,2,2,False
+1_131368cc17e44240_31426.jpg,Ileocecal valve,1,1,False
+0_5e59c7fdb16c4228_9625.jpg,Normal clean mucosa,0,0,False
+7_7ad22d50ebaf4596_31206.jpg,Lymphangiectasia,7,7,False
+4_d626f4f4a5ac4785_50265.jpg,Ulcer,4,4,False
+0_3ada4222967f421d_6005.jpg,Normal clean mucosa,0,9,True
+2_c11b28a8b2344716_81929.jpg,Reduced mucosal view,2,2,False
+4_d626f4f4a5ac4785_48616.jpg,Ulcer,4,4,False
+2_dc221ccc65d34010_48965.jpg,Reduced mucosal view,2,2,False
+7_7ad22d50ebaf4596_10568.jpg,Lymphangiectasia,7,3,True
+0_64440803f87b4843_4928.jpg,Normal clean mucosa,0,0,False
+1_5bb1d3cc7dc64cec_34179.jpg,Ileocecal valve,1,1,False
+1_6cb700585c4f4070_26525.jpg,Ileocecal valve,1,1,False
+0_04a78ef00c5245e0_12846.jpg,Normal clean mucosa,0,0,False
+9_d369e4f163df4aba_12012.jpg,Blood - fresh,9,9,False
+5_64440803f87b4843_18390.jpg,Angiectasia,5,5,False
+6_3ada4222967f421d_3442.jpg,Foreign body,6,6,False
+2_dc221ccc65d34010_49365.jpg,Reduced mucosal view,2,2,False
+0_fe5d372e43f94f68_2608.jpg,Normal clean mucosa,0,0,False
+4_d626f4f4a5ac4785_48611.jpg,Ulcer,4,4,False
+3_04a78ef00c5245e0_11865.jpg,Pylorus,3,3,False
+1_48579eec79784294_29763.jpg,Ileocecal valve,1,1,False
+2_dc221ccc65d34010_48605.jpg,Reduced mucosal view,2,2,False
+4_d626f4f4a5ac4785_51628.jpg,Ulcer,4,4,False
+0_8885668afb844852_24269.jpg,Normal clean mucosa,0,0,False
+0_0728084c8da942d9_23052.jpg,Normal clean mucosa,0,0,False
+2_5bb1d3cc7dc64cec_21569.jpg,Reduced mucosal view,2,2,False
+0_89cdd41258c542c5_4249.jpg,Normal clean mucosa,0,0,False
+2_48579eec79784294_18100.jpg,Reduced mucosal view,2,2,False
+0_8ebf0e483cac48d6_3816.jpg,Normal clean mucosa,0,0,False
+0_fb86bc87d3874cd7_10418.jpg,Normal clean mucosa,0,0,False
+7_7ad22d50ebaf4596_22841.jpg,Lymphangiectasia,7,7,False
+4_d626f4f4a5ac4785_48519.jpg,Ulcer,4,4,False
+1_131368cc17e44240_30610.jpg,Ileocecal valve,1,1,False
+9_d369e4f163df4aba_12080.jpg,Blood - fresh,9,9,False
+6_8885668afb844852_8164.jpg,Foreign body,6,6,False
+2_dc221ccc65d34010_48759.jpg,Reduced mucosal view,2,2,False
+2_af9bd7d0e43741e3_29583.jpg,Reduced mucosal view,2,5,True
+9_d369e4f163df4aba_2100.jpg,Blood - fresh,9,9,False
+1_131368cc17e44240_30637.jpg,Ileocecal valve,1,1,False
+5_eb0203196e284797_10026.jpg,Angiectasia,5,5,False
+2_8885668afb844852_25776.jpg,Reduced mucosal view,2,2,False
+2_48579eec79784294_18146.jpg,Reduced mucosal view,2,2,False
+3_8885668afb844852_3999.jpg,Pylorus,3,3,False
+0_07c1fa15a20a4398_1607.jpg,Normal clean mucosa,0,0,False
+5_64440803f87b4843_18430.jpg,Angiectasia,5,5,False
+0_d369e4f163df4aba_49747.jpg,Normal clean mucosa,0,3,True
+2_48579eec79784294_18078.jpg,Reduced mucosal view,2,2,False
+1_131368cc17e44240_31158.jpg,Ileocecal valve,1,1,False
+3_d369e4f163df4aba_1150.jpg,Pylorus,3,3,False
+2_48579eec79784294_18167.jpg,Reduced mucosal view,2,2,False
+0_bca26705313a4644_23096.jpg,Normal clean mucosa,0,9,True
+0_df6b47bafe5143f5_8985.jpg,Normal clean mucosa,0,0,False
+2_5bb1d3cc7dc64cec_21506.jpg,Reduced mucosal view,2,2,False
+0_3c8d5f0b90d7475d_4946.jpg,Normal clean mucosa,0,0,False
+7_7ad22d50ebaf4596_31277.jpg,Lymphangiectasia,7,7,False
+1_c7084b3556e34619_69135.jpg,Ileocecal valve,1,1,False
+1_6cb700585c4f4070_26460.jpg,Ileocecal valve,1,1,False
+3_131368cc17e44240_1142.jpg,Pylorus,3,3,False
+1_131368cc17e44240_30487.jpg,Ileocecal valve,1,1,False
+3_7a47e8eacea04e64_2034.jpg,Pylorus,3,3,False
+6_3ada4222967f421d_3768.jpg,Foreign body,6,6,False
+1_131368cc17e44240_30853.jpg,Ileocecal valve,1,1,False
+1_131368cc17e44240_31435.jpg,Ileocecal valve,1,1,False
+1_5e59c7fdb16c4228_45204.jpg,Ileocecal valve,1,1,False
+2_dc221ccc65d34010_48863.jpg,Reduced mucosal view,2,2,False
+3_bc84479c66fe4da6_9027.jpg,Pylorus,3,3,False
+0_131368cc17e44240_5685.jpg,Normal clean mucosa,0,0,False
+2_5bb1d3cc7dc64cec_21496.jpg,Reduced mucosal view,2,2,False
+3_ed02f27ef36f483e_4453.jpg,Pylorus,3,3,False
+3_dac1e27f7e4d4ef5_6805.jpg,Pylorus,3,3,False
+0_8885668afb844852_22867.jpg,Normal clean mucosa,0,9,True
+2_c11b28a8b2344716_76419.jpg,Reduced mucosal view,2,1,True
+6_48579eec79784294_1607.jpg,Foreign body,6,6,False
+3_eb0203196e284797_1122.jpg,Pylorus,3,3,False
+8_8ebf0e483cac48d6_29217.jpg,Erosion,8,8,False
+3_0531325b64674948_3444.jpg,Pylorus,3,3,False
+8_d626f4f4a5ac4785_50056.jpg,Erosion,8,8,False
+3_0531325b64674948_3464.jpg,Pylorus,3,3,False
+1_5bb1d3cc7dc64cec_34092.jpg,Ileocecal valve,1,3,True
+2_dc221ccc65d34010_48638.jpg,Reduced mucosal view,2,2,False
+4_7a47e8eacea04e64_51619.jpg,Ulcer,4,4,False
+1_fc32def0e7194981_89089.jpg,Ileocecal valve,1,1,False
+2_dc221ccc65d34010_49307.jpg,Reduced mucosal view,2,2,False
+1_7a47e8eacea04e64_63600.jpg,Ileocecal valve,1,1,False
+5_64440803f87b4843_19181.jpg,Angiectasia,5,5,False
+5_64440803f87b4843_19180.jpg,Angiectasia,5,5,False
+1_04a78ef00c5245e0_48532.jpg,Ileocecal valve,1,1,False
+3_8ebf0e483cac48d6_2608.jpg,Pylorus,3,3,False
+7_04a78ef00c5245e0_12347.jpg,Lymphangiectasia,7,7,False
+0_fc32def0e7194981_22406.jpg,Normal clean mucosa,0,0,False
+1_131368cc17e44240_31035.jpg,Ileocecal valve,1,1,False
+3_ed02f27ef36f483e_4451.jpg,Pylorus,3,3,False
+2_5bb1d3cc7dc64cec_21558.jpg,Reduced mucosal view,2,2,False
+3_5e59c7fdb16c4228_2731.jpg,Pylorus,3,3,False
+3_eb0203196e284797_1115.jpg,Pylorus,3,3,False
+2_48579eec79784294_18187.jpg,Reduced mucosal view,2,2,False
+6_3ada4222967f421d_3441.jpg,Foreign body,6,6,False
+4_d626f4f4a5ac4785_48571.jpg,Ulcer,4,4,False
+3_0531325b64674948_3446.jpg,Pylorus,3,3,False
+0_5e59c7fdb16c4228_12655.jpg,Normal clean mucosa,0,2,True
+9_d369e4f163df4aba_13532.jpg,Blood - fresh,9,9,False
+1_131368cc17e44240_30585.jpg,Ileocecal valve,1,1,False
+9_d369e4f163df4aba_14246.jpg,Blood - fresh,9,9,False
+1_131368cc17e44240_30821.jpg,Ileocecal valve,1,1,False
+5_64440803f87b4843_18954.jpg,Angiectasia,5,5,False
+0_df6b47bafe5143f5_2482.jpg,Normal clean mucosa,0,0,False
+2_af9bd7d0e43741e3_29504.jpg,Reduced mucosal view,2,2,False
+0_8ebf0e483cac48d6_13058.jpg,Normal clean mucosa,0,0,False
+1_c7084b3556e34619_69150.jpg,Ileocecal valve,1,1,False
+2_8ebf0e483cac48d6_15534.jpg,Reduced mucosal view,2,2,False
+2_8885668afb844852_25895.jpg,Reduced mucosal view,2,2,False
+1_131368cc17e44240_31374.jpg,Ileocecal valve,1,1,False
+6_8885668afb844852_15870.jpg,Foreign body,6,3,True
+4_7a47e8eacea04e64_51981.jpg,Ulcer,4,4,False
+2_48579eec79784294_26337.jpg,Reduced mucosal view,2,2,False
+2_c11b28a8b2344716_76366.jpg,Reduced mucosal view,2,2,False
+8_5e59c7fdb16c4228_37751.jpg,Erosion,8,8,False
+3_dca1377dec974312_1566.jpg,Pylorus,3,3,False
+6_8885668afb844852_15799.jpg,Foreign body,6,6,False
+1_131368cc17e44240_31098.jpg,Ileocecal valve,1,1,False
+7_64440803f87b4843_17834.jpg,Lymphangiectasia,7,7,False
+6_8885668afb844852_15862.jpg,Foreign body,6,6,False
+5_b2134f4a6f864613_18036.jpg,Angiectasia,5,5,False
+1_131368cc17e44240_30747.jpg,Ileocecal valve,1,0,True
+4_d626f4f4a5ac4785_51590.jpg,Ulcer,4,4,False
+0_39960e5e099a45ca_13445.jpg,Normal clean mucosa,0,2,True
+0_6cb700585c4f4070_12792.jpg,Normal clean mucosa,0,0,False
+2_c11b28a8b2344716_76473.jpg,Reduced mucosal view,2,2,False
+0_fe5d372e43f94f68_2334.jpg,Normal clean mucosa,0,0,False
+7_64440803f87b4843_17855.jpg,Lymphangiectasia,7,7,False
+2_8ebf0e483cac48d6_15388.jpg,Reduced mucosal view,2,2,False
+0_bca26705313a4644_29300.jpg,Normal clean mucosa,0,0,False
+0_dac1e27f7e4d4ef5_19120.jpg,Normal clean mucosa,0,0,False
+0_b2134f4a6f864613_16053.jpg,Normal clean mucosa,0,0,False
+2_c11b28a8b2344716_81938.jpg,Reduced mucosal view,2,2,False
+2_c11b28a8b2344716_76495.jpg,Reduced mucosal view,2,2,False
+2_48579eec79784294_18209.jpg,Reduced mucosal view,2,2,False
+0_131368cc17e44240_4390.jpg,Normal clean mucosa,0,0,False
+4_d626f4f4a5ac4785_48439.jpg,Ulcer,4,4,False
+2_dc221ccc65d34010_48829.jpg,Reduced mucosal view,2,2,False
+1_131368cc17e44240_30955.jpg,Ileocecal valve,1,1,False
+6_3ada4222967f421d_2183.jpg,Foreign body,6,6,False
+0_3ada4222967f421d_5608.jpg,Normal clean mucosa,0,0,False
+3_7a47e8eacea04e64_1999.jpg,Pylorus,3,8,True
+9_d369e4f163df4aba_13433.jpg,Blood - fresh,9,9,False
+1_131368cc17e44240_30531.jpg,Ileocecal valve,1,1,False
+1_131368cc17e44240_31190.jpg,Ileocecal valve,1,1,False
+6_3ada4222967f421d_2731.jpg,Foreign body,6,6,False
+3_7a47e8eacea04e64_2024.jpg,Pylorus,3,3,False
+0_0728084c8da942d9_23116.jpg,Normal clean mucosa,0,0,False
+2_5bb1d3cc7dc64cec_21484.jpg,Reduced mucosal view,2,2,False
+2_dc221ccc65d34010_49324.jpg,Reduced mucosal view,2,2,False
+0_df6b47bafe5143f5_3931.jpg,Normal clean mucosa,0,0,False
+5_64440803f87b4843_18627.jpg,Angiectasia,5,5,False
+1_c7084b3556e34619_69207.jpg,Ileocecal valve,1,1,False
+8_bca26705313a4644_18132.jpg,Erosion,8,8,False
+6_3ada4222967f421d_2558.jpg,Foreign body,6,6,False
+9_d369e4f163df4aba_12049.jpg,Blood - fresh,9,9,False
+3_c11b28a8b2344716_650.jpg,Pylorus,3,3,False
+4_d626f4f4a5ac4785_51378.jpg,Ulcer,4,4,False
+5_64440803f87b4843_21368.jpg,Angiectasia,5,5,False
+0_fb86bc87d3874cd7_25144.jpg,Normal clean mucosa,0,0,False
+1_48579eec79784294_29775.jpg,Ileocecal valve,1,1,False
+2_c11b28a8b2344716_81923.jpg,Reduced mucosal view,2,2,False
+3_bc84479c66fe4da6_9111.jpg,Pylorus,3,3,False
+2_dc221ccc65d34010_48927.jpg,Reduced mucosal view,2,2,False
+4_d626f4f4a5ac4785_51626.jpg,Ulcer,4,4,False
+5_64440803f87b4843_19375.jpg,Angiectasia,5,5,False
+0_8ebf0e483cac48d6_3877.jpg,Normal clean mucosa,0,0,False
+9_d369e4f163df4aba_13533.jpg,Blood - fresh,9,9,False
+5_64440803f87b4843_18385.jpg,Angiectasia,5,5,False
+1_7a47e8eacea04e64_63548.jpg,Ileocecal valve,1,1,False
+7_04a78ef00c5245e0_12392.jpg,Lymphangiectasia,7,7,False
+1_dc221ccc65d34010_84262.jpg,Ileocecal valve,1,1,False
+0_0531325b64674948_10278.jpg,Normal clean mucosa,0,5,True
+0_dca1377dec974312_7892.jpg,Normal clean mucosa,0,1,True
+4_7a47e8eacea04e64_52288.jpg,Ulcer,4,4,False
+0_8ebf0e483cac48d6_7202.jpg,Normal clean mucosa,0,0,False
+0_6cb700585c4f4070_14815.jpg,Normal clean mucosa,0,0,False
+1_131368cc17e44240_31039.jpg,Ileocecal valve,1,1,False
+2_5bb1d3cc7dc64cec_21518.jpg,Reduced mucosal view,2,2,False
+1_8885668afb844852_35698.jpg,Ileocecal valve,1,5,True
+2_dc221ccc65d34010_49111.jpg,Reduced mucosal view,2,2,False
+2_af9bd7d0e43741e3_29608.jpg,Reduced mucosal view,2,2,False
+2_c11b28a8b2344716_81895.jpg,Reduced mucosal view,2,2,False
+0_eb0203196e284797_7066.jpg,Normal clean mucosa,0,0,False
+8_8ebf0e483cac48d6_13447.jpg,Erosion,8,8,False
+1_48579eec79784294_29801.jpg,Ileocecal valve,1,1,False
+1_64440803f87b4843_32264.jpg,Ileocecal valve,1,1,False
+9_d369e4f163df4aba_12027.jpg,Blood - fresh,9,9,False
+1_af9bd7d0e43741e3_30260.jpg,Ileocecal valve,1,1,False
+2_dc221ccc65d34010_37107.jpg,Reduced mucosal view,2,2,False
+1_131368cc17e44240_31104.jpg,Ileocecal valve,1,1,False
+0_fb86bc87d3874cd7_30729.jpg,Normal clean mucosa,0,0,False
+0_8ebf0e483cac48d6_3890.jpg,Normal clean mucosa,0,0,False
+1_5e9beaf4e66142c8_49309.jpg,Ileocecal valve,1,1,False
+1_131368cc17e44240_30635.jpg,Ileocecal valve,1,1,False
+0_fb86bc87d3874cd7_7145.jpg,Normal clean mucosa,0,0,False
+0_dc221ccc65d34010_8993.jpg,Normal clean mucosa,0,0,False
+4_d626f4f4a5ac4785_38549.jpg,Ulcer,4,4,False
+6_3ada4222967f421d_2425.jpg,Foreign body,6,6,False
+2_dc221ccc65d34010_49072.jpg,Reduced mucosal view,2,2,False
+1_c7084b3556e34619_69109.jpg,Ileocecal valve,1,1,False
+3_8ebf0e483cac48d6_2590.jpg,Pylorus,3,3,False
+2_dc221ccc65d34010_48594.jpg,Reduced mucosal view,2,1,True
+2_dc221ccc65d34010_49134.jpg,Reduced mucosal view,2,2,False
+5_64440803f87b4843_19350.jpg,Angiectasia,5,5,False
+1_6cb700585c4f4070_26508.jpg,Ileocecal valve,1,1,False
+2_8885668afb844852_25762.jpg,Reduced mucosal view,2,2,False
+3_131368cc17e44240_1169.jpg,Pylorus,3,4,True
+9_d369e4f163df4aba_15578.jpg,Blood - fresh,9,9,False
+1_131368cc17e44240_31603.jpg,Ileocecal valve,1,1,False
+8_5e59c7fdb16c4228_36152.jpg,Erosion,8,8,False
+1_5e9beaf4e66142c8_49260.jpg,Ileocecal valve,1,1,False
+3_d369e4f163df4aba_1154.jpg,Pylorus,3,3,False
+5_64440803f87b4843_18866.jpg,Angiectasia,5,5,False
+0_b2134f4a6f864613_2039.jpg,Normal clean mucosa,0,0,False
+7_7ad22d50ebaf4596_31145.jpg,Lymphangiectasia,7,7,False
+2_8ebf0e483cac48d6_15386.jpg,Reduced mucosal view,2,2,False
+2_c11b28a8b2344716_76479.jpg,Reduced mucosal view,2,8,True
+0_eb0203196e284797_6068.jpg,Normal clean mucosa,0,0,False
+6_3ada4222967f421d_10784.jpg,Foreign body,6,6,False
+2_dc221ccc65d34010_48807.jpg,Reduced mucosal view,2,2,False
+1_6cb700585c4f4070_26519.jpg,Ileocecal valve,1,1,False
+4_d626f4f4a5ac4785_48431.jpg,Ulcer,4,4,False
+0_5e59c7fdb16c4228_33158.jpg,Normal clean mucosa,0,5,True
+3_131368cc17e44240_1165.jpg,Pylorus,3,3,False
+4_7a47e8eacea04e64_51632.jpg,Ulcer,4,6,True
+1_131368cc17e44240_30795.jpg,Ileocecal valve,1,1,False
+5_64440803f87b4843_18809.jpg,Angiectasia,5,5,False
+1_131368cc17e44240_31402.jpg,Ileocecal valve,1,1,False
+2_8ebf0e483cac48d6_15533.jpg,Reduced mucosal view,2,2,False
+3_131368cc17e44240_1182.jpg,Pylorus,3,9,True
+2_48579eec79784294_26448.jpg,Reduced mucosal view,2,2,False
+0_fe5d372e43f94f68_2336.jpg,Normal clean mucosa,0,0,False
+1_131368cc17e44240_31588.jpg,Ileocecal valve,1,1,False
+5_64440803f87b4843_18753.jpg,Angiectasia,5,5,False
+0_8ebf0e483cac48d6_7207.jpg,Normal clean mucosa,0,0,False
+0_d7a271f233ba4a40_5235.jpg,Normal clean mucosa,0,0,False
+3_8885668afb844852_3962.jpg,Pylorus,3,3,False
+4_d626f4f4a5ac4785_51435.jpg,Ulcer,4,4,False
+1_131368cc17e44240_30578.jpg,Ileocecal valve,1,1,False
+2_dc221ccc65d34010_36976.jpg,Reduced mucosal view,2,2,False
+1_6cb700585c4f4070_26440.jpg,Ileocecal valve,1,1,False
+0_bc84479c66fe4da6_24134.jpg,Normal clean mucosa,0,0,False
+0_8885668afb844852_24276.jpg,Normal clean mucosa,0,0,False
+8_bca26705313a4644_16165.jpg,Erosion,8,8,False
+7_7ad22d50ebaf4596_27503.jpg,Lymphangiectasia,7,7,False
+3_8885668afb844852_3926.jpg,Pylorus,3,3,False
+2_dc221ccc65d34010_37096.jpg,Reduced mucosal view,2,5,True
+6_3ada4222967f421d_1821.jpg,Foreign body,6,6,False
+4_d626f4f4a5ac4785_48515.jpg,Ulcer,4,4,False
+1_0728084c8da942d9_30202.jpg,Ileocecal valve,1,1,False
+2_5bb1d3cc7dc64cec_21461.jpg,Reduced mucosal view,2,2,False
+1_5bb1d3cc7dc64cec_34120.jpg,Ileocecal valve,1,1,False
+0_3c8d5f0b90d7475d_16833.jpg,Normal clean mucosa,0,0,False
+1_6cb700585c4f4070_26407.jpg,Ileocecal valve,1,1,False
+2_48579eec79784294_18239.jpg,Reduced mucosal view,2,2,False
+3_dac1e27f7e4d4ef5_6806.jpg,Pylorus,3,3,False
+9_d369e4f163df4aba_13499.jpg,Blood - fresh,9,9,False
+0_bc84479c66fe4da6_24482.jpg,Normal clean mucosa,0,0,False
+3_0531325b64674948_3488.jpg,Pylorus,3,0,True
+5_64440803f87b4843_18879.jpg,Angiectasia,5,5,False
+2_8885668afb844852_25870.jpg,Reduced mucosal view,2,2,False
+1_8a00709108cd4e2b_17579.jpg,Ileocecal valve,1,1,False
+5_64440803f87b4843_18464.jpg,Angiectasia,5,5,False
+6_3ada4222967f421d_1564.jpg,Foreign body,6,6,False
+8_bca26705313a4644_16141.jpg,Erosion,8,8,False
+0_bc84479c66fe4da6_24550.jpg,Normal clean mucosa,0,0,False
+1_fc32def0e7194981_89060.jpg,Ileocecal valve,1,1,False
+0_dc221ccc65d34010_9002.jpg,Normal clean mucosa,0,0,False
+3_131368cc17e44240_1176.jpg,Pylorus,3,3,False
+0_dac1e27f7e4d4ef5_7392.jpg,Normal clean mucosa,0,0,False
+7_64440803f87b4843_13739.jpg,Lymphangiectasia,7,7,False
+5_64440803f87b4843_18537.jpg,Angiectasia,5,5,False
+2_dc221ccc65d34010_36948.jpg,Reduced mucosal view,2,2,False
+1_7a47e8eacea04e64_63518.jpg,Ileocecal valve,1,1,False
+0_fb86bc87d3874cd7_7225.jpg,Normal clean mucosa,0,0,False
+3_d626f4f4a5ac4785_7709.jpg,Pylorus,3,6,True
+1_5e9beaf4e66142c8_49300.jpg,Ileocecal valve,1,1,False
+9_d369e4f163df4aba_86025.jpg,Blood - fresh,9,9,False
+0_bc84479c66fe4da6_23360.jpg,Normal clean mucosa,0,0,False
+3_c11b28a8b2344716_620.jpg,Pylorus,3,0,True
+6_8885668afb844852_8122.jpg,Foreign body,6,6,False
+3_c11b28a8b2344716_656.jpg,Pylorus,3,3,False
+2_5bb1d3cc7dc64cec_21439.jpg,Reduced mucosal view,2,2,False
+1_7a47e8eacea04e64_63617.jpg,Ileocecal valve,1,1,False
+0_7ad22d50ebaf4596_12461.jpg,Normal clean mucosa,0,0,False
+3_c11b28a8b2344716_600.jpg,Pylorus,3,3,False
+0_8a00709108cd4e2b_11795.jpg,Normal clean mucosa,0,0,False
+5_eb0203196e284797_1678.jpg,Angiectasia,5,5,False
+6_3ada4222967f421d_3683.jpg,Foreign body,6,6,False
+0_3c8d5f0b90d7475d_3409.jpg,Normal clean mucosa,0,0,False
+1_131368cc17e44240_31310.jpg,Ileocecal valve,1,1,False
+1_4560e83f9afc4685_20360.jpg,Ileocecal valve,1,1,False
+4_d626f4f4a5ac4785_49936.jpg,Ulcer,4,4,False
+2_48579eec79784294_26405.jpg,Reduced mucosal view,2,2,False
+0_b2134f4a6f864613_2030.jpg,Normal clean mucosa,0,0,False
+0_64440803f87b4843_9506.jpg,Normal clean mucosa,0,0,False
+0_eb0203196e284797_3239.jpg,Normal clean mucosa,0,8,True
+1_131368cc17e44240_31644.jpg,Ileocecal valve,1,1,False
+2_dc221ccc65d34010_48661.jpg,Reduced mucosal view,2,2,False
+3_0531325b64674948_3568.jpg,Pylorus,3,3,False
+2_8885668afb844852_25739.jpg,Reduced mucosal view,2,2,False
+1_ad91cf7ca91440aa_32556.jpg,Ileocecal valve,1,1,False
+1_131368cc17e44240_30943.jpg,Ileocecal valve,1,1,False
+1_48579eec79784294_29741.jpg,Ileocecal valve,1,1,False
+0_eb0203196e284797_5909.jpg,Normal clean mucosa,0,0,False
+1_dc221ccc65d34010_84286.jpg,Ileocecal valve,1,1,False
+0_df6b47bafe5143f5_13318.jpg,Normal clean mucosa,0,0,False
+1_8885668afb844852_35597.jpg,Ileocecal valve,1,1,False
+0_0728084c8da942d9_23176.jpg,Normal clean mucosa,0,0,False
+2_dc221ccc65d34010_37043.jpg,Reduced mucosal view,2,2,False
+2_af9bd7d0e43741e3_29493.jpg,Reduced mucosal view,2,2,False
+1_131368cc17e44240_31656.jpg,Ileocecal valve,1,1,False
+3_eb0203196e284797_1135.jpg,Pylorus,3,3,False
+6_8885668afb844852_15859.jpg,Foreign body,6,6,False
+0_0728084c8da942d9_22825.jpg,Normal clean mucosa,0,0,False
+2_c11b28a8b2344716_81872.jpg,Reduced mucosal view,2,2,False
+0_4560e83f9afc4685_6738.jpg,Normal clean mucosa,0,0,False
+6_48579eec79784294_1597.jpg,Foreign body,6,6,False
+1_c7084b3556e34619_69111.jpg,Ileocecal valve,1,1,False
+0_0728084c8da942d9_23001.jpg,Normal clean mucosa,0,0,False
+3_d626f4f4a5ac4785_7714.jpg,Pylorus,3,3,False
+1_6cb700585c4f4070_26414.jpg,Ileocecal valve,1,1,False
+3_8885668afb844852_3951.jpg,Pylorus,3,3,False
+3_bc84479c66fe4da6_9077.jpg,Pylorus,3,3,False
+4_d626f4f4a5ac4785_48668.jpg,Ulcer,4,4,False
+0_89cdd41258c542c5_4279.jpg,Normal clean mucosa,0,8,True
+7_7ad22d50ebaf4596_31167.jpg,Lymphangiectasia,7,7,False
+3_bc84479c66fe4da6_9114.jpg,Pylorus,3,3,False
+1_dc221ccc65d34010_84306.jpg,Ileocecal valve,1,1,False
+2_c11b28a8b2344716_81981.jpg,Reduced mucosal view,2,2,False
+1_7a47e8eacea04e64_63446.jpg,Ileocecal valve,1,1,False
+2_8885668afb844852_25683.jpg,Reduced mucosal view,2,2,False
+5_64440803f87b4843_18646.jpg,Angiectasia,5,5,False
+0_04a78ef00c5245e0_12988.jpg,Normal clean mucosa,0,0,False
+2_dc221ccc65d34010_48967.jpg,Reduced mucosal view,2,2,False
+8_eb0203196e284797_6195.jpg,Erosion,8,8,False
+0_04a78ef00c5245e0_13024.jpg,Normal clean mucosa,0,0,False
+9_d369e4f163df4aba_12038.jpg,Blood - fresh,9,9,False
+6_3ada4222967f421d_3730.jpg,Foreign body,6,6,False
+9_d369e4f163df4aba_2113.jpg,Blood - fresh,9,9,False
+4_7a47e8eacea04e64_52365.jpg,Ulcer,4,4,False
+7_64440803f87b4843_17947.jpg,Lymphangiectasia,7,7,False
+3_ed02f27ef36f483e_4442.jpg,Pylorus,3,3,False
+2_48579eec79784294_18268.jpg,Reduced mucosal view,2,2,False
+2_c11b28a8b2344716_76401.jpg,Reduced mucosal view,2,2,False
+7_7ad22d50ebaf4596_22855.jpg,Lymphangiectasia,7,7,False
+0_bc84479c66fe4da6_23317.jpg,Normal clean mucosa,0,0,False
+5_d369e4f163df4aba_26332.jpg,Angiectasia,5,5,False
+4_d626f4f4a5ac4785_48689.jpg,Ulcer,4,4,False
+0_495f16498db34d3c_10865.jpg,Normal clean mucosa,0,1,True
+1_fc32def0e7194981_88958.jpg,Ileocecal valve,1,1,False
+1_5e59c7fdb16c4228_45207.jpg,Ileocecal valve,1,1,False
+1_131368cc17e44240_30476.jpg,Ileocecal valve,1,1,False
+1_48579eec79784294_29744.jpg,Ileocecal valve,1,1,False
+3_0531325b64674948_3502.jpg,Pylorus,3,3,False
+1_131368cc17e44240_31514.jpg,Ileocecal valve,1,2,True
+1_131368cc17e44240_30535.jpg,Ileocecal valve,1,1,False
+3_eb0203196e284797_1142.jpg,Pylorus,3,3,False
+1_fc32def0e7194981_88922.jpg,Ileocecal valve,1,1,False
+3_131368cc17e44240_1239.jpg,Pylorus,3,3,False
+0_3ada4222967f421d_5872.jpg,Normal clean mucosa,0,0,False
+3_8885668afb844852_3871.jpg,Pylorus,3,3,False
+0_fb86bc87d3874cd7_8684.jpg,Normal clean mucosa,0,0,False
+6_8885668afb844852_8153.jpg,Foreign body,6,6,False
+7_64440803f87b4843_17854.jpg,Lymphangiectasia,7,7,False
+6_8885668afb844852_8134.jpg,Foreign body,6,6,False
+2_dc221ccc65d34010_49124.jpg,Reduced mucosal view,2,2,False
+0_fb86bc87d3874cd7_13464.jpg,Normal clean mucosa,0,0,False
+6_8885668afb844852_8090.jpg,Foreign body,6,6,False
+3_bc84479c66fe4da6_9063.jpg,Pylorus,3,3,False
+2_48579eec79784294_18102.jpg,Reduced mucosal view,2,2,False
+1_131368cc17e44240_31576.jpg,Ileocecal valve,1,1,False
+4_d626f4f4a5ac4785_50632.jpg,Ulcer,4,4,False
+2_48579eec79784294_26382.jpg,Reduced mucosal view,2,2,False
+7_04a78ef00c5245e0_12413.jpg,Lymphangiectasia,7,7,False
+1_6cb700585c4f4070_26503.jpg,Ileocecal valve,1,1,False
+4_d626f4f4a5ac4785_48365.jpg,Ulcer,4,4,False
+2_c11b28a8b2344716_81851.jpg,Reduced mucosal view,2,2,False
+3_5e59c7fdb16c4228_2810.jpg,Pylorus,3,3,False
+6_3ada4222967f421d_1567.jpg,Foreign body,6,6,False
+0_fb86bc87d3874cd7_8746.jpg,Normal clean mucosa,0,0,False
+6_3ada4222967f421d_11598.jpg,Foreign body,6,6,False
+2_af9bd7d0e43741e3_29485.jpg,Reduced mucosal view,2,7,True
+9_d369e4f163df4aba_15577.jpg,Blood - fresh,9,9,False
+8_8ebf0e483cac48d6_11668.jpg,Erosion,8,7,True
+0_5e59c7fdb16c4228_15551.jpg,Normal clean mucosa,0,0,False
+0_d369e4f163df4aba_49720.jpg,Normal clean mucosa,0,0,False
+5_64440803f87b4843_18547.jpg,Angiectasia,5,5,False
+1_07c1fa15a20a4398_38612.jpg,Ileocecal valve,1,1,False
+2_af9bd7d0e43741e3_29471.jpg,Reduced mucosal view,2,2,False
+9_d369e4f163df4aba_13352.jpg,Blood - fresh,9,9,False
+9_04a78ef00c5245e0_11225.jpg,Blood - fresh,9,9,False
+0_dca1377dec974312_14514.jpg,Normal clean mucosa,0,0,False
+2_dc221ccc65d34010_37163.jpg,Reduced mucosal view,2,2,False
+6_3ada4222967f421d_2749.jpg,Foreign body,6,6,False
+1_131368cc17e44240_30927.jpg,Ileocecal valve,1,1,False
+2_c11b28a8b2344716_81994.jpg,Reduced mucosal view,2,2,False
+1_131368cc17e44240_30569.jpg,Ileocecal valve,1,1,False
+5_64440803f87b4843_21394.jpg,Angiectasia,5,5,False
+2_48579eec79784294_18310.jpg,Reduced mucosal view,2,2,False
+1_af9bd7d0e43741e3_30207.jpg,Ileocecal valve,1,1,False
+1_6cb700585c4f4070_26592.jpg,Ileocecal valve,1,1,False
+0_3c8d5f0b90d7475d_16867.jpg,Normal clean mucosa,0,0,False
+1_131368cc17e44240_31666.jpg,Ileocecal valve,1,1,False
+1_c7084b3556e34619_69120.jpg,Ileocecal valve,1,1,False
+1_04a78ef00c5245e0_48607.jpg,Ileocecal valve,1,1,False
+3_8ebf0e483cac48d6_2612.jpg,Pylorus,3,3,False
+8_8ebf0e483cac48d6_13443.jpg,Erosion,8,8,False
+8_0728084c8da942d9_28800.jpg,Erosion,8,1,True
+0_d7a271f233ba4a40_7688.jpg,Normal clean mucosa,0,0,False
+9_d369e4f163df4aba_13334.jpg,Blood - fresh,9,9,False
+1_7a47e8eacea04e64_63427.jpg,Ileocecal valve,1,1,False
+1_fc32def0e7194981_88868.jpg,Ileocecal valve,1,1,False
+0_bca26705313a4644_10122.jpg,Normal clean mucosa,0,0,False
+3_8885668afb844852_3833.jpg,Pylorus,3,3,False
+2_5bb1d3cc7dc64cec_21520.jpg,Reduced mucosal view,2,2,False
+0_eb0203196e284797_5831.jpg,Normal clean mucosa,0,0,False
+5_64440803f87b4843_18759.jpg,Angiectasia,5,5,False
+0_8ebf0e483cac48d6_13105.jpg,Normal clean mucosa,0,0,False
+5_64440803f87b4843_19229.jpg,Angiectasia,5,5,False
+4_d626f4f4a5ac4785_51372.jpg,Ulcer,4,4,False
+4_d626f4f4a5ac4785_51377.jpg,Ulcer,4,4,False
+0_bc84479c66fe4da6_23281.jpg,Normal clean mucosa,0,0,False
+1_5e59c7fdb16c4228_45231.jpg,Ileocecal valve,1,1,False
+5_b2134f4a6f864613_18022.jpg,Angiectasia,5,5,False
+2_dc221ccc65d34010_48996.jpg,Reduced mucosal view,2,2,False
+1_fc32def0e7194981_88944.jpg,Ileocecal valve,1,1,False
+0_ed02f27ef36f483e_14041.jpg,Normal clean mucosa,0,0,False
+6_3ada4222967f421d_10825.jpg,Foreign body,6,6,False
+6_3ada4222967f421d_2487.jpg,Foreign body,6,6,False
+1_131368cc17e44240_30922.jpg,Ileocecal valve,1,1,False
+0_7ad22d50ebaf4596_6776.jpg,Normal clean mucosa,0,0,False
+4_d626f4f4a5ac4785_48583.jpg,Ulcer,4,4,False
+5_64440803f87b4843_18653.jpg,Angiectasia,5,5,False
+2_dc221ccc65d34010_37050.jpg,Reduced mucosal view,2,2,False
+8_8ebf0e483cac48d6_11698.jpg,Erosion,8,3,True
+2_8885668afb844852_25940.jpg,Reduced mucosal view,2,2,False
+4_d626f4f4a5ac4785_32756.jpg,Ulcer,4,4,False
+2_dc221ccc65d34010_48781.jpg,Reduced mucosal view,2,9,True
+5_64440803f87b4843_18875.jpg,Angiectasia,5,5,False
+9_d369e4f163df4aba_13298.jpg,Blood - fresh,9,9,False
+8_0728084c8da942d9_28743.jpg,Erosion,8,8,False
+1_5bb1d3cc7dc64cec_34135.jpg,Ileocecal valve,1,1,False
+3_3ada4222967f421d_3258.jpg,Pylorus,3,3,False
+4_d626f4f4a5ac4785_48396.jpg,Ulcer,4,4,False
+3_eb0203196e284797_1134.jpg,Pylorus,3,3,False
+0_fb86bc87d3874cd7_13363.jpg,Normal clean mucosa,0,0,False
+3_8ebf0e483cac48d6_2585.jpg,Pylorus,3,5,True
+1_131368cc17e44240_30504.jpg,Ileocecal valve,1,1,False
+1_8a00709108cd4e2b_17587.jpg,Ileocecal valve,1,1,False
+2_c11b28a8b2344716_81886.jpg,Reduced mucosal view,2,2,False
+2_5bb1d3cc7dc64cec_21568.jpg,Reduced mucosal view,2,2,False
+1_7a47e8eacea04e64_63497.jpg,Ileocecal valve,1,1,False
+1_bc84479c66fe4da6_63070.jpg,Ileocecal valve,1,1,False
+2_48579eec79784294_26336.jpg,Reduced mucosal view,2,8,True
+5_64440803f87b4843_18580.jpg,Angiectasia,5,5,False
+5_d369e4f163df4aba_26375.jpg,Angiectasia,5,5,False
+2_8ebf0e483cac48d6_15470.jpg,Reduced mucosal view,2,2,False
+1_04a78ef00c5245e0_48773.jpg,Ileocecal valve,1,1,False
+2_dc221ccc65d34010_48865.jpg,Reduced mucosal view,2,2,False
+1_04a78ef00c5245e0_48709.jpg,Ileocecal valve,1,1,False
+2_dc221ccc65d34010_49264.jpg,Reduced mucosal view,2,2,False
+3_131368cc17e44240_1228.jpg,Pylorus,3,3,False
+1_8ebf0e483cac48d6_28622.jpg,Ileocecal valve,1,1,False
+2_dc221ccc65d34010_48625.jpg,Reduced mucosal view,2,2,False
+7_7ad22d50ebaf4596_31144.jpg,Lymphangiectasia,7,7,False
+1_131368cc17e44240_31061.jpg,Ileocecal valve,1,1,False
+1_131368cc17e44240_30989.jpg,Ileocecal valve,1,1,False
+0_fc32def0e7194981_31253.jpg,Normal clean mucosa,0,0,False
+3_131368cc17e44240_1146.jpg,Pylorus,3,3,False
+0_7ad22d50ebaf4596_12470.jpg,Normal clean mucosa,0,0,False
+4_d626f4f4a5ac4785_51501.jpg,Ulcer,4,4,False
+1_131368cc17e44240_31568.jpg,Ileocecal valve,1,1,False
+2_dc221ccc65d34010_48615.jpg,Reduced mucosal view,2,2,False
+0_89cdd41258c542c5_9894.jpg,Normal clean mucosa,0,0,False
+1_131368cc17e44240_31230.jpg,Ileocecal valve,1,1,False
+2_5bb1d3cc7dc64cec_21480.jpg,Reduced mucosal view,2,8,True
+1_8a00709108cd4e2b_17609.jpg,Ileocecal valve,1,1,False
+0_fc32def0e7194981_31440.jpg,Normal clean mucosa,0,0,False
+1_6cb700585c4f4070_26453.jpg,Ileocecal valve,1,1,False
+2_48579eec79784294_26438.jpg,Reduced mucosal view,2,2,False
+0_64440803f87b4843_7391.jpg,Normal clean mucosa,0,0,False
+1_131368cc17e44240_31449.jpg,Ileocecal valve,1,1,False
+1_04a78ef00c5245e0_48740.jpg,Ileocecal valve,1,1,False
+2_c11b28a8b2344716_82043.jpg,Reduced mucosal view,2,2,False
+1_6cb700585c4f4070_26423.jpg,Ileocecal valve,1,1,False
+8_d626f4f4a5ac4785_50183.jpg,Erosion,8,8,False
+2_af9bd7d0e43741e3_29593.jpg,Reduced mucosal view,2,2,False
+8_bca26705313a4644_16164.jpg,Erosion,8,8,False
+5_64440803f87b4843_18764.jpg,Angiectasia,5,5,False
+4_d626f4f4a5ac4785_48493.jpg,Ulcer,4,4,False
+6_3ada4222967f421d_2538.jpg,Foreign body,6,6,False
+2_dc221ccc65d34010_48643.jpg,Reduced mucosal view,2,2,False
+2_dc221ccc65d34010_49066.jpg,Reduced mucosal view,2,3,True
+6_3ada4222967f421d_10689.jpg,Foreign body,6,2,True
+7_7ad22d50ebaf4596_10422.jpg,Lymphangiectasia,7,7,False
+2_dc221ccc65d34010_48806.jpg,Reduced mucosal view,2,2,False
+4_2fc3db471f9d44c0_2560.jpg,Ulcer,4,4,False
+3_7a47e8eacea04e64_2040.jpg,Pylorus,3,3,False
+1_131368cc17e44240_31103.jpg,Ileocecal valve,1,1,False
+4_2fc3db471f9d44c0_1252.jpg,Ulcer,4,4,False
+1_131368cc17e44240_31562.jpg,Ileocecal valve,1,1,False
+0_6cb700585c4f4070_12828.jpg,Normal clean mucosa,0,0,False
+7_64440803f87b4843_17842.jpg,Lymphangiectasia,7,7,False
+4_2fc3db471f9d44c0_5485.jpg,Ulcer,4,4,False
+7_64440803f87b4843_21812.jpg,Lymphangiectasia,7,6,True
+2_8885668afb844852_25823.jpg,Reduced mucosal view,2,3,True
+4_2fc3db471f9d44c0_5468.jpg,Ulcer,4,4,False
+0_7ad22d50ebaf4596_6780.jpg,Normal clean mucosa,0,0,False
+3_0531325b64674948_3556.jpg,Pylorus,3,6,True
+4_d626f4f4a5ac4785_48625.jpg,Ulcer,4,4,False
+3_7a47e8eacea04e64_2059.jpg,Pylorus,3,3,False
+2_af9bd7d0e43741e3_29664.jpg,Reduced mucosal view,2,2,False
+2_c11b28a8b2344716_76359.jpg,Reduced mucosal view,2,2,False
+2_dc221ccc65d34010_49380.jpg,Reduced mucosal view,2,2,False
+3_8885668afb844852_3872.jpg,Pylorus,3,3,False
+2_8ebf0e483cac48d6_15413.jpg,Reduced mucosal view,2,2,False
+1_131368cc17e44240_31290.jpg,Ileocecal valve,1,1,False
+2_dc221ccc65d34010_49182.jpg,Reduced mucosal view,2,2,False
+9_d369e4f163df4aba_13440.jpg,Blood - fresh,9,9,False
+2_af9bd7d0e43741e3_29500.jpg,Reduced mucosal view,2,2,False
+2_8885668afb844852_25863.jpg,Reduced mucosal view,2,2,False
+3_7a47e8eacea04e64_2075.jpg,Pylorus,3,3,False
+7_7ad22d50ebaf4596_27597.jpg,Lymphangiectasia,7,7,False
+3_eb0203196e284797_1113.jpg,Pylorus,3,3,False
+2_48579eec79784294_18300.jpg,Reduced mucosal view,2,2,False
+5_04a78ef00c5245e0_890.jpg,Angiectasia,5,5,False
+2_c11b28a8b2344716_76331.jpg,Reduced mucosal view,2,2,False
+1_7a47e8eacea04e64_63494.jpg,Ileocecal valve,1,1,False
+3_8885668afb844852_3891.jpg,Pylorus,3,3,False
+5_64440803f87b4843_18912.jpg,Angiectasia,5,5,False
+0_64440803f87b4843_5032.jpg,Normal clean mucosa,0,0,False
+2_dc221ccc65d34010_37072.jpg,Reduced mucosal view,2,2,False
+0_5e59c7fdb16c4228_33144.jpg,Normal clean mucosa,0,8,True
+1_fc32def0e7194981_88912.jpg,Ileocecal valve,1,1,False
+2_c11b28a8b2344716_76432.jpg,Reduced mucosal view,2,2,False
+1_6cb700585c4f4070_26485.jpg,Ileocecal valve,1,1,False
+0_fc32def0e7194981_22382.jpg,Normal clean mucosa,0,0,False
+8_bca26705313a4644_18129.jpg,Erosion,8,8,False
+0_0531325b64674948_10121.jpg,Normal clean mucosa,0,0,False
+4_d626f4f4a5ac4785_48573.jpg,Ulcer,4,4,False
+3_8885668afb844852_3965.jpg,Pylorus,3,3,False
+0_fe5d372e43f94f68_2522.jpg,Normal clean mucosa,0,0,False
+1_af9bd7d0e43741e3_30242.jpg,Ileocecal valve,1,1,False
+4_d626f4f4a5ac4785_51502.jpg,Ulcer,4,4,False
+1_c7084b3556e34619_69231.jpg,Ileocecal valve,1,1,False
+0_dac1e27f7e4d4ef5_22710.jpg,Normal clean mucosa,0,0,False
+1_131368cc17e44240_30690.jpg,Ileocecal valve,1,1,False
+2_dc221ccc65d34010_48684.jpg,Reduced mucosal view,2,1,True
+2_5bb1d3cc7dc64cec_21573.jpg,Reduced mucosal view,2,2,False
+8_8ebf0e483cac48d6_29198.jpg,Erosion,8,8,False
+1_131368cc17e44240_30493.jpg,Ileocecal valve,1,1,False
+5_04a78ef00c5245e0_5615.jpg,Angiectasia,5,5,False
+5_64440803f87b4843_18692.jpg,Angiectasia,5,5,False
+1_fe5d372e43f94f68_25950.jpg,Ileocecal valve,1,1,False
+0_c7084b3556e34619_21387.jpg,Normal clean mucosa,0,0,False
+0_495f16498db34d3c_10840.jpg,Normal clean mucosa,0,0,False
+0_ed02f27ef36f483e_13855.jpg,Normal clean mucosa,0,0,False
+0_89cdd41258c542c5_3630.jpg,Normal clean mucosa,0,0,False
+1_4aebc5cb2d4847aa_28503.jpg,Ileocecal valve,1,1,False
+2_dc221ccc65d34010_49373.jpg,Reduced mucosal view,2,2,False
+3_c7084b3556e34619_16381.jpg,Pylorus,3,3,False
+1_131368cc17e44240_31148.jpg,Ileocecal valve,1,1,False
+3_0531325b64674948_3408.jpg,Pylorus,3,7,True
+6_3ada4222967f421d_844.jpg,Foreign body,6,6,False
+8_dac1e27f7e4d4ef5_3383.jpg,Erosion,8,8,False
+3_ed02f27ef36f483e_4455.jpg,Pylorus,3,3,False
+1_48579eec79784294_29752.jpg,Ileocecal valve,1,1,False
+0_89cdd41258c542c5_3537.jpg,Normal clean mucosa,0,0,False
+7_7ad22d50ebaf4596_31197.jpg,Lymphangiectasia,7,7,False
+0_dca1377dec974312_8036.jpg,Normal clean mucosa,0,0,False
+2_8885668afb844852_25685.jpg,Reduced mucosal view,2,2,False
+4_d626f4f4a5ac4785_48555.jpg,Ulcer,4,4,False
+2_c11b28a8b2344716_82014.jpg,Reduced mucosal view,2,2,False
+4_d626f4f4a5ac4785_50960.jpg,Ulcer,4,1,True
+2_c11b28a8b2344716_76443.jpg,Reduced mucosal view,2,2,False
+2_48579eec79784294_18195.jpg,Reduced mucosal view,2,2,False
+7_64440803f87b4843_21520.jpg,Lymphangiectasia,7,7,False
+1_131368cc17e44240_30604.jpg,Ileocecal valve,1,1,False
+8_0728084c8da942d9_27175.jpg,Erosion,8,8,False
+2_dc221ccc65d34010_49229.jpg,Reduced mucosal view,2,2,False
+0_89cdd41258c542c5_9760.jpg,Normal clean mucosa,0,7,True
+2_c11b28a8b2344716_81917.jpg,Reduced mucosal view,2,2,False
+0_dca1377dec974312_7972.jpg,Normal clean mucosa,0,0,False
+1_6cb700585c4f4070_26579.jpg,Ileocecal valve,1,1,False
+0_fe5d372e43f94f68_2313.jpg,Normal clean mucosa,0,0,False
+3_bc84479c66fe4da6_9024.jpg,Pylorus,3,3,False
+1_131368cc17e44240_31167.jpg,Ileocecal valve,1,1,False
+1_4aebc5cb2d4847aa_28501.jpg,Ileocecal valve,1,1,False
+3_04a78ef00c5245e0_11823.jpg,Pylorus,3,3,False
+4_d626f4f4a5ac4785_51392.jpg,Ulcer,4,4,False
+0_fb86bc87d3874cd7_10611.jpg,Normal clean mucosa,0,0,False
+1_5bb1d3cc7dc64cec_34174.jpg,Ileocecal valve,1,1,False
+2_dc221ccc65d34010_49355.jpg,Reduced mucosal view,2,2,False
+2_8ebf0e483cac48d6_15446.jpg,Reduced mucosal view,2,2,False
+2_48579eec79784294_18260.jpg,Reduced mucosal view,2,8,True
+3_131368cc17e44240_1178.jpg,Pylorus,3,3,False
+0_bca26705313a4644_23456.jpg,Normal clean mucosa,0,0,False
+4_d626f4f4a5ac4785_48596.jpg,Ulcer,4,4,False
+2_8885668afb844852_25844.jpg,Reduced mucosal view,2,2,False
+0_5bb1d3cc7dc64cec_16554.jpg,Normal clean mucosa,0,0,False
+5_64440803f87b4843_18384.jpg,Angiectasia,5,0,True
+1_131368cc17e44240_30514.jpg,Ileocecal valve,1,1,False
+1_04a78ef00c5245e0_48483.jpg,Ileocecal valve,1,1,False
+9_d369e4f163df4aba_15582.jpg,Blood - fresh,9,9,False
+2_dc221ccc65d34010_37130.jpg,Reduced mucosal view,2,2,False
+2_8ebf0e483cac48d6_15466.jpg,Reduced mucosal view,2,2,False
+1_4560e83f9afc4685_20353.jpg,Ileocecal valve,1,1,False
+0_64440803f87b4843_4939.jpg,Normal clean mucosa,0,0,False
+0_eb0203196e284797_3093.jpg,Normal clean mucosa,0,0,False
+5_64440803f87b4843_19209.jpg,Angiectasia,5,5,False
+2_dc221ccc65d34010_49135.jpg,Reduced mucosal view,2,2,False
+5_64440803f87b4843_18641.jpg,Angiectasia,5,5,False
+2_dc221ccc65d34010_37022.jpg,Reduced mucosal view,2,2,False
+0_df6b47bafe5143f5_2838.jpg,Normal clean mucosa,0,0,False
+0_dc221ccc65d34010_16632.jpg,Normal clean mucosa,0,0,False
+9_d369e4f163df4aba_13460.jpg,Blood - fresh,9,9,False
+0_eb0203196e284797_7050.jpg,Normal clean mucosa,0,0,False
+2_af9bd7d0e43741e3_29453.jpg,Reduced mucosal view,2,2,False
+0_07c1fa15a20a4398_1394.jpg,Normal clean mucosa,0,0,False
+7_7ad22d50ebaf4596_31190.jpg,Lymphangiectasia,7,7,False
+7_7ad22d50ebaf4596_27290.jpg,Lymphangiectasia,7,7,False
+8_eb0203196e284797_6252.jpg,Erosion,8,8,False
+2_8ebf0e483cac48d6_15379.jpg,Reduced mucosal view,2,2,False
+2_dc221ccc65d34010_48598.jpg,Reduced mucosal view,2,2,False
+1_131368cc17e44240_31218.jpg,Ileocecal valve,1,1,False
+2_c11b28a8b2344716_82000.jpg,Reduced mucosal view,2,2,False
+2_dc221ccc65d34010_37159.jpg,Reduced mucosal view,2,2,False
+2_48579eec79784294_26349.jpg,Reduced mucosal view,2,6,True
+4_d626f4f4a5ac4785_48351.jpg,Ulcer,4,4,False
+2_dc221ccc65d34010_48830.jpg,Reduced mucosal view,2,2,False
+0_5e59c7fdb16c4228_3458.jpg,Normal clean mucosa,0,0,False
+3_d7a271f233ba4a40_4621.jpg,Pylorus,3,3,False
+1_131368cc17e44240_30577.jpg,Ileocecal valve,1,1,False
+5_64440803f87b4843_19177.jpg,Angiectasia,5,5,False
+1_131368cc17e44240_30908.jpg,Ileocecal valve,1,1,False
+4_d626f4f4a5ac4785_48675.jpg,Ulcer,4,4,False
+1_04a78ef00c5245e0_48830.jpg,Ileocecal valve,1,1,False
+3_8885668afb844852_4018.jpg,Pylorus,3,3,False
+0_b2134f4a6f864613_4004.jpg,Normal clean mucosa,0,0,False
+4_d626f4f4a5ac4785_48419.jpg,Ulcer,4,4,False
+2_dc221ccc65d34010_48983.jpg,Reduced mucosal view,2,2,False
+0_3c8d5f0b90d7475d_11036.jpg,Normal clean mucosa,0,0,False
+3_7a47e8eacea04e64_2035.jpg,Pylorus,3,3,False
+7_64440803f87b4843_21820.jpg,Lymphangiectasia,7,7,False
+7_64440803f87b4843_17864.jpg,Lymphangiectasia,7,7,False
+2_8885668afb844852_25775.jpg,Reduced mucosal view,2,2,False
+1_6cb700585c4f4070_26484.jpg,Ileocecal valve,1,1,False
+4_7a47e8eacea04e64_52277.jpg,Ulcer,4,4,False
+0_3c8d5f0b90d7475d_5060.jpg,Normal clean mucosa,0,0,False
+1_fc32def0e7194981_88851.jpg,Ileocecal valve,1,1,False
+7_7ad22d50ebaf4596_29237.jpg,Lymphangiectasia,7,7,False
+2_dc221ccc65d34010_49079.jpg,Reduced mucosal view,2,2,False
+2_dc221ccc65d34010_48993.jpg,Reduced mucosal view,2,0,True
+4_d626f4f4a5ac4785_38702.jpg,Ulcer,4,3,True
+8_d626f4f4a5ac4785_50086.jpg,Erosion,8,8,False
+0_5e59c7fdb16c4228_3408.jpg,Normal clean mucosa,0,0,False
+0_bc84479c66fe4da6_24426.jpg,Normal clean mucosa,0,0,False
+0_5e9beaf4e66142c8_11832.jpg,Normal clean mucosa,0,0,False
+2_8885668afb844852_25709.jpg,Reduced mucosal view,2,1,True
+8_eb0203196e284797_1137.jpg,Erosion,8,2,True
+0_bca26705313a4644_22860.jpg,Normal clean mucosa,0,0,False
+2_8885668afb844852_25750.jpg,Reduced mucosal view,2,2,False
+1_131368cc17e44240_31289.jpg,Ileocecal valve,1,1,False
+0_7ad22d50ebaf4596_12625.jpg,Normal clean mucosa,0,0,False
+0_df6b47bafe5143f5_10046.jpg,Normal clean mucosa,0,0,False
+6_3ada4222967f421d_2172.jpg,Foreign body,6,6,False
+8_5e59c7fdb16c4228_32325.jpg,Erosion,8,8,False
+2_af9bd7d0e43741e3_29509.jpg,Reduced mucosal view,2,2,False
+4_2fc3db471f9d44c0_2563.jpg,Ulcer,4,4,False
+1_131368cc17e44240_31350.jpg,Ileocecal valve,1,1,False
+2_af9bd7d0e43741e3_29496.jpg,Reduced mucosal view,2,4,True
+0_6cb700585c4f4070_21931.jpg,Normal clean mucosa,0,0,False
+2_dc221ccc65d34010_37098.jpg,Reduced mucosal view,2,2,False
+5_64440803f87b4843_18755.jpg,Angiectasia,5,5,False
+0_d369e4f163df4aba_9694.jpg,Normal clean mucosa,0,0,False
+6_3ada4222967f421d_2498.jpg,Foreign body,6,6,False
+3_3ada4222967f421d_3255.jpg,Pylorus,3,3,False
+6_3ada4222967f421d_2567.jpg,Foreign body,6,6,False
+1_131368cc17e44240_30550.jpg,Ileocecal valve,1,1,False
+2_8885668afb844852_25831.jpg,Reduced mucosal view,2,2,False
+8_bca26705313a4644_16395.jpg,Erosion,8,8,False
+4_7a47e8eacea04e64_52389.jpg,Ulcer,4,4,False
+7_7ad22d50ebaf4596_31265.jpg,Lymphangiectasia,7,7,False
+1_131368cc17e44240_30466.jpg,Ileocecal valve,1,1,False
+0_3c8d5f0b90d7475d_10980.jpg,Normal clean mucosa,0,0,False
+0_495f16498db34d3c_21179.jpg,Normal clean mucosa,0,0,False
+9_d369e4f163df4aba_14239.jpg,Blood - fresh,9,9,False
+0_8ebf0e483cac48d6_7172.jpg,Normal clean mucosa,0,0,False
+4_d626f4f4a5ac4785_48563.jpg,Ulcer,4,4,False
+0_fb86bc87d3874cd7_30547.jpg,Normal clean mucosa,0,0,False
+1_5e59c7fdb16c4228_45185.jpg,Ileocecal valve,1,1,False
+2_dc221ccc65d34010_49166.jpg,Reduced mucosal view,2,2,False
+6_3ada4222967f421d_11475.jpg,Foreign body,6,6,False
+3_0531325b64674948_3447.jpg,Pylorus,3,3,False
+1_131368cc17e44240_31042.jpg,Ileocecal valve,1,1,False
+0_d369e4f163df4aba_8125.jpg,Normal clean mucosa,0,0,False
+1_131368cc17e44240_31420.jpg,Ileocecal valve,1,1,False
+6_3ada4222967f421d_2412.jpg,Foreign body,6,6,False
+7_7ad22d50ebaf4596_27293.jpg,Lymphangiectasia,7,7,False
+1_dc221ccc65d34010_84139.jpg,Ileocecal valve,1,1,False
+1_04a78ef00c5245e0_48623.jpg,Ileocecal valve,1,1,False
+5_64440803f87b4843_18462.jpg,Angiectasia,5,5,False
+0_48579eec79784294_5996.jpg,Normal clean mucosa,0,0,False
+2_c11b28a8b2344716_76459.jpg,Reduced mucosal view,2,2,False
+0_dca1377dec974312_8092.jpg,Normal clean mucosa,0,0,False
+8_8ebf0e483cac48d6_11693.jpg,Erosion,8,8,False
+0_64440803f87b4843_7276.jpg,Normal clean mucosa,0,0,False
+5_64440803f87b4843_18603.jpg,Angiectasia,5,5,False
+1_8885668afb844852_35594.jpg,Ileocecal valve,1,9,True
+3_4560e83f9afc4685_884.jpg,Pylorus,3,3,False
+2_c11b28a8b2344716_76445.jpg,Reduced mucosal view,2,8,True
+2_8ebf0e483cac48d6_15502.jpg,Reduced mucosal view,2,2,False
+7_7ad22d50ebaf4596_29250.jpg,Lymphangiectasia,7,7,False
+2_48579eec79784294_18093.jpg,Reduced mucosal view,2,2,False
+6_3ada4222967f421d_10766.jpg,Foreign body,6,6,False
+6_3ada4222967f421d_10753.jpg,Foreign body,6,6,False
+1_131368cc17e44240_31653.jpg,Ileocecal valve,1,1,False
+7_7ad22d50ebaf4596_22847.jpg,Lymphangiectasia,7,7,False
+2_8885668afb844852_25778.jpg,Reduced mucosal view,2,2,False
+4_d626f4f4a5ac4785_50731.jpg,Ulcer,4,4,False
+8_fb86bc87d3874cd7_358.jpg,Erosion,8,8,False
+6_3ada4222967f421d_10763.jpg,Foreign body,6,6,False
+0_8885668afb844852_17515.jpg,Normal clean mucosa,0,1,True
+2_c11b28a8b2344716_81960.jpg,Reduced mucosal view,2,2,False
+1_48579eec79784294_29804.jpg,Ileocecal valve,1,1,False
+1_131368cc17e44240_31269.jpg,Ileocecal valve,1,1,False
+5_04a78ef00c5245e0_5634.jpg,Angiectasia,5,5,False
+2_dc221ccc65d34010_37036.jpg,Reduced mucosal view,2,2,False
+0_07c1fa15a20a4398_5012.jpg,Normal clean mucosa,0,0,False
+2_48579eec79784294_26373.jpg,Reduced mucosal view,2,2,False
+0_d7a271f233ba4a40_11161.jpg,Normal clean mucosa,0,0,False
+1_dca1377dec974312_16094.jpg,Ileocecal valve,1,1,False
+2_8885668afb844852_25954.jpg,Reduced mucosal view,2,5,True
+3_c7084b3556e34619_16386.jpg,Pylorus,3,3,False
+8_8ebf0e483cac48d6_29213.jpg,Erosion,8,8,False
+0_04a78ef00c5245e0_27954.jpg,Normal clean mucosa,0,0,False
+4_d626f4f4a5ac4785_52259.jpg,Ulcer,4,4,False
+1_131368cc17e44240_30463.jpg,Ileocecal valve,1,1,False
+7_64440803f87b4843_17863.jpg,Lymphangiectasia,7,7,False
+0_8a00709108cd4e2b_4712.jpg,Normal clean mucosa,0,3,True
+0_5e59c7fdb16c4228_4389.jpg,Normal clean mucosa,0,0,False
+0_bc84479c66fe4da6_23344.jpg,Normal clean mucosa,0,0,False
+7_7ad22d50ebaf4596_27516.jpg,Lymphangiectasia,7,7,False
+2_dc221ccc65d34010_49000.jpg,Reduced mucosal view,2,2,False
+0_fb86bc87d3874cd7_25407.jpg,Normal clean mucosa,0,0,False
+1_04a78ef00c5245e0_48571.jpg,Ileocecal valve,1,1,False
+1_c7084b3556e34619_69229.jpg,Ileocecal valve,1,1,False
+2_c11b28a8b2344716_76350.jpg,Reduced mucosal view,2,2,False
+3_bc84479c66fe4da6_8995.jpg,Pylorus,3,3,False
+0_0728084c8da942d9_5209.jpg,Normal clean mucosa,0,0,False
+6_3ada4222967f421d_11455.jpg,Foreign body,6,6,False
+4_d626f4f4a5ac4785_52265.jpg,Ulcer,4,4,False
+5_b2134f4a6f864613_18045.jpg,Angiectasia,5,5,False
+1_131368cc17e44240_31247.jpg,Ileocecal valve,1,1,False
+0_dac1e27f7e4d4ef5_9892.jpg,Normal clean mucosa,0,0,False
+1_5bb1d3cc7dc64cec_34079.jpg,Ileocecal valve,1,1,False
+1_131368cc17e44240_30556.jpg,Ileocecal valve,1,1,False
+0_131368cc17e44240_4479.jpg,Normal clean mucosa,0,0,False
+2_dc221ccc65d34010_49048.jpg,Reduced mucosal view,2,2,False
+0_4560e83f9afc4685_6723.jpg,Normal clean mucosa,0,0,False
+1_495f16498db34d3c_32887.jpg,Ileocecal valve,1,1,False
+3_8885668afb844852_3880.jpg,Pylorus,3,3,False
+2_dc221ccc65d34010_49100.jpg,Reduced mucosal view,2,2,False
+1_ed02f27ef36f483e_58577.jpg,Ileocecal valve,1,1,False
+2_dc221ccc65d34010_48950.jpg,Reduced mucosal view,2,2,False
+2_c11b28a8b2344716_76337.jpg,Reduced mucosal view,2,9,True
+1_dc221ccc65d34010_84225.jpg,Ileocecal valve,1,1,False
+2_dc221ccc65d34010_49131.jpg,Reduced mucosal view,2,2,False
+5_64440803f87b4843_18763.jpg,Angiectasia,5,5,False
+1_fc32def0e7194981_89000.jpg,Ileocecal valve,1,1,False
+0_c7084b3556e34619_39534.jpg,Normal clean mucosa,0,0,False
+0_0728084c8da942d9_23114.jpg,Normal clean mucosa,0,0,False
+5_64440803f87b4843_19184.jpg,Angiectasia,5,5,False
+4_d626f4f4a5ac4785_50398.jpg,Ulcer,4,4,False
+2_48579eec79784294_26471.jpg,Reduced mucosal view,2,2,False
+4_d626f4f4a5ac4785_48529.jpg,Ulcer,4,4,False
+2_dc221ccc65d34010_37166.jpg,Reduced mucosal view,2,5,True
+2_48579eec79784294_26518.jpg,Reduced mucosal view,2,2,False
+1_dc221ccc65d34010_84316.jpg,Ileocecal valve,1,4,True
+3_8885668afb844852_3884.jpg,Pylorus,3,3,False
+9_d369e4f163df4aba_15584.jpg,Blood - fresh,9,9,False
+1_c7084b3556e34619_69244.jpg,Ileocecal valve,1,1,False
+2_dc221ccc65d34010_37087.jpg,Reduced mucosal view,2,2,False
+5_64440803f87b4843_18652.jpg,Angiectasia,5,5,False
+5_64440803f87b4843_18704.jpg,Angiectasia,5,5,False
+1_af9bd7d0e43741e3_30228.jpg,Ileocecal valve,1,1,False
+6_3ada4222967f421d_2410.jpg,Foreign body,6,6,False
+4_7a47e8eacea04e64_52357.jpg,Ulcer,4,3,True
+1_fc32def0e7194981_88990.jpg,Ileocecal valve,1,1,False
+2_c11b28a8b2344716_76490.jpg,Reduced mucosal view,2,2,False
+5_64440803f87b4843_18824.jpg,Angiectasia,5,6,True
+7_7ad22d50ebaf4596_10429.jpg,Lymphangiectasia,7,7,False
+2_48579eec79784294_18228.jpg,Reduced mucosal view,2,2,False
+0_3c8d5f0b90d7475d_3638.jpg,Normal clean mucosa,0,0,False
+1_8a00709108cd4e2b_17624.jpg,Ileocecal valve,1,1,False
+7_7ad22d50ebaf4596_10419.jpg,Lymphangiectasia,7,7,False
+2_c11b28a8b2344716_81894.jpg,Reduced mucosal view,2,2,False
+3_af9bd7d0e43741e3_2069.jpg,Pylorus,3,3,False
+1_8885668afb844852_35635.jpg,Ileocecal valve,1,1,False
+0_dac1e27f7e4d4ef5_9871.jpg,Normal clean mucosa,0,0,False
+2_48579eec79784294_26442.jpg,Reduced mucosal view,2,2,False
+8_fb86bc87d3874cd7_454.jpg,Erosion,8,8,False
+1_131368cc17e44240_30810.jpg,Ileocecal valve,1,1,False
+1_131368cc17e44240_31652.jpg,Ileocecal valve,1,1,False
+2_af9bd7d0e43741e3_29548.jpg,Reduced mucosal view,2,2,False
+3_89cdd41258c542c5_2677.jpg,Pylorus,3,3,False
+0_fc32def0e7194981_22257.jpg,Normal clean mucosa,0,0,False
+0_5e9beaf4e66142c8_11843.jpg,Normal clean mucosa,0,0,False
+9_d369e4f163df4aba_12034.jpg,Blood - fresh,9,9,False
+1_5e59c7fdb16c4228_45158.jpg,Ileocecal valve,1,1,False
+8_8ebf0e483cac48d6_11703.jpg,Erosion,8,8,False
+0_eb0203196e284797_5847.jpg,Normal clean mucosa,0,8,True
+6_3ada4222967f421d_10709.jpg,Foreign body,6,6,False
+8_0728084c8da942d9_29990.jpg,Erosion,8,8,False
+5_64440803f87b4843_19190.jpg,Angiectasia,5,5,False
+2_c11b28a8b2344716_82010.jpg,Reduced mucosal view,2,2,False
+2_af9bd7d0e43741e3_29539.jpg,Reduced mucosal view,2,2,False
+2_dc221ccc65d34010_49143.jpg,Reduced mucosal view,2,2,False
+4_d626f4f4a5ac4785_51693.jpg,Ulcer,4,1,True
+0_07c1fa15a20a4398_1638.jpg,Normal clean mucosa,0,0,False
+5_64440803f87b4843_18893.jpg,Angiectasia,5,5,False
+0_fb86bc87d3874cd7_7218.jpg,Normal clean mucosa,0,0,False
+8_0728084c8da942d9_28746.jpg,Erosion,8,8,False
+2_af9bd7d0e43741e3_29631.jpg,Reduced mucosal view,2,2,False
+6_3ada4222967f421d_2176.jpg,Foreign body,6,6,False
+2_48579eec79784294_18204.jpg,Reduced mucosal view,2,2,False
+0_5e59c7fdb16c4228_39884.jpg,Normal clean mucosa,0,0,False
+1_fc32def0e7194981_88971.jpg,Ileocecal valve,1,1,False
+3_dac1e27f7e4d4ef5_6807.jpg,Pylorus,3,4,True
+5_64440803f87b4843_19186.jpg,Angiectasia,5,5,False
+1_04a78ef00c5245e0_48738.jpg,Ileocecal valve,1,1,False
+0_bca26705313a4644_23237.jpg,Normal clean mucosa,0,0,False
+1_131368cc17e44240_31215.jpg,Ileocecal valve,1,1,False
+0_fb86bc87d3874cd7_30597.jpg,Normal clean mucosa,0,0,False
+2_8ebf0e483cac48d6_15450.jpg,Reduced mucosal view,2,2,False
+1_04a78ef00c5245e0_48504.jpg,Ileocecal valve,1,1,False
+2_48579eec79784294_26327.jpg,Reduced mucosal view,2,2,False
+4_2fc3db471f9d44c0_2565.jpg,Ulcer,4,4,False
+0_fc32def0e7194981_58653.jpg,Normal clean mucosa,0,0,False
+1_64440803f87b4843_32286.jpg,Ileocecal valve,1,1,False
+2_8885668afb844852_25943.jpg,Reduced mucosal view,2,2,False
+7_7ad22d50ebaf4596_29235.jpg,Lymphangiectasia,7,7,False
+1_8ebf0e483cac48d6_28604.jpg,Ileocecal valve,1,1,False
+0_b2134f4a6f864613_4161.jpg,Normal clean mucosa,0,0,False
+0_5bb1d3cc7dc64cec_7508.jpg,Normal clean mucosa,0,0,False
+3_ed02f27ef36f483e_4465.jpg,Pylorus,3,6,True
+3_d7a271f233ba4a40_4609.jpg,Pylorus,3,2,True
+6_8885668afb844852_15897.jpg,Foreign body,6,6,False
+3_ed02f27ef36f483e_4462.jpg,Pylorus,3,3,False
+1_131368cc17e44240_31244.jpg,Ileocecal valve,1,1,False
+4_d626f4f4a5ac4785_48436.jpg,Ulcer,4,4,False
+0_fc32def0e7194981_22453.jpg,Normal clean mucosa,0,0,False
+1_131368cc17e44240_31482.jpg,Ileocecal valve,1,1,False
+1_131368cc17e44240_30996.jpg,Ileocecal valve,1,1,False
+0_89cdd41258c542c5_12921.jpg,Normal clean mucosa,0,0,False
+0_df6b47bafe5143f5_9979.jpg,Normal clean mucosa,0,0,False
+2_dc221ccc65d34010_48883.jpg,Reduced mucosal view,2,2,False
+4_d626f4f4a5ac4785_48663.jpg,Ulcer,4,4,False
+2_dc221ccc65d34010_49068.jpg,Reduced mucosal view,2,2,False
+1_131368cc17e44240_30741.jpg,Ileocecal valve,1,1,False
+0_64440803f87b4843_7519.jpg,Normal clean mucosa,0,0,False
+2_dc221ccc65d34010_49322.jpg,Reduced mucosal view,2,2,False
+0_8a00709108cd4e2b_4784.jpg,Normal clean mucosa,0,1,True
+1_131368cc17e44240_31142.jpg,Ileocecal valve,1,1,False
+0_bc84479c66fe4da6_23296.jpg,Normal clean mucosa,0,0,False
+3_bc84479c66fe4da6_9002.jpg,Pylorus,3,7,True
+2_48579eec79784294_26395.jpg,Reduced mucosal view,2,2,False
+4_d626f4f4a5ac4785_51586.jpg,Ulcer,4,4,False
+2_48579eec79784294_26434.jpg,Reduced mucosal view,2,2,False
+3_7ad22d50ebaf4596_2835.jpg,Pylorus,3,3,False
+0_04a78ef00c5245e0_21157.jpg,Normal clean mucosa,0,6,True
+2_8885668afb844852_25791.jpg,Reduced mucosal view,2,2,False
+0_5e59c7fdb16c4228_7760.jpg,Normal clean mucosa,0,0,False
+1_64440803f87b4843_32283.jpg,Ileocecal valve,1,1,False
+2_8ebf0e483cac48d6_15397.jpg,Reduced mucosal view,2,2,False
+0_d7a271f233ba4a40_11132.jpg,Normal clean mucosa,0,0,False
+9_d369e4f163df4aba_13511.jpg,Blood - fresh,9,9,False
+0_bca26705313a4644_23329.jpg,Normal clean mucosa,0,0,False
+1_131368cc17e44240_31409.jpg,Ileocecal valve,1,6,True
+3_d626f4f4a5ac4785_7716.jpg,Pylorus,3,3,False
+2_8885668afb844852_25774.jpg,Reduced mucosal view,2,5,True
+0_ed02f27ef36f483e_13833.jpg,Normal clean mucosa,0,0,False
+2_5bb1d3cc7dc64cec_21428.jpg,Reduced mucosal view,2,2,False
+1_dc221ccc65d34010_84156.jpg,Ileocecal valve,1,1,False
+2_8885668afb844852_25842.jpg,Reduced mucosal view,2,2,False
+2_dc221ccc65d34010_48755.jpg,Reduced mucosal view,2,2,False
+1_dc221ccc65d34010_84128.jpg,Ileocecal valve,1,1,False
+0_df6b47bafe5143f5_13366.jpg,Normal clean mucosa,0,0,False
+0_3c8d5f0b90d7475d_3574.jpg,Normal clean mucosa,0,0,False
+3_0531325b64674948_3563.jpg,Pylorus,3,3,False
+7_64440803f87b4843_17881.jpg,Lymphangiectasia,7,7,False
+2_dc221ccc65d34010_49002.jpg,Reduced mucosal view,2,2,False
+6_3ada4222967f421d_2565.jpg,Foreign body,6,6,False
+6_8885668afb844852_15855.jpg,Foreign body,6,6,False
+4_d626f4f4a5ac4785_48343.jpg,Ulcer,4,7,True
+1_5e59c7fdb16c4228_45242.jpg,Ileocecal valve,1,1,False
+1_6cb700585c4f4070_26547.jpg,Ileocecal valve,1,1,False
+0_fb86bc87d3874cd7_25158.jpg,Normal clean mucosa,0,0,False
+6_3ada4222967f421d_10727.jpg,Foreign body,6,6,False
+0_b2134f4a6f864613_15974.jpg,Normal clean mucosa,0,7,True
+7_04a78ef00c5245e0_12372.jpg,Lymphangiectasia,7,7,False
+2_dc221ccc65d34010_48985.jpg,Reduced mucosal view,2,2,False
+2_dc221ccc65d34010_37078.jpg,Reduced mucosal view,2,2,False
+1_4560e83f9afc4685_20357.jpg,Ileocecal valve,1,1,False
+1_6cb700585c4f4070_26435.jpg,Ileocecal valve,1,1,False
+3_4560e83f9afc4685_893.jpg,Pylorus,3,3,False
+0_64440803f87b4843_5716.jpg,Normal clean mucosa,0,0,False
+0_dac1e27f7e4d4ef5_4353.jpg,Normal clean mucosa,0,0,False
+3_bc84479c66fe4da6_9112.jpg,Pylorus,3,3,False
+2_af9bd7d0e43741e3_29584.jpg,Reduced mucosal view,2,2,False
+5_64440803f87b4843_18957.jpg,Angiectasia,5,5,False
+6_3ada4222967f421d_3437.jpg,Foreign body,6,6,False
+0_8ebf0e483cac48d6_7162.jpg,Normal clean mucosa,0,0,False
+0_04a78ef00c5245e0_14128.jpg,Normal clean mucosa,0,0,False
+0_bc84479c66fe4da6_23147.jpg,Normal clean mucosa,0,0,False
+2_dc221ccc65d34010_48721.jpg,Reduced mucosal view,2,2,False
+7_7ad22d50ebaf4596_27626.jpg,Lymphangiectasia,7,7,False
+9_04a78ef00c5245e0_11215.jpg,Blood - fresh,9,9,False
+3_0531325b64674948_3570.jpg,Pylorus,3,3,False
+2_8ebf0e483cac48d6_15471.jpg,Reduced mucosal view,2,2,False
+2_c11b28a8b2344716_76272.jpg,Reduced mucosal view,2,2,False
+2_8ebf0e483cac48d6_15516.jpg,Reduced mucosal view,2,2,False
+1_8a00709108cd4e2b_17619.jpg,Ileocecal valve,1,1,False
+5_04a78ef00c5245e0_902.jpg,Angiectasia,5,5,False
+2_af9bd7d0e43741e3_29464.jpg,Reduced mucosal view,2,2,False
+0_48579eec79784294_13320.jpg,Normal clean mucosa,0,0,False
+0_d7a271f233ba4a40_10926.jpg,Normal clean mucosa,0,7,True
+1_04a78ef00c5245e0_48625.jpg,Ileocecal valve,1,1,False
+2_48579eec79784294_18165.jpg,Reduced mucosal view,2,2,False
+0_dca1377dec974312_5955.jpg,Normal clean mucosa,0,0,False
+3_5e59c7fdb16c4228_2794.jpg,Pylorus,3,3,False
+3_d7a271f233ba4a40_4614.jpg,Pylorus,3,4,True
+2_48579eec79784294_18318.jpg,Reduced mucosal view,2,2,False
+2_dc221ccc65d34010_49088.jpg,Reduced mucosal view,2,2,False
+6_3ada4222967f421d_2175.jpg,Foreign body,6,6,False
+1_48579eec79784294_29802.jpg,Ileocecal valve,1,1,False
+6_8885668afb844852_8207.jpg,Foreign body,6,6,False
+2_dc221ccc65d34010_48577.jpg,Reduced mucosal view,2,2,False
+9_d369e4f163df4aba_13417.jpg,Blood - fresh,9,9,False
+1_fc32def0e7194981_88881.jpg,Ileocecal valve,1,1,False
+0_bc84479c66fe4da6_23237.jpg,Normal clean mucosa,0,0,False
+7_7ad22d50ebaf4596_31189.jpg,Lymphangiectasia,7,7,False
+7_64440803f87b4843_21833.jpg,Lymphangiectasia,7,7,False
+7_64440803f87b4843_17934.jpg,Lymphangiectasia,7,7,False
+3_ed02f27ef36f483e_4475.jpg,Pylorus,3,3,False
+1_131368cc17e44240_31498.jpg,Ileocecal valve,1,1,False
+9_d369e4f163df4aba_13337.jpg,Blood - fresh,9,9,False
+6_3ada4222967f421d_2365.jpg,Foreign body,6,6,False
+5_64440803f87b4843_18881.jpg,Angiectasia,5,5,False
+4_7a47e8eacea04e64_52017.jpg,Ulcer,4,4,False
+0_5e59c7fdb16c4228_7800.jpg,Normal clean mucosa,0,0,False
+0_b2134f4a6f864613_4159.jpg,Normal clean mucosa,0,0,False
+8_bca26705313a4644_18110.jpg,Erosion,8,8,False
+7_64440803f87b4843_17836.jpg,Lymphangiectasia,7,7,False
+1_131368cc17e44240_31004.jpg,Ileocecal valve,1,1,False
+9_d369e4f163df4aba_2121.jpg,Blood - fresh,9,9,False
+2_c11b28a8b2344716_76394.jpg,Reduced mucosal view,2,2,False
+8_8ebf0e483cac48d6_11685.jpg,Erosion,8,8,False
+2_8885668afb844852_25845.jpg,Reduced mucosal view,2,2,False
+8_0728084c8da942d9_28748.jpg,Erosion,8,8,False
+1_131368cc17e44240_30509.jpg,Ileocecal valve,1,1,False
+0_dac1e27f7e4d4ef5_7512.jpg,Normal clean mucosa,0,0,False
+2_c11b28a8b2344716_81893.jpg,Reduced mucosal view,2,2,False
+9_d369e4f163df4aba_2105.jpg,Blood - fresh,9,9,False
+1_39960e5e099a45ca_32905.jpg,Ileocecal valve,1,1,False
+0_b2134f4a6f864613_10604.jpg,Normal clean mucosa,0,0,False
+0_d369e4f163df4aba_8031.jpg,Normal clean mucosa,0,0,False
+0_bc84479c66fe4da6_23937.jpg,Normal clean mucosa,0,0,False
+9_d369e4f163df4aba_2108.jpg,Blood - fresh,9,9,False
+2_c11b28a8b2344716_76389.jpg,Reduced mucosal view,2,2,False
+2_48579eec79784294_18158.jpg,Reduced mucosal view,2,2,False
+1_04a78ef00c5245e0_48792.jpg,Ileocecal valve,1,1,False
+1_dc221ccc65d34010_84239.jpg,Ileocecal valve,1,1,False
+3_4560e83f9afc4685_885.jpg,Pylorus,3,3,False
+7_7ad22d50ebaf4596_27486.jpg,Lymphangiectasia,7,7,False
+9_d369e4f163df4aba_13390.jpg,Blood - fresh,9,9,False
+5_64440803f87b4843_18922.jpg,Angiectasia,5,5,False
+3_0531325b64674948_3531.jpg,Pylorus,3,3,False
+1_5bb1d3cc7dc64cec_34086.jpg,Ileocecal valve,1,1,False
+5_04a78ef00c5245e0_4767.jpg,Angiectasia,5,5,False
+1_131368cc17e44240_30501.jpg,Ileocecal valve,1,1,False
+1_af9bd7d0e43741e3_30174.jpg,Ileocecal valve,1,1,False
+3_af9bd7d0e43741e3_2083.jpg,Pylorus,3,3,False
+0_fb86bc87d3874cd7_30616.jpg,Normal clean mucosa,0,0,False
+1_131368cc17e44240_31225.jpg,Ileocecal valve,1,1,False
+0_d369e4f163df4aba_3971.jpg,Normal clean mucosa,0,8,True
+3_bc84479c66fe4da6_9073.jpg,Pylorus,3,3,False
+5_04a78ef00c5245e0_5619.jpg,Angiectasia,5,5,False
+0_fb86bc87d3874cd7_30466.jpg,Normal clean mucosa,0,0,False
+2_8885668afb844852_25715.jpg,Reduced mucosal view,2,2,False
+2_dc221ccc65d34010_49280.jpg,Reduced mucosal view,2,2,False
+1_7a47e8eacea04e64_63461.jpg,Ileocecal valve,1,4,True
+0_bc84479c66fe4da6_24665.jpg,Normal clean mucosa,0,0,False
+0_df6b47bafe5143f5_2542.jpg,Normal clean mucosa,0,0,False
+5_64440803f87b4843_19178.jpg,Angiectasia,5,5,False
+6_8885668afb844852_8129.jpg,Foreign body,6,6,False
+3_0531325b64674948_3492.jpg,Pylorus,3,3,False
+6_3ada4222967f421d_10808.jpg,Foreign body,6,6,False
+0_fb86bc87d3874cd7_12453.jpg,Normal clean mucosa,0,0,False
+1_4aebc5cb2d4847aa_28496.jpg,Ileocecal valve,1,9,True
+6_3ada4222967f421d_10811.jpg,Foreign body,6,6,False
+3_64440803f87b4843_3588.jpg,Pylorus,3,3,False
+2_8885668afb844852_25818.jpg,Reduced mucosal view,2,2,False
+1_c7084b3556e34619_69170.jpg,Ileocecal valve,1,1,False
+0_48579eec79784294_13411.jpg,Normal clean mucosa,0,0,False
+2_5bb1d3cc7dc64cec_21567.jpg,Reduced mucosal view,2,2,False
+4_d626f4f4a5ac4785_48384.jpg,Ulcer,4,4,False
+0_07c1fa15a20a4398_1735.jpg,Normal clean mucosa,0,0,False
+0_bc84479c66fe4da6_23455.jpg,Normal clean mucosa,0,0,False
+3_dca1377dec974312_1563.jpg,Pylorus,3,3,False
+0_5e59c7fdb16c4228_8133.jpg,Normal clean mucosa,0,0,False
+0_3c8d5f0b90d7475d_7210.jpg,Normal clean mucosa,0,6,True
+1_7a47e8eacea04e64_63598.jpg,Ileocecal valve,1,8,True
+5_64440803f87b4843_19306.jpg,Angiectasia,5,5,False
+7_7ad22d50ebaf4596_31210.jpg,Lymphangiectasia,7,7,False
+6_8885668afb844852_8222.jpg,Foreign body,6,6,False
+0_bca26705313a4644_22920.jpg,Normal clean mucosa,0,0,False
+4_d626f4f4a5ac4785_50117.jpg,Ulcer,4,4,False
+2_dc221ccc65d34010_49257.jpg,Reduced mucosal view,2,2,False
+0_b2134f4a6f864613_4165.jpg,Normal clean mucosa,0,0,False
+3_bc84479c66fe4da6_9061.jpg,Pylorus,3,3,False
+7_64440803f87b4843_17858.jpg,Lymphangiectasia,7,7,False
+8_8ebf0e483cac48d6_13444.jpg,Erosion,8,6,True
+0_3c8d5f0b90d7475d_3546.jpg,Normal clean mucosa,0,0,False
+3_c11b28a8b2344716_615.jpg,Pylorus,3,3,False
+2_dc221ccc65d34010_48921.jpg,Reduced mucosal view,2,2,False
+3_64440803f87b4843_3583.jpg,Pylorus,3,3,False
+0_bc84479c66fe4da6_24601.jpg,Normal clean mucosa,0,0,False
+1_04a78ef00c5245e0_48825.jpg,Ileocecal valve,1,1,False
+0_0531325b64674948_10173.jpg,Normal clean mucosa,0,0,False
+4_d626f4f4a5ac4785_48369.jpg,Ulcer,4,4,False
+2_5bb1d3cc7dc64cec_21542.jpg,Reduced mucosal view,2,2,False
+1_ad91cf7ca91440aa_32576.jpg,Ileocecal valve,1,1,False
+3_5e59c7fdb16c4228_2785.jpg,Pylorus,3,5,True
+1_131368cc17e44240_30961.jpg,Ileocecal valve,1,1,False
+6_48579eec79784294_1604.jpg,Foreign body,6,6,False
+0_fb86bc87d3874cd7_5295.jpg,Normal clean mucosa,0,0,False
+2_8885668afb844852_25939.jpg,Reduced mucosal view,2,2,False
+2_8885668afb844852_25757.jpg,Reduced mucosal view,2,2,False
+8_8ebf0e483cac48d6_13427.jpg,Erosion,8,8,False
+0_07c1fa15a20a4398_7321.jpg,Normal clean mucosa,0,0,False
+1_131368cc17e44240_31231.jpg,Ileocecal valve,1,1,False
+3_89cdd41258c542c5_2672.jpg,Pylorus,3,3,False
+5_04a78ef00c5245e0_2720.jpg,Angiectasia,5,5,False
+4_d626f4f4a5ac4785_48418.jpg,Ulcer,4,4,False
+2_48579eec79784294_26497.jpg,Reduced mucosal view,2,2,False
+4_d626f4f4a5ac4785_48520.jpg,Ulcer,4,2,True
+1_131368cc17e44240_31466.jpg,Ileocecal valve,1,1,False
+6_3ada4222967f421d_1522.jpg,Foreign body,6,6,False
+4_d626f4f4a5ac4785_51664.jpg,Ulcer,4,4,False
+0_b2134f4a6f864613_10702.jpg,Normal clean mucosa,0,0,False
+5_64440803f87b4843_18539.jpg,Angiectasia,5,5,False
+1_131368cc17e44240_30866.jpg,Ileocecal valve,1,1,False
+7_64440803f87b4843_17818.jpg,Lymphangiectasia,7,7,False
+8_fb86bc87d3874cd7_729.jpg,Erosion,8,6,True
+0_dac1e27f7e4d4ef5_4728.jpg,Normal clean mucosa,0,0,False
+2_dc221ccc65d34010_48597.jpg,Reduced mucosal view,2,2,False
+8_bca26705313a4644_16142.jpg,Erosion,8,8,False
+2_48579eec79784294_18049.jpg,Reduced mucosal view,2,2,False
+5_04a78ef00c5245e0_5629.jpg,Angiectasia,5,5,False
+4_d626f4f4a5ac4785_50619.jpg,Ulcer,4,5,True
+6_8885668afb844852_15856.jpg,Foreign body,6,6,False
+2_dc221ccc65d34010_49077.jpg,Reduced mucosal view,2,7,True
+2_c11b28a8b2344716_76504.jpg,Reduced mucosal view,2,9,True
+9_d369e4f163df4aba_13327.jpg,Blood - fresh,9,9,False
+3_8885668afb844852_3995.jpg,Pylorus,3,4,True
+1_5e59c7fdb16c4228_45254.jpg,Ileocecal valve,1,1,False
+8_0728084c8da942d9_27177.jpg,Erosion,8,8,False
+2_dc221ccc65d34010_48931.jpg,Reduced mucosal view,2,2,False
+4_d626f4f4a5ac4785_48513.jpg,Ulcer,4,5,True
+5_04a78ef00c5245e0_4374.jpg,Angiectasia,5,8,True
+0_bca26705313a4644_22996.jpg,Normal clean mucosa,0,0,False
+8_0728084c8da942d9_28744.jpg,Erosion,8,8,False
+7_7ad22d50ebaf4596_29257.jpg,Lymphangiectasia,7,7,False
+2_af9bd7d0e43741e3_29508.jpg,Reduced mucosal view,2,2,False
+2_5bb1d3cc7dc64cec_21465.jpg,Reduced mucosal view,2,2,False
+6_8885668afb844852_8149.jpg,Foreign body,6,6,False
+0_5e59c7fdb16c4228_8093.jpg,Normal clean mucosa,0,0,False
+5_64440803f87b4843_18669.jpg,Angiectasia,5,5,False
+1_131368cc17e44240_31139.jpg,Ileocecal valve,1,1,False
+6_3ada4222967f421d_10823.jpg,Foreign body,6,6,False
+5_eb0203196e284797_10020.jpg,Angiectasia,5,5,False
+4_d626f4f4a5ac4785_48741.jpg,Ulcer,4,4,False
+0_dca1377dec974312_6050.jpg,Normal clean mucosa,0,0,False
+6_3ada4222967f421d_11600.jpg,Foreign body,6,6,False
+1_131368cc17e44240_30570.jpg,Ileocecal valve,1,1,False
+1_04a78ef00c5245e0_48871.jpg,Ileocecal valve,1,1,False
+6_7a47e8eacea04e64_8377.jpg,Foreign body,6,6,False
+2_8885668afb844852_25901.jpg,Reduced mucosal view,2,2,False
+7_7ad22d50ebaf4596_31183.jpg,Lymphangiectasia,7,7,False
+0_dca1377dec974312_8020.jpg,Normal clean mucosa,0,0,False
+6_3ada4222967f421d_1306.jpg,Foreign body,6,6,False
+0_64440803f87b4843_7282.jpg,Normal clean mucosa,0,0,False
+2_8885668afb844852_25821.jpg,Reduced mucosal view,2,2,False
+3_0531325b64674948_3441.jpg,Pylorus,3,3,False
+4_2fc3db471f9d44c0_5486.jpg,Ulcer,4,4,False
+2_8885668afb844852_25880.jpg,Reduced mucosal view,2,4,True
+2_c11b28a8b2344716_76303.jpg,Reduced mucosal view,2,2,False
+3_af9bd7d0e43741e3_2037.jpg,Pylorus,3,3,False
+0_eb0203196e284797_3319.jpg,Normal clean mucosa,0,0,False
+5_64440803f87b4843_18951.jpg,Angiectasia,5,5,False
+6_3ada4222967f421d_2532.jpg,Foreign body,6,6,False
+2_dc221ccc65d34010_48929.jpg,Reduced mucosal view,2,2,False
+0_4560e83f9afc4685_6552.jpg,Normal clean mucosa,0,0,False
+1_5e9beaf4e66142c8_49305.jpg,Ileocecal valve,1,1,False
+2_c11b28a8b2344716_76458.jpg,Reduced mucosal view,2,2,False
+9_d369e4f163df4aba_14199.jpg,Blood - fresh,9,9,False
+3_fe5d372e43f94f68_980.jpg,Pylorus,3,3,False
+0_b2134f4a6f864613_10494.jpg,Normal clean mucosa,0,6,True
+1_4560e83f9afc4685_20361.jpg,Ileocecal valve,1,4,True
+7_7ad22d50ebaf4596_31276.jpg,Lymphangiectasia,7,7,False
+2_af9bd7d0e43741e3_29642.jpg,Reduced mucosal view,2,2,False
+1_5e59c7fdb16c4228_45196.jpg,Ileocecal valve,1,1,False
+4_2fc3db471f9d44c0_1737.jpg,Ulcer,4,4,False
+9_04a78ef00c5245e0_11227.jpg,Blood - fresh,9,9,False
+2_48579eec79784294_26400.jpg,Reduced mucosal view,2,2,False
+3_8885668afb844852_3860.jpg,Pylorus,3,3,False
+4_d626f4f4a5ac4785_25806.jpg,Ulcer,4,2,True
+0_c11b28a8b2344716_46419.jpg,Normal clean mucosa,0,0,False
+0_8ebf0e483cac48d6_3973.jpg,Normal clean mucosa,0,0,False
+3_48579eec79784294_1302.jpg,Pylorus,3,3,False
+1_131368cc17e44240_31429.jpg,Ileocecal valve,1,1,False
+2_8885668afb844852_25726.jpg,Reduced mucosal view,2,2,False
+9_d369e4f163df4aba_13388.jpg,Blood - fresh,9,9,False
+2_8ebf0e483cac48d6_15453.jpg,Reduced mucosal view,2,2,False
+1_04a78ef00c5245e0_48748.jpg,Ileocecal valve,1,1,False
+7_7ad22d50ebaf4596_28961.jpg,Lymphangiectasia,7,7,False
+2_af9bd7d0e43741e3_29570.jpg,Reduced mucosal view,2,2,False
+3_8ebf0e483cac48d6_2607.jpg,Pylorus,3,3,False
+0_8a00709108cd4e2b_11765.jpg,Normal clean mucosa,0,0,False
+0_b2134f4a6f864613_14387.jpg,Normal clean mucosa,0,0,False
+1_dc221ccc65d34010_84323.jpg,Ileocecal valve,1,1,False
+4_7a47e8eacea04e64_51630.jpg,Ulcer,4,4,False
+1_48579eec79784294_29747.jpg,Ileocecal valve,1,1,False
+1_131368cc17e44240_31478.jpg,Ileocecal valve,1,1,False
+1_04a78ef00c5245e0_48462.jpg,Ileocecal valve,1,1,False
+3_5e59c7fdb16c4228_2750.jpg,Pylorus,3,3,False
+1_c7084b3556e34619_69110.jpg,Ileocecal valve,1,1,False
+8_8ebf0e483cac48d6_29207.jpg,Erosion,8,8,False
+1_5e9beaf4e66142c8_49277.jpg,Ileocecal valve,1,1,False
+0_bca26705313a4644_22575.jpg,Normal clean mucosa,0,0,False
+2_af9bd7d0e43741e3_29660.jpg,Reduced mucosal view,2,2,False
+0_dac1e27f7e4d4ef5_4503.jpg,Normal clean mucosa,0,0,False
+0_3c8d5f0b90d7475d_7120.jpg,Normal clean mucosa,0,0,False
+1_fc32def0e7194981_88929.jpg,Ileocecal valve,1,1,False
+1_131368cc17e44240_31587.jpg,Ileocecal valve,1,1,False
+1_dc221ccc65d34010_84103.jpg,Ileocecal valve,1,1,False
+6_8885668afb844852_8111.jpg,Foreign body,6,6,False
+1_af9bd7d0e43741e3_30254.jpg,Ileocecal valve,1,1,False
+0_d7a271f233ba4a40_6352.jpg,Normal clean mucosa,0,0,False
+0_dca1377dec974312_10606.jpg,Normal clean mucosa,0,0,False
+2_5bb1d3cc7dc64cec_21586.jpg,Reduced mucosal view,2,2,False
+0_3c8d5f0b90d7475d_11061.jpg,Normal clean mucosa,0,0,False
+0_b2134f4a6f864613_14419.jpg,Normal clean mucosa,0,0,False
+1_6cb700585c4f4070_26430.jpg,Ileocecal valve,1,9,True
+2_8885668afb844852_25671.jpg,Reduced mucosal view,2,2,False
+4_7a47e8eacea04e64_52019.jpg,Ulcer,4,4,False
+0_3c8d5f0b90d7475d_7166.jpg,Normal clean mucosa,0,3,True
+1_5e59c7fdb16c4228_45248.jpg,Ileocecal valve,1,2,True
+6_3ada4222967f421d_3075.jpg,Foreign body,6,6,False
+2_dc221ccc65d34010_49342.jpg,Reduced mucosal view,2,2,False
+3_8885668afb844852_3991.jpg,Pylorus,3,6,True
+7_64440803f87b4843_17876.jpg,Lymphangiectasia,7,6,True
+4_d626f4f4a5ac4785_38671.jpg,Ulcer,4,4,False
+0_5e59c7fdb16c4228_4476.jpg,Normal clean mucosa,0,0,False
+4_2fc3db471f9d44c0_5463.jpg,Ulcer,4,4,False
+1_dc221ccc65d34010_84163.jpg,Ileocecal valve,1,1,False
+7_04a78ef00c5245e0_12389.jpg,Lymphangiectasia,7,7,False
+2_48579eec79784294_26412.jpg,Reduced mucosal view,2,2,False
+6_3ada4222967f421d_2406.jpg,Foreign body,6,6,False
+3_0531325b64674948_3459.jpg,Pylorus,3,3,False
+3_8885668afb844852_3878.jpg,Pylorus,3,3,False
+5_04a78ef00c5245e0_893.jpg,Angiectasia,5,5,False
+2_48579eec79784294_26411.jpg,Reduced mucosal view,2,2,False
+2_8885668afb844852_25733.jpg,Reduced mucosal view,2,2,False
+0_eb0203196e284797_3143.jpg,Normal clean mucosa,0,0,False
+2_dc221ccc65d34010_48769.jpg,Reduced mucosal view,2,2,False
+2_af9bd7d0e43741e3_29632.jpg,Reduced mucosal view,2,2,False
+1_6cb700585c4f4070_26571.jpg,Ileocecal valve,1,1,False
+5_d369e4f163df4aba_26418.jpg,Angiectasia,5,5,False
+2_48579eec79784294_18223.jpg,Reduced mucosal view,2,2,False
+2_dc221ccc65d34010_48694.jpg,Reduced mucosal view,2,2,False
+9_d369e4f163df4aba_13436.jpg,Blood - fresh,9,9,False
+5_64440803f87b4843_18508.jpg,Angiectasia,5,5,False
+2_8885668afb844852_25914.jpg,Reduced mucosal view,2,2,False
+1_dc221ccc65d34010_84284.jpg,Ileocecal valve,1,1,False
+1_131368cc17e44240_30852.jpg,Ileocecal valve,1,1,False
+4_d626f4f4a5ac4785_50651.jpg,Ulcer,4,4,False
+0_4560e83f9afc4685_7122.jpg,Normal clean mucosa,0,0,False
+2_c11b28a8b2344716_81945.jpg,Reduced mucosal view,2,2,False
+1_131368cc17e44240_31276.jpg,Ileocecal valve,1,1,False
+2_48579eec79784294_26396.jpg,Reduced mucosal view,2,2,False
+3_8885668afb844852_4003.jpg,Pylorus,3,3,False
+1_fe5d372e43f94f68_25947.jpg,Ileocecal valve,1,1,False
+9_d369e4f163df4aba_12032.jpg,Blood - fresh,9,9,False
+0_dac1e27f7e4d4ef5_22428.jpg,Normal clean mucosa,0,0,False
+3_8885668afb844852_4001.jpg,Pylorus,3,3,False
+0_dac1e27f7e4d4ef5_7581.jpg,Normal clean mucosa,0,0,False
+3_ed02f27ef36f483e_4478.jpg,Pylorus,3,3,False
+2_c11b28a8b2344716_76437.jpg,Reduced mucosal view,2,2,False
+3_ed02f27ef36f483e_4467.jpg,Pylorus,3,3,False
+2_dc221ccc65d34010_49291.jpg,Reduced mucosal view,2,2,False
+2_c11b28a8b2344716_81898.jpg,Reduced mucosal view,2,3,True
+1_4aebc5cb2d4847aa_28525.jpg,Ileocecal valve,1,1,False
+0_64440803f87b4843_7552.jpg,Normal clean mucosa,0,0,False
+1_fc32def0e7194981_89029.jpg,Ileocecal valve,1,1,False
+1_fc32def0e7194981_88974.jpg,Ileocecal valve,1,1,False
+0_b2134f4a6f864613_10758.jpg,Normal clean mucosa,0,0,False
+2_af9bd7d0e43741e3_29620.jpg,Reduced mucosal view,2,2,False
+1_dc221ccc65d34010_84155.jpg,Ileocecal valve,1,0,True
+2_dc221ccc65d34010_37104.jpg,Reduced mucosal view,2,2,False
+2_af9bd7d0e43741e3_29643.jpg,Reduced mucosal view,2,2,False
+2_48579eec79784294_26429.jpg,Reduced mucosal view,2,2,False
+1_5e9beaf4e66142c8_49321.jpg,Ileocecal valve,1,1,False
+4_d626f4f4a5ac4785_51394.jpg,Ulcer,4,4,False
+2_dc221ccc65d34010_49218.jpg,Reduced mucosal view,2,2,False
+7_64440803f87b4843_17831.jpg,Lymphangiectasia,7,7,False
+4_d626f4f4a5ac4785_51697.jpg,Ulcer,4,5,True
+0_0728084c8da942d9_11001.jpg,Normal clean mucosa,0,0,False
+4_7a47e8eacea04e64_51320.jpg,Ulcer,4,4,False
+0_48579eec79784294_4552.jpg,Normal clean mucosa,0,0,False
+4_2fc3db471f9d44c0_5481.jpg,Ulcer,4,8,True
+4_d626f4f4a5ac4785_48728.jpg,Ulcer,4,8,True
+2_c11b28a8b2344716_76316.jpg,Reduced mucosal view,2,2,False
+1_af9bd7d0e43741e3_30221.jpg,Ileocecal valve,1,1,False
+0_8ebf0e483cac48d6_13101.jpg,Normal clean mucosa,0,9,True
+4_2fc3db471f9d44c0_5510.jpg,Ulcer,4,4,False
+7_7ad22d50ebaf4596_27275.jpg,Lymphangiectasia,7,7,False
+7_04a78ef00c5245e0_12402.jpg,Lymphangiectasia,7,7,False
+0_fb86bc87d3874cd7_10523.jpg,Normal clean mucosa,0,0,False
+3_8ebf0e483cac48d6_2592.jpg,Pylorus,3,3,False
+2_dc221ccc65d34010_49086.jpg,Reduced mucosal view,2,2,False
+5_64440803f87b4843_18432.jpg,Angiectasia,5,5,False
+5_64440803f87b4843_19162.jpg,Angiectasia,5,5,False
+2_8ebf0e483cac48d6_15377.jpg,Reduced mucosal view,2,2,False
+1_dc221ccc65d34010_84309.jpg,Ileocecal valve,1,1,False
+1_04a78ef00c5245e0_48687.jpg,Ileocecal valve,1,1,False
